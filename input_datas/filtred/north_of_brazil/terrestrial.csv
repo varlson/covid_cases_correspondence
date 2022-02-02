@@ -1,0 +1,372 @@
+Cidades,Geocode
+Alta Floresta D'Oeste/RO,1100015.0
+Ariquemes/RO,1100023.0
+Cabixi/RO,1100031.0
+Cacoal/RO,1100049.0
+Cerejeiras/RO,1100056.0
+Colorado do Oeste/RO,1100064.0
+Corumbiara/RO,1100072.0
+Costa Marques/RO,1100080.0
+Espigão D'Oeste/RO,1100098.0
+Guajará-Mirim/RO,1100106.0
+Jaru/RO,1100114.0
+Ji-Paraná/RO,1100122.0
+Machadinho D'Oeste/RO,1100130.0
+Nova Brasilândia D'Oeste/RO,1100148.0
+Ouro Preto do Oeste/RO,1100155.0
+Pimenta Bueno/RO,1100189.0
+Porto Velho/RO,1100205.0
+Presidente Médici/RO,1100254.0
+Rolim de Moura/RO,1100288.0
+Santa Luzia D'Oeste/RO,1100296.0
+Vilhena/RO,1100304.0
+São Miguel do Guaporé/RO,1100320.0
+Nova Mamoré/RO,1100338.0
+Alvorada D'Oeste/RO,1100346.0
+Alto Alegre dos Parecis/RO,1100379.0
+Alto Paraíso/RO,1100403.0
+Buritis/RO,1100452.0
+Novo Horizonte do Oeste/RO,1100502.0
+Cacaulândia/RO,1100601.0
+Campo Novo de Rondônia/RO,1100700.0
+Candeias do Jamari/RO,1100809.0
+Castanheiras/RO,1100908.0
+Chupinguaia/RO,1100924.0
+Cujubim/RO,1100940.0
+Governador Jorge Teixeira/RO,1101005.0
+Itapuã do Oeste/RO,1101104.0
+Ministro Andreazza/RO,1101203.0
+Mirante da Serra/RO,1101302.0
+Monte Negro/RO,1101401.0
+Nova União/RO,1101435.0
+Pimenteiras do Oeste/RO,1101468.0
+Primavera de Rondônia/RO,1101476.0
+São Felipe D'Oeste/RO,1101484.0
+São Francisco do Guaporé/RO,1101492.0
+Seringueiras/RO,1101500.0
+Teixeirópolis/RO,1101559.0
+Theobroma/RO,1101609.0
+Urupá/RO,1101708.0
+Vale do Anari/RO,1101757.0
+Vale do Paraíso/RO,1101807.0
+Acrelândia/AC,1200013.0
+Assis Brasil/AC,1200054.0
+Brasiléia/AC,1200104.0
+Bujari/AC,1200138.0
+Capixaba/AC,1200179.0
+Cruzeiro do Sul/AC,1200203.0
+Feijó/AC,1200302.0
+Mâncio Lima/AC,1200336.0
+Plácido de Castro/AC,1200385.0
+Rio Branco/AC,1200401.0
+Rodrigues Alves/AC,1200427.0
+Senador Guiomard/AC,1200450.0
+Sena Madureira/AC,1200500.0
+Tarauacá/AC,1200609.0
+Xapuri/AC,1200708.0
+Porto Acre/AC,1200807.0
+Apuí/AM,1300144.0
+Boca do Acre/AM,1300706.0
+Careiro/AM,1301100.0
+Guajará/AM,1301654.0
+Humaitá/AM,1301704.0
+Iranduba/AM,1301852.0
+Itacoatiara/AM,1301902.0
+Itapiranga/AM,1302009.0
+Lábrea/AM,1302405.0
+Manacapuru/AM,1302504.0
+Manaquiri/AM,1302553.0
+Manaus/AM,1302603.0
+Manicoré/AM,1302702.0
+Novo Airão/AM,1303205.0
+Novo Aripuanã/AM,1303304.0
+Presidente Figueiredo/AM,1303536.0
+Rio Preto da Eva/AM,1303569.0
+Silves/AM,1304005.0
+Amajari/RR,1400027.0
+Alto Alegre/RR,1400050.0
+Boa Vista/RR,1400100.0
+Bonfim/RR,1400159.0
+Cantá/RR,1400175.0
+Caracaraí/RR,1400209.0
+Caroebe/RR,1400233.0
+Iracema/RR,1400282.0
+Mucajaí/RR,1400308.0
+Normandia/RR,1400407.0
+Pacaraima/RR,1400456.0
+Rorainópolis/RR,1400472.0
+São João da Baliza/RR,1400506.0
+São Luiz/RR,1400605.0
+Abaetetuba/PA,1500107.0
+Abel Figueiredo/PA,1500131.0
+Acará/PA,1500206.0
+Água Azul do Norte/PA,1500347.0
+Alenquer/PA,1500404.0
+Almeirim/PA,1500503.0
+Altamira/PA,1500602.0
+Ananindeua/PA,1500800.0
+Anapu/PA,1500859.0
+Augusto Corrêa/PA,1500909.0
+Aurora do Pará/PA,1500958.0
+Baião/PA,1501204.0
+Bannach/PA,1501253.0
+Barcarena/PA,1501303.0
+Belém/PA,1501402.0
+Belterra/PA,1501451.0
+Benevides/PA,1501501.0
+Bom Jesus do Tocantins/PA,1501576.0
+Bonito/PA,1501600.0
+Bragança/PA,1501709.0
+Brasil Novo/PA,1501725.0
+Brejo Grande do Araguaia/PA,1501758.0
+Breu Branco/PA,1501782.0
+Bujaru/PA,1501907.0
+Cachoeira do Piriá/PA,1501956.0
+Cachoeira do Arari/PA,1502004.0
+Cametá/PA,1502103.0
+Canaã dos Carajás/PA,1502152.0
+Capanema/PA,1502202.0
+Capitão Poço/PA,1502301.0
+Castanhal/PA,1502400.0
+Colares/PA,1502608.0
+Conceição do Araguaia/PA,1502707.0
+Concórdia do Pará/PA,1502756.0
+Cumaru do Norte/PA,1502764.0
+Curionópolis/PA,1502772.0
+Curuá/PA,1502855.0
+Curuçá/PA,1502905.0
+Dom Eliseu/PA,1502939.0
+Eldorado do Carajás/PA,1502954.0
+Floresta do Araguaia/PA,1503044.0
+Garrafão do Norte/PA,1503077.0
+Goianésia do Pará/PA,1503093.0
+Igarapé-Açu/PA,1503200.0
+Igarapé-Miri/PA,1503309.0
+Inhangapi/PA,1503408.0
+Ipixuna do Pará/PA,1503457.0
+Irituia/PA,1503507.0
+Itaituba/PA,1503606.0
+Itupiranga/PA,1503705.0
+Jacareacanga/PA,1503754.0
+Jacundá/PA,1503804.0
+Mãe do Rio/PA,1504059.0
+Magalhães Barata/PA,1504109.0
+Marabá/PA,1504208.0
+Maracanã/PA,1504307.0
+Marapanim/PA,1504406.0
+Marituba/PA,1504422.0
+Medicilândia/PA,1504455.0
+Mocajuba/PA,1504604.0
+Moju/PA,1504703.0
+Mojuí dos Campos/PA,1504752.0
+Monte Alegre/PA,1504802.0
+Nova Esperança do Piriá/PA,1504950.0
+Nova Ipixuna/PA,1504976.0
+Nova Timboteua/PA,1505007.0
+Novo Progresso/PA,1505031.0
+Novo Repartimento/PA,1505064.0
+Óbidos/PA,1505106.0
+Oriximiná/PA,1505304.0
+Ourém/PA,1505403.0
+Ourilândia do Norte/PA,1505437.0
+Pacajá/PA,1505486.0
+Palestina do Pará/PA,1505494.0
+Paragominas/PA,1505502.0
+Parauapebas/PA,1505536.0
+Pau D'Arco/PA,1505551.0
+Peixe-Boi/PA,1505601.0
+Piçarra/PA,1505635.0
+Placas/PA,1505650.0
+Prainha/PA,1506005.0
+Primavera/PA,1506104.0
+Quatipuru/PA,1506112.0
+Redenção/PA,1506138.0
+Rio Maria/PA,1506161.0
+Rondon do Pará/PA,1506187.0
+Rurópolis/PA,1506195.0
+Salinópolis/PA,1506203.0
+Salvaterra/PA,1506302.0
+Santa Bárbara do Pará/PA,1506351.0
+Santa Izabel do Pará/PA,1506500.0
+Santa Luzia do Pará/PA,1506559.0
+Santa Maria das Barreiras/PA,1506583.0
+Santa Maria do Pará/PA,1506609.0
+Santana do Araguaia/PA,1506708.0
+Santarém/PA,1506807.0
+Santarém Novo/PA,1506906.0
+Santo Antônio do Tauá/PA,1507003.0
+São Caetano de Odivelas/PA,1507102.0
+São Domingos do Araguaia/PA,1507151.0
+São Domingos do Capim/PA,1507201.0
+São Félix do Xingu/PA,1507300.0
+São Francisco do Pará/PA,1507409.0
+São Geraldo do Araguaia/PA,1507458.0
+São João da Ponta/PA,1507466.0
+São João de Pirabas/PA,1507474.0
+São João do Araguaia/PA,1507508.0
+São Miguel do Guamá/PA,1507607.0
+Sapucaia/PA,1507755.0
+Senador José Porfírio/PA,1507805.0
+Soure/PA,1507904.0
+Tailândia/PA,1507953.0
+Terra Alta/PA,1507961.0
+Tomé-Açu/PA,1508001.0
+Tracuateua/PA,1508035.0
+Trairão/PA,1508050.0
+Tucumã/PA,1508084.0
+Tucuruí/PA,1508100.0
+Ulianópolis/PA,1508126.0
+Uruará/PA,1508159.0
+Vigia/PA,1508209.0
+Viseu/PA,1508308.0
+Xinguara/PA,1508407.0
+Serra do Navio/AP,1600055.0
+Amapá/AP,1600105.0
+Pedra Branca do Amapari/AP,1600154.0
+Calçoene/AP,1600204.0
+Cutias/AP,1600212.0
+Ferreira Gomes/AP,1600238.0
+Itaubal/AP,1600253.0
+Laranjal do Jari/AP,1600279.0
+Macapá/AP,1600303.0
+Mazagão/AP,1600402.0
+Oiapoque/AP,1600501.0
+Porto Grande/AP,1600535.0
+Pracuúba/AP,1600550.0
+Santana/AP,1600600.0
+Tartarugalzinho/AP,1600709.0
+Vitória do Jari/AP,1600808.0
+Abreulândia/TO,1700251.0
+Aguiarnópolis/TO,1700301.0
+Aliança do Tocantins/TO,1700350.0
+Almas/TO,1700400.0
+Alvorada/TO,1700707.0
+Ananás/TO,1701002.0
+Angico/TO,1701051.0
+Aparecida do Rio Negro/TO,1701101.0
+Aragominas/TO,1701309.0
+Araguacema/TO,1701903.0
+Araguaçu/TO,1702000.0
+Araguaína/TO,1702109.0
+Araguanã/TO,1702158.0
+Araguatins/TO,1702208.0
+Arapoema/TO,1702307.0
+Arraias/TO,1702406.0
+Augustinópolis/TO,1702554.0
+Aurora do Tocantins/TO,1702703.0
+Axixá do Tocantins/TO,1702901.0
+Babaçulândia/TO,1703008.0
+Bandeirantes do Tocantins/TO,1703057.0
+Barra do Ouro/TO,1703073.0
+Barrolândia/TO,1703107.0
+Bernardo Sayão/TO,1703206.0
+Bom Jesus do Tocantins/TO,1703305.0
+Brasilândia do Tocantins/TO,1703602.0
+Brejinho de Nazaré/TO,1703701.0
+Buriti do Tocantins/TO,1703800.0
+Cachoeirinha/TO,1703826.0
+Campos Lindos/TO,1703842.0
+Cariri do Tocantins/TO,1703867.0
+Carmolândia/TO,1703883.0
+Carrasco Bonito/TO,1703891.0
+Caseara/TO,1703909.0
+Centenário/TO,1704105.0
+Chapada de Areia/TO,1704600.0
+Chapada da Natividade/TO,1705102.0
+Colinas do Tocantins/TO,1705508.0
+Combinado/TO,1705557.0
+Conceição do Tocantins/TO,1705607.0
+Couto Magalhães/TO,1706001.0
+Cristalândia/TO,1706100.0
+Crixás do Tocantins/TO,1706258.0
+Darcinópolis/TO,1706506.0
+Dianópolis/TO,1707009.0
+Divinópolis do Tocantins/TO,1707108.0
+Dois Irmãos do Tocantins/TO,1707207.0
+Dueré/TO,1707306.0
+Esperantina/TO,1707405.0
+Fátima/TO,1707553.0
+Figueirópolis/TO,1707652.0
+Filadélfia/TO,1707702.0
+Formoso do Araguaia/TO,1708205.0
+Tabocão/TO,1708254.0
+Goianorte/TO,1708304.0
+Goiatins/TO,1709005.0
+Guaraí/TO,1709302.0
+Gurupi/TO,1709500.0
+Itacajá/TO,1710508.0
+Itaguatins/TO,1710706.0
+Itapiratins/TO,1710904.0
+Itaporã do Tocantins/TO,1711100.0
+Jaú do Tocantins/TO,1711506.0
+Juarina/TO,1711803.0
+Lagoa da Confusão/TO,1711902.0
+Lagoa do Tocantins/TO,1711951.0
+Lajeado/TO,1712009.0
+Lavandeira/TO,1712157.0
+Lizarda/TO,1712405.0
+Luzinópolis/TO,1712454.0
+Marianópolis do Tocantins/TO,1712504.0
+Mateiros/TO,1712702.0
+Maurilândia do Tocantins/TO,1712801.0
+Miracema do Tocantins/TO,1713205.0
+Miranorte/TO,1713304.0
+Monte do Carmo/TO,1713601.0
+Monte Santo do Tocantins/TO,1713700.0
+Palmeiras do Tocantins/TO,1713809.0
+Muricilândia/TO,1713957.0
+Natividade/TO,1714203.0
+Nazaré/TO,1714302.0
+Nova Olinda/TO,1714880.0
+Nova Rosalândia/TO,1715002.0
+Novo Acordo/TO,1715101.0
+Novo Alegre/TO,1715150.0
+Novo Jardim/TO,1715259.0
+Oliveira de Fátima/TO,1715507.0
+Palmeirante/TO,1715705.0
+Palmeirópolis/TO,1715754.0
+Paraíso do Tocantins/TO,1716109.0
+Paranã/TO,1716208.0
+Pau D'Arco/TO,1716307.0
+Pedro Afonso/TO,1716505.0
+Peixe/TO,1716604.0
+Pequizeiro/TO,1716653.0
+Colméia/TO,1716703.0
+Pindorama do Tocantins/TO,1717008.0
+Piraquê/TO,1717206.0
+Pium/TO,1717503.0
+Ponte Alta do Bom Jesus/TO,1717800.0
+Ponte Alta do Tocantins/TO,1717909.0
+Porto Alegre do Tocantins/TO,1718006.0
+Porto Nacional/TO,1718204.0
+Praia Norte/TO,1718303.0
+Presidente Kennedy/TO,1718402.0
+Pugmil/TO,1718451.0
+Recursolândia/TO,1718501.0
+Riachinho/TO,1718550.0
+Rio dos Bois/TO,1718709.0
+Rio Sono/TO,1718758.0
+Sandolândia/TO,1718840.0
+Santa Fé do Araguaia/TO,1718865.0
+Santa Maria do Tocantins/TO,1718881.0
+Santa Rita do Tocantins/TO,1718899.0
+Santa Rosa do Tocantins/TO,1718907.0
+Santa Tereza do Tocantins/TO,1719004.0
+Santa Terezinha do Tocantins/TO,1720002.0
+São Bento do Tocantins/TO,1720101.0
+São Miguel do Tocantins/TO,1720200.0
+São Salvador do Tocantins/TO,1720259.0
+São Sebastião do Tocantins/TO,1720309.0
+São Valério/TO,1720499.0
+Silvanópolis/TO,1720655.0
+Sítio Novo do Tocantins/TO,1720804.0
+Sucupira/TO,1720853.0
+Taguatinga/TO,1720903.0
+Taipas do Tocantins/TO,1720937.0
+Talismã/TO,1720978.0
+Palmas/TO,1721000.0
+Tocantínia/TO,1721109.0
+Tocantinópolis/TO,1721208.0
+Tupiratins/TO,1721307.0
+Wanderlândia/TO,1722081.0
+Xambioá/TO,1722107.0

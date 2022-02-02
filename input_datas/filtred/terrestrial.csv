@@ -1,0 +1,5323 @@
+Cidades,Estados,Geocode
+Alta Floresta D'Oeste/RO,RO,1100015.0
+Ariquemes/RO,RO,1100023.0
+Cabixi/RO,RO,1100031.0
+Cacoal/RO,RO,1100049.0
+Cerejeiras/RO,RO,1100056.0
+Colorado do Oeste/RO,RO,1100064.0
+Corumbiara/RO,RO,1100072.0
+Costa Marques/RO,RO,1100080.0
+Espigão D'Oeste/RO,RO,1100098.0
+Guajará-Mirim/RO,RO,1100106.0
+Jaru/RO,RO,1100114.0
+Ji-Paraná/RO,RO,1100122.0
+Machadinho D'Oeste/RO,RO,1100130.0
+Nova Brasilândia D'Oeste/RO,RO,1100148.0
+Ouro Preto do Oeste/RO,RO,1100155.0
+Pimenta Bueno/RO,RO,1100189.0
+Porto Velho/RO,RO,1100205.0
+Presidente Médici/RO,RO,1100254.0
+Rolim de Moura/RO,RO,1100288.0
+Santa Luzia D'Oeste/RO,RO,1100296.0
+Vilhena/RO,RO,1100304.0
+São Miguel do Guaporé/RO,RO,1100320.0
+Nova Mamoré/RO,RO,1100338.0
+Alvorada D'Oeste/RO,RO,1100346.0
+Alto Alegre dos Parecis/RO,RO,1100379.0
+Alto Paraíso/RO,RO,1100403.0
+Buritis/RO,RO,1100452.0
+Novo Horizonte do Oeste/RO,RO,1100502.0
+Cacaulândia/RO,RO,1100601.0
+Campo Novo de Rondônia/RO,RO,1100700.0
+Candeias do Jamari/RO,RO,1100809.0
+Castanheiras/RO,RO,1100908.0
+Chupinguaia/RO,RO,1100924.0
+Cujubim/RO,RO,1100940.0
+Governador Jorge Teixeira/RO,RO,1101005.0
+Itapuã do Oeste/RO,RO,1101104.0
+Ministro Andreazza/RO,RO,1101203.0
+Mirante da Serra/RO,RO,1101302.0
+Monte Negro/RO,RO,1101401.0
+Nova União/RO,RO,1101435.0
+Pimenteiras do Oeste/RO,RO,1101468.0
+Primavera de Rondônia/RO,RO,1101476.0
+São Felipe D'Oeste/RO,RO,1101484.0
+São Francisco do Guaporé/RO,RO,1101492.0
+Seringueiras/RO,RO,1101500.0
+Teixeirópolis/RO,RO,1101559.0
+Theobroma/RO,RO,1101609.0
+Urupá/RO,RO,1101708.0
+Vale do Anari/RO,RO,1101757.0
+Vale do Paraíso/RO,RO,1101807.0
+Acrelândia/AC,AC,1200013.0
+Assis Brasil/AC,AC,1200054.0
+Brasiléia/AC,AC,1200104.0
+Bujari/AC,AC,1200138.0
+Capixaba/AC,AC,1200179.0
+Cruzeiro do Sul/AC,AC,1200203.0
+Feijó/AC,AC,1200302.0
+Mâncio Lima/AC,AC,1200336.0
+Plácido de Castro/AC,AC,1200385.0
+Rio Branco/AC,AC,1200401.0
+Rodrigues Alves/AC,AC,1200427.0
+Senador Guiomard/AC,AC,1200450.0
+Sena Madureira/AC,AC,1200500.0
+Tarauacá/AC,AC,1200609.0
+Xapuri/AC,AC,1200708.0
+Porto Acre/AC,AC,1200807.0
+Apuí/AM,AM,1300144.0
+Boca do Acre/AM,AM,1300706.0
+Careiro/AM,AM,1301100.0
+Guajará/AM,AM,1301654.0
+Humaitá/AM,AM,1301704.0
+Iranduba/AM,AM,1301852.0
+Itacoatiara/AM,AM,1301902.0
+Itapiranga/AM,AM,1302009.0
+Lábrea/AM,AM,1302405.0
+Manacapuru/AM,AM,1302504.0
+Manaquiri/AM,AM,1302553.0
+Manaus/AM,AM,1302603.0
+Manicoré/AM,AM,1302702.0
+Novo Airão/AM,AM,1303205.0
+Novo Aripuanã/AM,AM,1303304.0
+Presidente Figueiredo/AM,AM,1303536.0
+Rio Preto da Eva/AM,AM,1303569.0
+Silves/AM,AM,1304005.0
+Amajari/RR,RR,1400027.0
+Alto Alegre/RR,RR,1400050.0
+Boa Vista/RR,RR,1400100.0
+Bonfim/RR,RR,1400159.0
+Cantá/RR,RR,1400175.0
+Caracaraí/RR,RR,1400209.0
+Caroebe/RR,RR,1400233.0
+Iracema/RR,RR,1400282.0
+Mucajaí/RR,RR,1400308.0
+Normandia/RR,RR,1400407.0
+Pacaraima/RR,RR,1400456.0
+Rorainópolis/RR,RR,1400472.0
+São João da Baliza/RR,RR,1400506.0
+São Luiz/RR,RR,1400605.0
+Abaetetuba/PA,PA,1500107.0
+Abel Figueiredo/PA,PA,1500131.0
+Acará/PA,PA,1500206.0
+Água Azul do Norte/PA,PA,1500347.0
+Alenquer/PA,PA,1500404.0
+Almeirim/PA,PA,1500503.0
+Altamira/PA,PA,1500602.0
+Ananindeua/PA,PA,1500800.0
+Anapu/PA,PA,1500859.0
+Augusto Corrêa/PA,PA,1500909.0
+Aurora do Pará/PA,PA,1500958.0
+Baião/PA,PA,1501204.0
+Bannach/PA,PA,1501253.0
+Barcarena/PA,PA,1501303.0
+Belém/PA,PA,1501402.0
+Belterra/PA,PA,1501451.0
+Benevides/PA,PA,1501501.0
+Bom Jesus do Tocantins/PA,PA,1501576.0
+Bonito/PA,PA,1501600.0
+Bragança/PA,PA,1501709.0
+Brasil Novo/PA,PA,1501725.0
+Brejo Grande do Araguaia/PA,PA,1501758.0
+Breu Branco/PA,PA,1501782.0
+Bujaru/PA,PA,1501907.0
+Cachoeira do Piriá/PA,PA,1501956.0
+Cachoeira do Arari/PA,PA,1502004.0
+Cametá/PA,PA,1502103.0
+Canaã dos Carajás/PA,PA,1502152.0
+Capanema/PA,PA,1502202.0
+Capitão Poço/PA,PA,1502301.0
+Castanhal/PA,PA,1502400.0
+Colares/PA,PA,1502608.0
+Conceição do Araguaia/PA,PA,1502707.0
+Concórdia do Pará/PA,PA,1502756.0
+Cumaru do Norte/PA,PA,1502764.0
+Curionópolis/PA,PA,1502772.0
+Curuá/PA,PA,1502855.0
+Curuçá/PA,PA,1502905.0
+Dom Eliseu/PA,PA,1502939.0
+Eldorado do Carajás/PA,PA,1502954.0
+Floresta do Araguaia/PA,PA,1503044.0
+Garrafão do Norte/PA,PA,1503077.0
+Goianésia do Pará/PA,PA,1503093.0
+Igarapé-Açu/PA,PA,1503200.0
+Igarapé-Miri/PA,PA,1503309.0
+Inhangapi/PA,PA,1503408.0
+Ipixuna do Pará/PA,PA,1503457.0
+Irituia/PA,PA,1503507.0
+Itaituba/PA,PA,1503606.0
+Itupiranga/PA,PA,1503705.0
+Jacareacanga/PA,PA,1503754.0
+Jacundá/PA,PA,1503804.0
+Mãe do Rio/PA,PA,1504059.0
+Magalhães Barata/PA,PA,1504109.0
+Marabá/PA,PA,1504208.0
+Maracanã/PA,PA,1504307.0
+Marapanim/PA,PA,1504406.0
+Marituba/PA,PA,1504422.0
+Medicilândia/PA,PA,1504455.0
+Mocajuba/PA,PA,1504604.0
+Moju/PA,PA,1504703.0
+Mojuí dos Campos/PA,PA,1504752.0
+Monte Alegre/PA,PA,1504802.0
+Nova Esperança do Piriá/PA,PA,1504950.0
+Nova Ipixuna/PA,PA,1504976.0
+Nova Timboteua/PA,PA,1505007.0
+Novo Progresso/PA,PA,1505031.0
+Novo Repartimento/PA,PA,1505064.0
+Óbidos/PA,PA,1505106.0
+Oriximiná/PA,PA,1505304.0
+Ourém/PA,PA,1505403.0
+Ourilândia do Norte/PA,PA,1505437.0
+Pacajá/PA,PA,1505486.0
+Palestina do Pará/PA,PA,1505494.0
+Paragominas/PA,PA,1505502.0
+Parauapebas/PA,PA,1505536.0
+Pau D'Arco/PA,PA,1505551.0
+Peixe-Boi/PA,PA,1505601.0
+Piçarra/PA,PA,1505635.0
+Placas/PA,PA,1505650.0
+Prainha/PA,PA,1506005.0
+Primavera/PA,PA,1506104.0
+Quatipuru/PA,PA,1506112.0
+Redenção/PA,PA,1506138.0
+Rio Maria/PA,PA,1506161.0
+Rondon do Pará/PA,PA,1506187.0
+Rurópolis/PA,PA,1506195.0
+Salinópolis/PA,PA,1506203.0
+Salvaterra/PA,PA,1506302.0
+Santa Bárbara do Pará/PA,PA,1506351.0
+Santa Izabel do Pará/PA,PA,1506500.0
+Santa Luzia do Pará/PA,PA,1506559.0
+Santa Maria das Barreiras/PA,PA,1506583.0
+Santa Maria do Pará/PA,PA,1506609.0
+Santana do Araguaia/PA,PA,1506708.0
+Santarém/PA,PA,1506807.0
+Santarém Novo/PA,PA,1506906.0
+Santo Antônio do Tauá/PA,PA,1507003.0
+São Caetano de Odivelas/PA,PA,1507102.0
+São Domingos do Araguaia/PA,PA,1507151.0
+São Domingos do Capim/PA,PA,1507201.0
+São Félix do Xingu/PA,PA,1507300.0
+São Francisco do Pará/PA,PA,1507409.0
+São Geraldo do Araguaia/PA,PA,1507458.0
+São João da Ponta/PA,PA,1507466.0
+São João de Pirabas/PA,PA,1507474.0
+São João do Araguaia/PA,PA,1507508.0
+São Miguel do Guamá/PA,PA,1507607.0
+Sapucaia/PA,PA,1507755.0
+Senador José Porfírio/PA,PA,1507805.0
+Soure/PA,PA,1507904.0
+Tailândia/PA,PA,1507953.0
+Terra Alta/PA,PA,1507961.0
+Tomé-Açu/PA,PA,1508001.0
+Tracuateua/PA,PA,1508035.0
+Trairão/PA,PA,1508050.0
+Tucumã/PA,PA,1508084.0
+Tucuruí/PA,PA,1508100.0
+Ulianópolis/PA,PA,1508126.0
+Uruará/PA,PA,1508159.0
+Vigia/PA,PA,1508209.0
+Viseu/PA,PA,1508308.0
+Xinguara/PA,PA,1508407.0
+Serra do Navio/AP,AP,1600055.0
+Amapá/AP,AP,1600105.0
+Pedra Branca do Amapari/AP,AP,1600154.0
+Calçoene/AP,AP,1600204.0
+Cutias/AP,AP,1600212.0
+Ferreira Gomes/AP,AP,1600238.0
+Itaubal/AP,AP,1600253.0
+Laranjal do Jari/AP,AP,1600279.0
+Macapá/AP,AP,1600303.0
+Mazagão/AP,AP,1600402.0
+Oiapoque/AP,AP,1600501.0
+Porto Grande/AP,AP,1600535.0
+Pracuúba/AP,AP,1600550.0
+Santana/AP,AP,1600600.0
+Tartarugalzinho/AP,AP,1600709.0
+Vitória do Jari/AP,AP,1600808.0
+Abreulândia/TO,TO,1700251.0
+Aguiarnópolis/TO,TO,1700301.0
+Aliança do Tocantins/TO,TO,1700350.0
+Almas/TO,TO,1700400.0
+Alvorada/TO,TO,1700707.0
+Ananás/TO,TO,1701002.0
+Angico/TO,TO,1701051.0
+Aparecida do Rio Negro/TO,TO,1701101.0
+Aragominas/TO,TO,1701309.0
+Araguacema/TO,TO,1701903.0
+Araguaçu/TO,TO,1702000.0
+Araguaína/TO,TO,1702109.0
+Araguanã/TO,TO,1702158.0
+Araguatins/TO,TO,1702208.0
+Arapoema/TO,TO,1702307.0
+Arraias/TO,TO,1702406.0
+Augustinópolis/TO,TO,1702554.0
+Aurora do Tocantins/TO,TO,1702703.0
+Axixá do Tocantins/TO,TO,1702901.0
+Babaçulândia/TO,TO,1703008.0
+Bandeirantes do Tocantins/TO,TO,1703057.0
+Barra do Ouro/TO,TO,1703073.0
+Barrolândia/TO,TO,1703107.0
+Bernardo Sayão/TO,TO,1703206.0
+Bom Jesus do Tocantins/TO,TO,1703305.0
+Brasilândia do Tocantins/TO,TO,1703602.0
+Brejinho de Nazaré/TO,TO,1703701.0
+Buriti do Tocantins/TO,TO,1703800.0
+Cachoeirinha/TO,TO,1703826.0
+Campos Lindos/TO,TO,1703842.0
+Cariri do Tocantins/TO,TO,1703867.0
+Carmolândia/TO,TO,1703883.0
+Carrasco Bonito/TO,TO,1703891.0
+Caseara/TO,TO,1703909.0
+Centenário/TO,TO,1704105.0
+Chapada de Areia/TO,TO,1704600.0
+Chapada da Natividade/TO,TO,1705102.0
+Colinas do Tocantins/TO,TO,1705508.0
+Combinado/TO,TO,1705557.0
+Conceição do Tocantins/TO,TO,1705607.0
+Couto Magalhães/TO,TO,1706001.0
+Cristalândia/TO,TO,1706100.0
+Crixás do Tocantins/TO,TO,1706258.0
+Darcinópolis/TO,TO,1706506.0
+Dianópolis/TO,TO,1707009.0
+Divinópolis do Tocantins/TO,TO,1707108.0
+Dois Irmãos do Tocantins/TO,TO,1707207.0
+Dueré/TO,TO,1707306.0
+Esperantina/TO,TO,1707405.0
+Fátima/TO,TO,1707553.0
+Figueirópolis/TO,TO,1707652.0
+Filadélfia/TO,TO,1707702.0
+Formoso do Araguaia/TO,TO,1708205.0
+Tabocão/TO,TO,1708254.0
+Goianorte/TO,TO,1708304.0
+Goiatins/TO,TO,1709005.0
+Guaraí/TO,TO,1709302.0
+Gurupi/TO,TO,1709500.0
+Itacajá/TO,TO,1710508.0
+Itaguatins/TO,TO,1710706.0
+Itapiratins/TO,TO,1710904.0
+Itaporã do Tocantins/TO,TO,1711100.0
+Jaú do Tocantins/TO,TO,1711506.0
+Juarina/TO,TO,1711803.0
+Lagoa da Confusão/TO,TO,1711902.0
+Lagoa do Tocantins/TO,TO,1711951.0
+Lajeado/TO,TO,1712009.0
+Lavandeira/TO,TO,1712157.0
+Lizarda/TO,TO,1712405.0
+Luzinópolis/TO,TO,1712454.0
+Marianópolis do Tocantins/TO,TO,1712504.0
+Mateiros/TO,TO,1712702.0
+Maurilândia do Tocantins/TO,TO,1712801.0
+Miracema do Tocantins/TO,TO,1713205.0
+Miranorte/TO,TO,1713304.0
+Monte do Carmo/TO,TO,1713601.0
+Monte Santo do Tocantins/TO,TO,1713700.0
+Palmeiras do Tocantins/TO,TO,1713809.0
+Muricilândia/TO,TO,1713957.0
+Natividade/TO,TO,1714203.0
+Nazaré/TO,TO,1714302.0
+Nova Olinda/TO,TO,1714880.0
+Nova Rosalândia/TO,TO,1715002.0
+Novo Acordo/TO,TO,1715101.0
+Novo Alegre/TO,TO,1715150.0
+Novo Jardim/TO,TO,1715259.0
+Oliveira de Fátima/TO,TO,1715507.0
+Palmeirante/TO,TO,1715705.0
+Palmeirópolis/TO,TO,1715754.0
+Paraíso do Tocantins/TO,TO,1716109.0
+Paranã/TO,TO,1716208.0
+Pau D'Arco/TO,TO,1716307.0
+Pedro Afonso/TO,TO,1716505.0
+Peixe/TO,TO,1716604.0
+Pequizeiro/TO,TO,1716653.0
+Colméia/TO,TO,1716703.0
+Pindorama do Tocantins/TO,TO,1717008.0
+Piraquê/TO,TO,1717206.0
+Pium/TO,TO,1717503.0
+Ponte Alta do Bom Jesus/TO,TO,1717800.0
+Ponte Alta do Tocantins/TO,TO,1717909.0
+Porto Alegre do Tocantins/TO,TO,1718006.0
+Porto Nacional/TO,TO,1718204.0
+Praia Norte/TO,TO,1718303.0
+Presidente Kennedy/TO,TO,1718402.0
+Pugmil/TO,TO,1718451.0
+Recursolândia/TO,TO,1718501.0
+Riachinho/TO,TO,1718550.0
+Rio dos Bois/TO,TO,1718709.0
+Rio Sono/TO,TO,1718758.0
+Sandolândia/TO,TO,1718840.0
+Santa Fé do Araguaia/TO,TO,1718865.0
+Santa Maria do Tocantins/TO,TO,1718881.0
+Santa Rita do Tocantins/TO,TO,1718899.0
+Santa Rosa do Tocantins/TO,TO,1718907.0
+Santa Tereza do Tocantins/TO,TO,1719004.0
+Santa Terezinha do Tocantins/TO,TO,1720002.0
+São Bento do Tocantins/TO,TO,1720101.0
+São Miguel do Tocantins/TO,TO,1720200.0
+São Salvador do Tocantins/TO,TO,1720259.0
+São Sebastião do Tocantins/TO,TO,1720309.0
+São Valério/TO,TO,1720499.0
+Silvanópolis/TO,TO,1720655.0
+Sítio Novo do Tocantins/TO,TO,1720804.0
+Sucupira/TO,TO,1720853.0
+Taguatinga/TO,TO,1720903.0
+Taipas do Tocantins/TO,TO,1720937.0
+Talismã/TO,TO,1720978.0
+Palmas/TO,TO,1721000.0
+Tocantínia/TO,TO,1721109.0
+Tocantinópolis/TO,TO,1721208.0
+Tupiratins/TO,TO,1721307.0
+Wanderlândia/TO,TO,1722081.0
+Xambioá/TO,TO,1722107.0
+Açailândia/MA,MA,2100055.0
+Afonso Cunha/MA,MA,2100105.0
+Água Doce do Maranhão/MA,MA,2100154.0
+Alcântara/MA,MA,2100204.0
+Aldeias Altas/MA,MA,2100303.0
+Altamira do Maranhão/MA,MA,2100402.0
+Alto Alegre do Maranhão/MA,MA,2100436.0
+Alto Alegre do Pindaré/MA,MA,2100477.0
+Alto Parnaíba/MA,MA,2100501.0
+Amapá do Maranhão/MA,MA,2100550.0
+Amarante do Maranhão/MA,MA,2100600.0
+Anajatuba/MA,MA,2100709.0
+Anapurus/MA,MA,2100808.0
+Apicum-Açu/MA,MA,2100832.0
+Araguanã/MA,MA,2100873.0
+Araioses/MA,MA,2100907.0
+Arame/MA,MA,2100956.0
+Arari/MA,MA,2101004.0
+Axixá/MA,MA,2101103.0
+Bacabal/MA,MA,2101202.0
+Bacabeira/MA,MA,2101251.0
+Bacuri/MA,MA,2101301.0
+Bacurituba/MA,MA,2101350.0
+Balsas/MA,MA,2101400.0
+Barão de Grajaú/MA,MA,2101509.0
+Barra do Corda/MA,MA,2101608.0
+Barreirinhas/MA,MA,2101707.0
+Belágua/MA,MA,2101731.0
+Bela Vista do Maranhão/MA,MA,2101772.0
+Benedito Leite/MA,MA,2101806.0
+Bequimão/MA,MA,2101905.0
+Bernardo do Mearim/MA,MA,2101939.0
+Boa Vista do Gurupi/MA,MA,2101970.0
+Bom Jardim/MA,MA,2102002.0
+Bom Jesus das Selvas/MA,MA,2102036.0
+Bom Lugar/MA,MA,2102077.0
+Brejo/MA,MA,2102101.0
+Brejo de Areia/MA,MA,2102150.0
+Buriti/MA,MA,2102200.0
+Buriti Bravo/MA,MA,2102309.0
+Buriticupu/MA,MA,2102325.0
+Buritirana/MA,MA,2102358.0
+Cachoeira Grande/MA,MA,2102374.0
+Cajapió/MA,MA,2102408.0
+Cajari/MA,MA,2102507.0
+Campestre do Maranhão/MA,MA,2102556.0
+Cândido Mendes/MA,MA,2102606.0
+Cantanhede/MA,MA,2102705.0
+Capinzal do Norte/MA,MA,2102754.0
+Carolina/MA,MA,2102804.0
+Carutapera/MA,MA,2102903.0
+Caxias/MA,MA,2103000.0
+Cedral/MA,MA,2103109.0
+Central do Maranhão/MA,MA,2103125.0
+Centro do Guilherme/MA,MA,2103158.0
+Centro Novo do Maranhão/MA,MA,2103174.0
+Chapadinha/MA,MA,2103208.0
+Cidelândia/MA,MA,2103257.0
+Codó/MA,MA,2103307.0
+Coelho Neto/MA,MA,2103406.0
+Colinas/MA,MA,2103505.0
+Conceição do Lago-Açu/MA,MA,2103554.0
+Coroatá/MA,MA,2103604.0
+Cururupu/MA,MA,2103703.0
+Dom Pedro/MA,MA,2103802.0
+Duque Bacelar/MA,MA,2103901.0
+Esperantinópolis/MA,MA,2104008.0
+Estreito/MA,MA,2104057.0
+Feira Nova do Maranhão/MA,MA,2104073.0
+Fernando Falcão/MA,MA,2104081.0
+Formosa da Serra Negra/MA,MA,2104099.0
+Fortaleza dos Nogueiras/MA,MA,2104107.0
+Fortuna/MA,MA,2104206.0
+Godofredo Viana/MA,MA,2104305.0
+Gonçalves Dias/MA,MA,2104404.0
+Governador Archer/MA,MA,2104503.0
+Governador Edison Lobão/MA,MA,2104552.0
+Governador Eugênio Barros/MA,MA,2104602.0
+Governador Luiz Rocha/MA,MA,2104628.0
+Governador Newton Bello/MA,MA,2104651.0
+Governador Nunes Freire/MA,MA,2104677.0
+Graça Aranha/MA,MA,2104701.0
+Grajaú/MA,MA,2104800.0
+Guimarães/MA,MA,2104909.0
+Humberto de Campos/MA,MA,2105005.0
+Icatu/MA,MA,2105104.0
+Igarapé do Meio/MA,MA,2105153.0
+Igarapé Grande/MA,MA,2105203.0
+Imperatriz/MA,MA,2105302.0
+Itaipava do Grajaú/MA,MA,2105351.0
+Itapecuru Mirim/MA,MA,2105401.0
+Itinga do Maranhão/MA,MA,2105427.0
+Jatobá/MA,MA,2105450.0
+Jenipapo dos Vieiras/MA,MA,2105476.0
+João Lisboa/MA,MA,2105500.0
+Joselândia/MA,MA,2105609.0
+Junco do Maranhão/MA,MA,2105658.0
+Lago da Pedra/MA,MA,2105708.0
+Lago do Junco/MA,MA,2105807.0
+Lago Verde/MA,MA,2105906.0
+Lagoa do Mato/MA,MA,2105922.0
+Lago dos Rodrigues/MA,MA,2105948.0
+Lagoa Grande do Maranhão/MA,MA,2105963.0
+Lajeado Novo/MA,MA,2105989.0
+Lima Campos/MA,MA,2106003.0
+Loreto/MA,MA,2106102.0
+Luís Domingues/MA,MA,2106201.0
+Magalhães de Almeida/MA,MA,2106300.0
+Maracaçumé/MA,MA,2106326.0
+Marajá do Sena/MA,MA,2106359.0
+Maranhãozinho/MA,MA,2106375.0
+Matinha/MA,MA,2106508.0
+Matões/MA,MA,2106607.0
+Matões do Norte/MA,MA,2106631.0
+Milagres do Maranhão/MA,MA,2106672.0
+Mirador/MA,MA,2106706.0
+Miranda do Norte/MA,MA,2106755.0
+Mirinzal/MA,MA,2106805.0
+Monção/MA,MA,2106904.0
+Montes Altos/MA,MA,2107001.0
+Morros/MA,MA,2107100.0
+Nina Rodrigues/MA,MA,2107209.0
+Nova Colinas/MA,MA,2107258.0
+Nova Iorque/MA,MA,2107308.0
+Nova Olinda do Maranhão/MA,MA,2107357.0
+Olho d'Água das Cunhãs/MA,MA,2107407.0
+Olinda Nova do Maranhão/MA,MA,2107456.0
+Palmeirândia/MA,MA,2107605.0
+Paraibano/MA,MA,2107704.0
+Parnarama/MA,MA,2107803.0
+Passagem Franca/MA,MA,2107902.0
+Pastos Bons/MA,MA,2108009.0
+Paulino Neves/MA,MA,2108058.0
+Paulo Ramos/MA,MA,2108108.0
+Pedreiras/MA,MA,2108207.0
+Pedro do Rosário/MA,MA,2108256.0
+Penalva/MA,MA,2108306.0
+Peri Mirim/MA,MA,2108405.0
+Peritoró/MA,MA,2108454.0
+Pindaré-Mirim/MA,MA,2108504.0
+Pinheiro/MA,MA,2108603.0
+Pio XII/MA,MA,2108702.0
+Pirapemas/MA,MA,2108801.0
+Poção de Pedras/MA,MA,2108900.0
+Porto Franco/MA,MA,2109007.0
+Porto Rico do Maranhão/MA,MA,2109056.0
+Presidente Dutra/MA,MA,2109106.0
+Presidente Juscelino/MA,MA,2109205.0
+Presidente Médici/MA,MA,2109239.0
+Presidente Sarney/MA,MA,2109270.0
+Presidente Vargas/MA,MA,2109304.0
+Primeira Cruz/MA,MA,2109403.0
+Riachão/MA,MA,2109502.0
+Ribamar Fiquene/MA,MA,2109551.0
+Rosário/MA,MA,2109601.0
+Sambaíba/MA,MA,2109700.0
+Santa Filomena do Maranhão/MA,MA,2109759.0
+Santa Helena/MA,MA,2109809.0
+Santa Inês/MA,MA,2109908.0
+Santa Luzia/MA,MA,2110005.0
+Santa Luzia do Paruá/MA,MA,2110039.0
+Santa Quitéria do Maranhão/MA,MA,2110104.0
+Santa Rita/MA,MA,2110203.0
+Santo Amaro do Maranhão/MA,MA,2110278.0
+Santo Antônio dos Lopes/MA,MA,2110302.0
+São Benedito do Rio Preto/MA,MA,2110401.0
+São Bento/MA,MA,2110500.0
+São Bernardo/MA,MA,2110609.0
+São Domingos do Azeitão/MA,MA,2110658.0
+São Domingos do Maranhão/MA,MA,2110708.0
+São Félix de Balsas/MA,MA,2110807.0
+São Francisco do Brejão/MA,MA,2110856.0
+São Francisco do Maranhão/MA,MA,2110906.0
+São João Batista/MA,MA,2111003.0
+São João do Paraíso/MA,MA,2111052.0
+São João do Soter/MA,MA,2111078.0
+São João dos Patos/MA,MA,2111102.0
+São José de Ribamar/MA,MA,2111201.0
+São José dos Basílios/MA,MA,2111250.0
+São Luís/MA,MA,2111300.0
+São Luís Gonzaga do Maranhão/MA,MA,2111409.0
+São Mateus do Maranhão/MA,MA,2111508.0
+São Pedro da Água Branca/MA,MA,2111532.0
+São Pedro dos Crentes/MA,MA,2111573.0
+São Raimundo das Mangabeiras/MA,MA,2111607.0
+São Raimundo do Doca Bezerra/MA,MA,2111631.0
+São Roberto/MA,MA,2111672.0
+São Vicente Ferrer/MA,MA,2111706.0
+Satubinha/MA,MA,2111722.0
+Senador Alexandre Costa/MA,MA,2111748.0
+Senador La Rocque/MA,MA,2111763.0
+Serrano do Maranhão/MA,MA,2111789.0
+Sítio Novo/MA,MA,2111805.0
+Sucupira do Norte/MA,MA,2111904.0
+Sucupira do Riachão/MA,MA,2111953.0
+Tasso Fragoso/MA,MA,2112001.0
+Timbiras/MA,MA,2112100.0
+Timon/MA,MA,2112209.0
+Trizidela do Vale/MA,MA,2112233.0
+Tuntum/MA,MA,2112308.0
+Turiaçu/MA,MA,2112407.0
+Turilândia/MA,MA,2112456.0
+Tutóia/MA,MA,2112506.0
+Urbano Santos/MA,MA,2112605.0
+Vargem Grande/MA,MA,2112704.0
+Viana/MA,MA,2112803.0
+Vila Nova dos Martírios/MA,MA,2112852.0
+Vitória do Mearim/MA,MA,2112902.0
+Vitorino Freire/MA,MA,2113009.0
+Zé Doca/MA,MA,2114007.0
+Acauã/PI,PI,2200053.0
+Agricolândia/PI,PI,2200103.0
+Água Branca/PI,PI,2200202.0
+Alagoinha do Piauí/PI,PI,2200251.0
+Alegrete do Piauí/PI,PI,2200277.0
+Alto Longá/PI,PI,2200301.0
+Altos/PI,PI,2200400.0
+Alvorada do Gurguéia/PI,PI,2200459.0
+Amarante/PI,PI,2200509.0
+Angical do Piauí/PI,PI,2200608.0
+Anísio de Abreu/PI,PI,2200707.0
+Antônio Almeida/PI,PI,2200806.0
+Aroazes/PI,PI,2200905.0
+Aroeiras do Itaim/PI,PI,2200954.0
+Arraial/PI,PI,2201002.0
+Assunção do Piauí/PI,PI,2201051.0
+Avelino Lopes/PI,PI,2201101.0
+Baixa Grande do Ribeiro/PI,PI,2201150.0
+Barra D'Alcântara/PI,PI,2201176.0
+Barras/PI,PI,2201200.0
+Barreiras do Piauí/PI,PI,2201309.0
+Barro Duro/PI,PI,2201408.0
+Batalha/PI,PI,2201507.0
+Bela Vista do Piauí/PI,PI,2201556.0
+Belém do Piauí/PI,PI,2201572.0
+Beneditinos/PI,PI,2201606.0
+Bertolínia/PI,PI,2201705.0
+Betânia do Piauí/PI,PI,2201739.0
+Boa Hora/PI,PI,2201770.0
+Bocaina/PI,PI,2201804.0
+Bom Jesus/PI,PI,2201903.0
+Bom Princípio do Piauí/PI,PI,2201919.0
+Bonfim do Piauí/PI,PI,2201929.0
+Boqueirão do Piauí/PI,PI,2201945.0
+Brasileira/PI,PI,2201960.0
+Brejo do Piauí/PI,PI,2201988.0
+Buriti dos Lopes/PI,PI,2202000.0
+Buriti dos Montes/PI,PI,2202026.0
+Cabeceiras do Piauí/PI,PI,2202059.0
+Cajazeiras do Piauí/PI,PI,2202075.0
+Cajueiro da Praia/PI,PI,2202083.0
+Caldeirão Grande do Piauí/PI,PI,2202091.0
+Campinas do Piauí/PI,PI,2202109.0
+Campo Alegre do Fidalgo/PI,PI,2202117.0
+Campo Grande do Piauí/PI,PI,2202133.0
+Campo Largo do Piauí/PI,PI,2202174.0
+Campo Maior/PI,PI,2202208.0
+Canavieira/PI,PI,2202251.0
+Canto do Buriti/PI,PI,2202307.0
+Capitão de Campos/PI,PI,2202406.0
+Capitão Gervásio Oliveira/PI,PI,2202455.0
+Caracol/PI,PI,2202505.0
+Caraúbas do Piauí/PI,PI,2202539.0
+Caridade do Piauí/PI,PI,2202554.0
+Castelo do Piauí/PI,PI,2202604.0
+Caxingó/PI,PI,2202653.0
+Cocal/PI,PI,2202703.0
+Cocal de Telha/PI,PI,2202711.0
+Cocal dos Alves/PI,PI,2202729.0
+Coivaras/PI,PI,2202737.0
+Colônia do Gurguéia/PI,PI,2202752.0
+Colônia do Piauí/PI,PI,2202778.0
+Conceição do Canindé/PI,PI,2202802.0
+Coronel José Dias/PI,PI,2202851.0
+Corrente/PI,PI,2202901.0
+Cristalândia do Piauí/PI,PI,2203008.0
+Cristino Castro/PI,PI,2203107.0
+Curimatá/PI,PI,2203206.0
+Curralinhos/PI,PI,2203255.0
+Curral Novo do Piauí/PI,PI,2203271.0
+Demerval Lobão/PI,PI,2203305.0
+Dirceu Arcoverde/PI,PI,2203354.0
+Dom Expedito Lopes/PI,PI,2203404.0
+Domingos Mourão/PI,PI,2203420.0
+Dom Inocêncio/PI,PI,2203453.0
+Elesbão Veloso/PI,PI,2203503.0
+Eliseu Martins/PI,PI,2203602.0
+Esperantina/PI,PI,2203701.0
+Fartura do Piauí/PI,PI,2203750.0
+Flores do Piauí/PI,PI,2203800.0
+Floresta do Piauí/PI,PI,2203859.0
+Floriano/PI,PI,2203909.0
+Francinópolis/PI,PI,2204006.0
+Francisco Ayres/PI,PI,2204105.0
+Francisco Macedo/PI,PI,2204154.0
+Francisco Santos/PI,PI,2204204.0
+Fronteiras/PI,PI,2204303.0
+Geminiano/PI,PI,2204352.0
+Gilbués/PI,PI,2204402.0
+Guadalupe/PI,PI,2204501.0
+Guaribas/PI,PI,2204550.0
+Hugo Napoleão/PI,PI,2204600.0
+Ilha Grande/PI,PI,2204659.0
+Inhuma/PI,PI,2204709.0
+Ipiranga do Piauí/PI,PI,2204808.0
+Isaías Coelho/PI,PI,2204907.0
+Itainópolis/PI,PI,2205003.0
+Itaueira/PI,PI,2205102.0
+Jacobina do Piauí/PI,PI,2205151.0
+Jaicós/PI,PI,2205201.0
+Jardim do Mulato/PI,PI,2205250.0
+Jatobá do Piauí/PI,PI,2205276.0
+Jerumenha/PI,PI,2205300.0
+João Costa/PI,PI,2205359.0
+Joaquim Pires/PI,PI,2205409.0
+Joca Marques/PI,PI,2205458.0
+José de Freitas/PI,PI,2205508.0
+Juazeiro do Piauí/PI,PI,2205516.0
+Júlio Borges/PI,PI,2205524.0
+Jurema/PI,PI,2205532.0
+Lagoinha do Piauí/PI,PI,2205540.0
+Lagoa Alegre/PI,PI,2205557.0
+Lagoa do Barro do Piauí/PI,PI,2205565.0
+Lagoa de São Francisco/PI,PI,2205573.0
+Lagoa do Piauí/PI,PI,2205581.0
+Lagoa do Sítio/PI,PI,2205599.0
+Landri Sales/PI,PI,2205607.0
+Luís Correia/PI,PI,2205706.0
+Luzilândia/PI,PI,2205805.0
+Madeiro/PI,PI,2205854.0
+Manoel Emídio/PI,PI,2205904.0
+Marcolândia/PI,PI,2205953.0
+Marcos Parente/PI,PI,2206001.0
+Massapê do Piauí/PI,PI,2206050.0
+Matias Olímpio/PI,PI,2206100.0
+Miguel Alves/PI,PI,2206209.0
+Miguel Leão/PI,PI,2206308.0
+Milton Brandão/PI,PI,2206357.0
+Monsenhor Gil/PI,PI,2206407.0
+Monsenhor Hipólito/PI,PI,2206506.0
+Monte Alegre do Piauí/PI,PI,2206605.0
+Morro Cabeça no Tempo/PI,PI,2206654.0
+Morro do Chapéu do Piauí/PI,PI,2206670.0
+Murici dos Portelas/PI,PI,2206696.0
+Nazaré do Piauí/PI,PI,2206704.0
+Nazária/PI,PI,2206720.0
+Nossa Senhora de Nazaré/PI,PI,2206753.0
+Nossa Senhora dos Remédios/PI,PI,2206803.0
+Novo Oriente do Piauí/PI,PI,2206902.0
+Novo Santo Antônio/PI,PI,2206951.0
+Oeiras/PI,PI,2207009.0
+Olho D'Água do Piauí/PI,PI,2207108.0
+Padre Marcos/PI,PI,2207207.0
+Paes Landim/PI,PI,2207306.0
+Pajeú do Piauí/PI,PI,2207355.0
+Palmeira do Piauí/PI,PI,2207405.0
+Palmeirais/PI,PI,2207504.0
+Paquetá/PI,PI,2207553.0
+Parnaguá/PI,PI,2207603.0
+Parnaíba/PI,PI,2207702.0
+Passagem Franca do Piauí/PI,PI,2207751.0
+Patos do Piauí/PI,PI,2207777.0
+Pau D'Arco do Piauí/PI,PI,2207793.0
+Paulistana/PI,PI,2207801.0
+Pedro II/PI,PI,2207900.0
+Pedro Laurentino/PI,PI,2207934.0
+Nova Santa Rita/PI,PI,2207959.0
+Picos/PI,PI,2208007.0
+Pimenteiras/PI,PI,2208106.0
+Pio IX/PI,PI,2208205.0
+Piracuruca/PI,PI,2208304.0
+Piripiri/PI,PI,2208403.0
+Porto/PI,PI,2208502.0
+Porto Alegre do Piauí/PI,PI,2208551.0
+Prata do Piauí/PI,PI,2208601.0
+Queimada Nova/PI,PI,2208650.0
+Redenção do Gurguéia/PI,PI,2208700.0
+Regeneração/PI,PI,2208809.0
+Riacho Frio/PI,PI,2208858.0
+Ribeira do Piauí/PI,PI,2208874.0
+Ribeiro Gonçalves/PI,PI,2208908.0
+Rio Grande do Piauí/PI,PI,2209005.0
+Santa Cruz do Piauí/PI,PI,2209104.0
+Santa Cruz dos Milagres/PI,PI,2209153.0
+Santa Filomena/PI,PI,2209203.0
+Santa Luz/PI,PI,2209302.0
+Santana do Piauí/PI,PI,2209351.0
+Santa Rosa do Piauí/PI,PI,2209377.0
+Santo Antônio de Lisboa/PI,PI,2209401.0
+Santo Antônio dos Milagres/PI,PI,2209450.0
+Santo Inácio do Piauí/PI,PI,2209500.0
+São Braz do Piauí/PI,PI,2209559.0
+São Félix do Piauí/PI,PI,2209609.0
+São Francisco de Assis do Piauí/PI,PI,2209658.0
+São Francisco do Piauí/PI,PI,2209708.0
+São Gonçalo do Gurguéia/PI,PI,2209757.0
+São Gonçalo do Piauí/PI,PI,2209807.0
+São João da Canabrava/PI,PI,2209856.0
+São João da Fronteira/PI,PI,2209872.0
+São João da Serra/PI,PI,2209906.0
+São João da Varjota/PI,PI,2209955.0
+São João do Arraial/PI,PI,2209971.0
+São João do Piauí/PI,PI,2210003.0
+São José do Divino/PI,PI,2210052.0
+São José do Peixe/PI,PI,2210102.0
+São José do Piauí/PI,PI,2210201.0
+São Julião/PI,PI,2210300.0
+São Lourenço do Piauí/PI,PI,2210359.0
+São Luis do Piauí/PI,PI,2210375.0
+São Miguel da Baixa Grande/PI,PI,2210383.0
+São Miguel do Fidalgo/PI,PI,2210391.0
+São Miguel do Tapuio/PI,PI,2210409.0
+São Pedro do Piauí/PI,PI,2210508.0
+São Raimundo Nonato/PI,PI,2210607.0
+Sebastião Barros/PI,PI,2210623.0
+Sebastião Leal/PI,PI,2210631.0
+Sigefredo Pacheco/PI,PI,2210656.0
+Simões/PI,PI,2210706.0
+Simplício Mendes/PI,PI,2210805.0
+Socorro do Piauí/PI,PI,2210904.0
+Sussuapara/PI,PI,2210938.0
+Tamboril do Piauí/PI,PI,2210953.0
+Tanque do Piauí/PI,PI,2210979.0
+Teresina/PI,PI,2211001.0
+União/PI,PI,2211100.0
+Uruçuí/PI,PI,2211209.0
+Valença do Piauí/PI,PI,2211308.0
+Várzea Branca/PI,PI,2211357.0
+Várzea Grande/PI,PI,2211407.0
+Vera Mendes/PI,PI,2211506.0
+Vila Nova do Piauí/PI,PI,2211605.0
+Wall Ferraz/PI,PI,2211704.0
+Abaiara/CE,CE,2300101.0
+Acarape/CE,CE,2300150.0
+Acaraú/CE,CE,2300200.0
+Acopiara/CE,CE,2300309.0
+Aiuaba/CE,CE,2300408.0
+Alcântaras/CE,CE,2300507.0
+Altaneira/CE,CE,2300606.0
+Alto Santo/CE,CE,2300705.0
+Amontada/CE,CE,2300754.0
+Antonina do Norte/CE,CE,2300804.0
+Apuiarés/CE,CE,2300903.0
+Aquiraz/CE,CE,2301000.0
+Aracati/CE,CE,2301109.0
+Aracoiaba/CE,CE,2301208.0
+Ararendá/CE,CE,2301257.0
+Araripe/CE,CE,2301307.0
+Aratuba/CE,CE,2301406.0
+Arneiroz/CE,CE,2301505.0
+Assaré/CE,CE,2301604.0
+Aurora/CE,CE,2301703.0
+Baixio/CE,CE,2301802.0
+Banabuiú/CE,CE,2301851.0
+Barbalha/CE,CE,2301901.0
+Barreira/CE,CE,2301950.0
+Barro/CE,CE,2302008.0
+Barroquinha/CE,CE,2302057.0
+Baturité/CE,CE,2302107.0
+Beberibe/CE,CE,2302206.0
+Bela Cruz/CE,CE,2302305.0
+Boa Viagem/CE,CE,2302404.0
+Brejo Santo/CE,CE,2302503.0
+Camocim/CE,CE,2302602.0
+Campos Sales/CE,CE,2302701.0
+Canindé/CE,CE,2302800.0
+Capistrano/CE,CE,2302909.0
+Caridade/CE,CE,2303006.0
+Cariré/CE,CE,2303105.0
+Caririaçu/CE,CE,2303204.0
+Cariús/CE,CE,2303303.0
+Carnaubal/CE,CE,2303402.0
+Cascavel/CE,CE,2303501.0
+Catarina/CE,CE,2303600.0
+Catunda/CE,CE,2303659.0
+Caucaia/CE,CE,2303709.0
+Cedro/CE,CE,2303808.0
+Chaval/CE,CE,2303907.0
+Choró/CE,CE,2303931.0
+Chorozinho/CE,CE,2303956.0
+Coreaú/CE,CE,2304004.0
+Crateús/CE,CE,2304103.0
+Crato/CE,CE,2304202.0
+Croatá/CE,CE,2304236.0
+Cruz/CE,CE,2304251.0
+Deputado Irapuan Pinheiro/CE,CE,2304269.0
+Ereré/CE,CE,2304277.0
+Eusébio/CE,CE,2304285.0
+Farias Brito/CE,CE,2304301.0
+Forquilha/CE,CE,2304350.0
+Fortaleza/CE,CE,2304400.0
+Fortim/CE,CE,2304459.0
+Frecheirinha/CE,CE,2304509.0
+General Sampaio/CE,CE,2304608.0
+Graça/CE,CE,2304657.0
+Granja/CE,CE,2304707.0
+Granjeiro/CE,CE,2304806.0
+Groaíras/CE,CE,2304905.0
+Guaiúba/CE,CE,2304954.0
+Guaraciaba do Norte/CE,CE,2305001.0
+Guaramiranga/CE,CE,2305100.0
+Hidrolândia/CE,CE,2305209.0
+Horizonte/CE,CE,2305233.0
+Ibaretama/CE,CE,2305266.0
+Ibiapina/CE,CE,2305308.0
+Ibicuitinga/CE,CE,2305332.0
+Icapuí/CE,CE,2305357.0
+Icó/CE,CE,2305407.0
+Iguatu/CE,CE,2305506.0
+Independência/CE,CE,2305605.0
+Ipaporanga/CE,CE,2305654.0
+Ipaumirim/CE,CE,2305704.0
+Ipu/CE,CE,2305803.0
+Ipueiras/CE,CE,2305902.0
+Iracema/CE,CE,2306009.0
+Irauçuba/CE,CE,2306108.0
+Itaiçaba/CE,CE,2306207.0
+Itaitinga/CE,CE,2306256.0
+Itapajé/CE,CE,2306306.0
+Itapipoca/CE,CE,2306405.0
+Itapiúna/CE,CE,2306504.0
+Itarema/CE,CE,2306553.0
+Itatira/CE,CE,2306603.0
+Jaguaretama/CE,CE,2306702.0
+Jaguaribara/CE,CE,2306801.0
+Jaguaribe/CE,CE,2306900.0
+Jaguaruana/CE,CE,2307007.0
+Jardim/CE,CE,2307106.0
+Jati/CE,CE,2307205.0
+Jijoca de Jericoacoara/CE,CE,2307254.0
+Juazeiro do Norte/CE,CE,2307304.0
+Jucás/CE,CE,2307403.0
+Lavras da Mangabeira/CE,CE,2307502.0
+Limoeiro do Norte/CE,CE,2307601.0
+Madalena/CE,CE,2307635.0
+Maracanaú/CE,CE,2307650.0
+Maranguape/CE,CE,2307700.0
+Marco/CE,CE,2307809.0
+Martinópole/CE,CE,2307908.0
+Massapê/CE,CE,2308005.0
+Mauriti/CE,CE,2308104.0
+Meruoca/CE,CE,2308203.0
+Milagres/CE,CE,2308302.0
+Milhã/CE,CE,2308351.0
+Miraíma/CE,CE,2308377.0
+Missão Velha/CE,CE,2308401.0
+Mombaça/CE,CE,2308500.0
+Monsenhor Tabosa/CE,CE,2308609.0
+Morada Nova/CE,CE,2308708.0
+Moraújo/CE,CE,2308807.0
+Morrinhos/CE,CE,2308906.0
+Mucambo/CE,CE,2309003.0
+Mulungu/CE,CE,2309102.0
+Nova Olinda/CE,CE,2309201.0
+Nova Russas/CE,CE,2309300.0
+Novo Oriente/CE,CE,2309409.0
+Ocara/CE,CE,2309458.0
+Orós/CE,CE,2309508.0
+Pacajus/CE,CE,2309607.0
+Pacatuba/CE,CE,2309706.0
+Pacoti/CE,CE,2309805.0
+Pacujá/CE,CE,2309904.0
+Palhano/CE,CE,2310001.0
+Palmácia/CE,CE,2310100.0
+Paracuru/CE,CE,2310209.0
+Paraipaba/CE,CE,2310258.0
+Parambu/CE,CE,2310308.0
+Paramoti/CE,CE,2310407.0
+Pedra Branca/CE,CE,2310506.0
+Penaforte/CE,CE,2310605.0
+Pentecoste/CE,CE,2310704.0
+Pereiro/CE,CE,2310803.0
+Pindoretama/CE,CE,2310852.0
+Piquet Carneiro/CE,CE,2310902.0
+Pires Ferreira/CE,CE,2310951.0
+Poranga/CE,CE,2311009.0
+Porteiras/CE,CE,2311108.0
+Potengi/CE,CE,2311207.0
+Potiretama/CE,CE,2311231.0
+Quiterianópolis/CE,CE,2311264.0
+Quixadá/CE,CE,2311306.0
+Quixelô/CE,CE,2311355.0
+Quixeramobim/CE,CE,2311405.0
+Quixeré/CE,CE,2311504.0
+Redenção/CE,CE,2311603.0
+Reriutaba/CE,CE,2311702.0
+Russas/CE,CE,2311801.0
+Saboeiro/CE,CE,2311900.0
+Salitre/CE,CE,2311959.0
+Santana do Acaraú/CE,CE,2312007.0
+Santana do Cariri/CE,CE,2312106.0
+Santa Quitéria/CE,CE,2312205.0
+São Benedito/CE,CE,2312304.0
+São Gonçalo do Amarante/CE,CE,2312403.0
+São João do Jaguaribe/CE,CE,2312502.0
+São Luís do Curu/CE,CE,2312601.0
+Senador Pompeu/CE,CE,2312700.0
+Senador Sá/CE,CE,2312809.0
+Sobral/CE,CE,2312908.0
+Solonópole/CE,CE,2313005.0
+Tabuleiro do Norte/CE,CE,2313104.0
+Tamboril/CE,CE,2313203.0
+Tarrafas/CE,CE,2313252.0
+Tauá/CE,CE,2313302.0
+Tejuçuoca/CE,CE,2313351.0
+Tianguá/CE,CE,2313401.0
+Trairi/CE,CE,2313500.0
+Tururu/CE,CE,2313559.0
+Ubajara/CE,CE,2313609.0
+Umari/CE,CE,2313708.0
+Umirim/CE,CE,2313757.0
+Uruburetama/CE,CE,2313807.0
+Uruoca/CE,CE,2313906.0
+Varjota/CE,CE,2313955.0
+Várzea Alegre/CE,CE,2314003.0
+Viçosa do Ceará/CE,CE,2314102.0
+Acari/RN,RN,2400109.0
+Açu/RN,RN,2400208.0
+Afonso Bezerra/RN,RN,2400307.0
+Água Nova/RN,RN,2400406.0
+Alexandria/RN,RN,2400505.0
+Almino Afonso/RN,RN,2400604.0
+Alto do Rodrigues/RN,RN,2400703.0
+Angicos/RN,RN,2400802.0
+Antônio Martins/RN,RN,2400901.0
+Apodi/RN,RN,2401008.0
+Areia Branca/RN,RN,2401107.0
+Arês/RN,RN,2401206.0
+Campo Grande/RN,RN,2401305.0
+Baía Formosa/RN,RN,2401404.0
+Baraúna/RN,RN,2401453.0
+Barcelona/RN,RN,2401503.0
+Bento Fernandes/RN,RN,2401602.0
+Bom Jesus/RN,RN,2401701.0
+Brejinho/RN,RN,2401800.0
+Caiçara do Norte/RN,RN,2401859.0
+Caiçara do Rio do Vento/RN,RN,2401909.0
+Caicó/RN,RN,2402006.0
+Campo Redondo/RN,RN,2402105.0
+Canguaretama/RN,RN,2402204.0
+Caraúbas/RN,RN,2402303.0
+Carnaúba dos Dantas/RN,RN,2402402.0
+Ceará-Mirim/RN,RN,2402600.0
+Cerro Corá/RN,RN,2402709.0
+Coronel Ezequiel/RN,RN,2402808.0
+Coronel João Pessoa/RN,RN,2402907.0
+Cruzeta/RN,RN,2403004.0
+Currais Novos/RN,RN,2403103.0
+Doutor Severiano/RN,RN,2403202.0
+Parnamirim/RN,RN,2403251.0
+Encanto/RN,RN,2403301.0
+Equador/RN,RN,2403400.0
+Espírito Santo/RN,RN,2403509.0
+Felipe Guerra/RN,RN,2403707.0
+Fernando Pedroza/RN,RN,2403756.0
+Florânia/RN,RN,2403806.0
+Francisco Dantas/RN,RN,2403905.0
+Frutuoso Gomes/RN,RN,2404002.0
+Galinhos/RN,RN,2404101.0
+Goianinha/RN,RN,2404200.0
+Governador Dix-Sept Rosado/RN,RN,2404309.0
+Grossos/RN,RN,2404408.0
+Guamaré/RN,RN,2404507.0
+Ielmo Marinho/RN,RN,2404606.0
+Ipanguaçu/RN,RN,2404705.0
+Ipueira/RN,RN,2404804.0
+Itajá/RN,RN,2404853.0
+Itaú/RN,RN,2404903.0
+Jaçanã/RN,RN,2405009.0
+Jandaíra/RN,RN,2405108.0
+Janduís/RN,RN,2405207.0
+Jardim de Angicos/RN,RN,2405504.0
+Jardim de Piranhas/RN,RN,2405603.0
+Jardim do Seridó/RN,RN,2405702.0
+João Câmara/RN,RN,2405801.0
+João Dias/RN,RN,2405900.0
+José da Penha/RN,RN,2406007.0
+Jucurutu/RN,RN,2406106.0
+Jundiá/RN,RN,2406155.0
+Lagoa d'Anta/RN,RN,2406205.0
+Lagoa de Pedras/RN,RN,2406304.0
+Lagoa Nova/RN,RN,2406502.0
+Lagoa Salgada/RN,RN,2406601.0
+Lajes/RN,RN,2406700.0
+Lajes Pintadas/RN,RN,2406809.0
+Lucrécia/RN,RN,2406908.0
+Luís Gomes/RN,RN,2407005.0
+Macaíba/RN,RN,2407104.0
+Macau/RN,RN,2407203.0
+Major Sales/RN,RN,2407252.0
+Marcelino Vieira/RN,RN,2407302.0
+Martins/RN,RN,2407401.0
+Maxaranguape/RN,RN,2407500.0
+Messias Targino/RN,RN,2407609.0
+Montanhas/RN,RN,2407708.0
+Monte Alegre/RN,RN,2407807.0
+Monte das Gameleiras/RN,RN,2407906.0
+Mossoró/RN,RN,2408003.0
+Natal/RN,RN,2408102.0
+Nova Cruz/RN,RN,2408300.0
+Olho-d'Água do Borges/RN,RN,2408409.0
+Ouro Branco/RN,RN,2408508.0
+Paraná/RN,RN,2408607.0
+Paraú/RN,RN,2408706.0
+Parazinho/RN,RN,2408805.0
+Parelhas/RN,RN,2408904.0
+Rio do Fogo/RN,RN,2408953.0
+Passa e Fica/RN,RN,2409100.0
+Passagem/RN,RN,2409209.0
+Patu/RN,RN,2409308.0
+Santa Maria/RN,RN,2409332.0
+Pau dos Ferros/RN,RN,2409407.0
+Pedra Grande/RN,RN,2409506.0
+Pedra Preta/RN,RN,2409605.0
+Pedro Avelino/RN,RN,2409704.0
+Pedro Velho/RN,RN,2409803.0
+Pendências/RN,RN,2409902.0
+Pilões/RN,RN,2410009.0
+Poço Branco/RN,RN,2410108.0
+Portalegre/RN,RN,2410207.0
+Porto do Mangue/RN,RN,2410256.0
+Serra Caiada/RN,RN,2410306.0
+Pureza/RN,RN,2410405.0
+Rafael Fernandes/RN,RN,2410504.0
+Rafael Godeiro/RN,RN,2410603.0
+Riacho da Cruz/RN,RN,2410702.0
+Riacho de Santana/RN,RN,2410801.0
+Riachuelo/RN,RN,2410900.0
+Rodolfo Fernandes/RN,RN,2411007.0
+Tibau/RN,RN,2411056.0
+Santa Cruz/RN,RN,2411205.0
+Santana do Matos/RN,RN,2411403.0
+Santana do Seridó/RN,RN,2411429.0
+Santo Antônio/RN,RN,2411502.0
+São Bento do Norte/RN,RN,2411601.0
+São Bento do Trairí/RN,RN,2411700.0
+São Fernando/RN,RN,2411809.0
+São Francisco do Oeste/RN,RN,2411908.0
+São Gonçalo do Amarante/RN,RN,2412005.0
+São João do Sabugi/RN,RN,2412104.0
+São José de Mipibu/RN,RN,2412203.0
+São José do Campestre/RN,RN,2412302.0
+São José do Seridó/RN,RN,2412401.0
+São Miguel/RN,RN,2412500.0
+São Miguel do Gostoso/RN,RN,2412559.0
+São Paulo do Potengi/RN,RN,2412609.0
+São Rafael/RN,RN,2412807.0
+São Tomé/RN,RN,2412906.0
+São Vicente/RN,RN,2413003.0
+Senador Elói de Souza/RN,RN,2413102.0
+Senador Georgino Avelino/RN,RN,2413201.0
+Serra de São Bento/RN,RN,2413300.0
+Serra do Mel/RN,RN,2413359.0
+Serra Negra do Norte/RN,RN,2413409.0
+Serrinha/RN,RN,2413508.0
+Serrinha dos Pintos/RN,RN,2413557.0
+Severiano Melo/RN,RN,2413607.0
+Taboleiro Grande/RN,RN,2413805.0
+Taipu/RN,RN,2413904.0
+Tangará/RN,RN,2414001.0
+Tenente Ananias/RN,RN,2414100.0
+Tenente Laurentino Cruz/RN,RN,2414159.0
+Tibau do Sul/RN,RN,2414209.0
+Timbaúba dos Batistas/RN,RN,2414308.0
+Touros/RN,RN,2414407.0
+Triunfo Potiguar/RN,RN,2414456.0
+Umarizal/RN,RN,2414506.0
+Upanema/RN,RN,2414605.0
+Várzea/RN,RN,2414704.0
+Venha-Ver/RN,RN,2414753.0
+Vera Cruz/RN,RN,2414803.0
+Viçosa/RN,RN,2414902.0
+Água Branca/PB,PB,2500106.0
+Aguiar/PB,PB,2500205.0
+Alagoa Grande/PB,PB,2500304.0
+Alagoa Nova/PB,PB,2500403.0
+Alagoinha/PB,PB,2500502.0
+Alcantil/PB,PB,2500536.0
+Algodão de Jandaíra/PB,PB,2500577.0
+Alhandra/PB,PB,2500601.0
+São João do Rio do Peixe/PB,PB,2500700.0
+Amparo/PB,PB,2500734.0
+Aparecida/PB,PB,2500775.0
+Araçagi/PB,PB,2500809.0
+Arara/PB,PB,2500908.0
+Araruna/PB,PB,2501005.0
+Areia/PB,PB,2501104.0
+Areia de Baraúnas/PB,PB,2501153.0
+Areial/PB,PB,2501203.0
+Aroeiras/PB,PB,2501302.0
+Assunção/PB,PB,2501351.0
+Baía da Traição/PB,PB,2501401.0
+Bananeiras/PB,PB,2501500.0
+Baraúna/PB,PB,2501534.0
+Barra de Santana/PB,PB,2501575.0
+Barra de Santa Rosa/PB,PB,2501609.0
+Barra de São Miguel/PB,PB,2501708.0
+Bayeux/PB,PB,2501807.0
+Belém/PB,PB,2501906.0
+Belém do Brejo do Cruz/PB,PB,2502003.0
+Bernardino Batista/PB,PB,2502052.0
+Boa Ventura/PB,PB,2502102.0
+Boa Vista/PB,PB,2502151.0
+Bom Sucesso/PB,PB,2502300.0
+Bonito de Santa Fé/PB,PB,2502409.0
+Boqueirão/PB,PB,2502508.0
+Igaracy/PB,PB,2502607.0
+Borborema/PB,PB,2502706.0
+Brejo do Cruz/PB,PB,2502805.0
+Brejo dos Santos/PB,PB,2502904.0
+Caaporã/PB,PB,2503001.0
+Cabaceiras/PB,PB,2503100.0
+Cabedelo/PB,PB,2503209.0
+Cachoeira dos Índios/PB,PB,2503308.0
+Cacimba de Areia/PB,PB,2503407.0
+Cacimba de Dentro/PB,PB,2503506.0
+Cacimbas/PB,PB,2503555.0
+Caiçara/PB,PB,2503605.0
+Cajazeiras/PB,PB,2503704.0
+Cajazeirinhas/PB,PB,2503753.0
+Caldas Brandão/PB,PB,2503803.0
+Camalaú/PB,PB,2503902.0
+Campina Grande/PB,PB,2504009.0
+Capim/PB,PB,2504033.0
+Caraúbas/PB,PB,2504074.0
+Carrapateira/PB,PB,2504108.0
+Casserengue/PB,PB,2504157.0
+Catingueira/PB,PB,2504207.0
+Catolé do Rocha/PB,PB,2504306.0
+Caturité/PB,PB,2504355.0
+Conceição/PB,PB,2504405.0
+Condado/PB,PB,2504504.0
+Conde/PB,PB,2504603.0
+Congo/PB,PB,2504702.0
+Coremas/PB,PB,2504801.0
+Coxixola/PB,PB,2504850.0
+Cruz do Espírito Santo/PB,PB,2504900.0
+Cubati/PB,PB,2505006.0
+Cuité/PB,PB,2505105.0
+Cuitegi/PB,PB,2505204.0
+Cuité de Mamanguape/PB,PB,2505238.0
+Curral de Cima/PB,PB,2505279.0
+Curral Velho/PB,PB,2505303.0
+Damião/PB,PB,2505352.0
+Desterro/PB,PB,2505402.0
+Vista Serrana/PB,PB,2505501.0
+Diamante/PB,PB,2505600.0
+Dona Inês/PB,PB,2505709.0
+Duas Estradas/PB,PB,2505808.0
+Emas/PB,PB,2505907.0
+Esperança/PB,PB,2506004.0
+Fagundes/PB,PB,2506103.0
+Frei Martinho/PB,PB,2506202.0
+Gado Bravo/PB,PB,2506251.0
+Guarabira/PB,PB,2506301.0
+Gurinhém/PB,PB,2506400.0
+Gurjão/PB,PB,2506509.0
+Ibiara/PB,PB,2506608.0
+Imaculada/PB,PB,2506707.0
+Ingá/PB,PB,2506806.0
+Itabaiana/PB,PB,2506905.0
+Itaporanga/PB,PB,2507002.0
+Itapororoca/PB,PB,2507101.0
+Itatuba/PB,PB,2507200.0
+Jacaraú/PB,PB,2507309.0
+Jericó/PB,PB,2507408.0
+João Pessoa/PB,PB,2507507.0
+Juarez Távora/PB,PB,2507606.0
+Juazeirinho/PB,PB,2507705.0
+Junco do Seridó/PB,PB,2507804.0
+Juripiranga/PB,PB,2507903.0
+Juru/PB,PB,2508000.0
+Lagoa/PB,PB,2508109.0
+Lagoa de Dentro/PB,PB,2508208.0
+Lagoa Seca/PB,PB,2508307.0
+Lastro/PB,PB,2508406.0
+Livramento/PB,PB,2508505.0
+Logradouro/PB,PB,2508554.0
+Mãe d'Água/PB,PB,2508703.0
+Malta/PB,PB,2508802.0
+Mamanguape/PB,PB,2508901.0
+Manaíra/PB,PB,2509008.0
+Marcação/PB,PB,2509057.0
+Mari/PB,PB,2509107.0
+Marizópolis/PB,PB,2509156.0
+Massaranduba/PB,PB,2509206.0
+Mataraca/PB,PB,2509305.0
+Matinhas/PB,PB,2509339.0
+Mato Grosso/PB,PB,2509370.0
+Maturéia/PB,PB,2509396.0
+Mogeiro/PB,PB,2509404.0
+Montadas/PB,PB,2509503.0
+Monte Horebe/PB,PB,2509602.0
+Monteiro/PB,PB,2509701.0
+Mulungu/PB,PB,2509800.0
+Natuba/PB,PB,2509909.0
+Nazarezinho/PB,PB,2510006.0
+Nova Floresta/PB,PB,2510105.0
+Nova Olinda/PB,PB,2510204.0
+Nova Palmeira/PB,PB,2510303.0
+Olho d'Água/PB,PB,2510402.0
+Olivedos/PB,PB,2510501.0
+Ouro Velho/PB,PB,2510600.0
+Passagem/PB,PB,2510709.0
+Patos/PB,PB,2510808.0
+Paulista/PB,PB,2510907.0
+Pedra Branca/PB,PB,2511004.0
+Pedra Lavrada/PB,PB,2511103.0
+Pedras de Fogo/PB,PB,2511202.0
+Piancó/PB,PB,2511301.0
+Picuí/PB,PB,2511400.0
+Pilar/PB,PB,2511509.0
+Pilões/PB,PB,2511608.0
+Pilõezinhos/PB,PB,2511707.0
+Pirpirituba/PB,PB,2511806.0
+Pitimbu/PB,PB,2511905.0
+Pocinhos/PB,PB,2512002.0
+Poço Dantas/PB,PB,2512036.0
+Poço de José de Moura/PB,PB,2512077.0
+Pombal/PB,PB,2512101.0
+Prata/PB,PB,2512200.0
+Princesa Isabel/PB,PB,2512309.0
+Puxinanã/PB,PB,2512408.0
+Queimadas/PB,PB,2512507.0
+Quixaba/PB,PB,2512606.0
+Remígio/PB,PB,2512705.0
+Pedro Régis/PB,PB,2512721.0
+Riachão do Bacamarte/PB,PB,2512754.0
+Riacho de Santo Antônio/PB,PB,2512788.0
+Riacho dos Cavalos/PB,PB,2512804.0
+Rio Tinto/PB,PB,2512903.0
+Salgadinho/PB,PB,2513000.0
+Salgado de São Félix/PB,PB,2513109.0
+Santa Cecília/PB,PB,2513158.0
+Santa Cruz/PB,PB,2513208.0
+Santa Helena/PB,PB,2513307.0
+Santa Inês/PB,PB,2513356.0
+Santa Luzia/PB,PB,2513406.0
+Santana de Mangueira/PB,PB,2513505.0
+Santana dos Garrotes/PB,PB,2513604.0
+Joca Claudino/PB,PB,2513653.0
+Santa Rita/PB,PB,2513703.0
+Santa Teresinha/PB,PB,2513802.0
+Santo André/PB,PB,2513851.0
+São Bento/PB,PB,2513901.0
+São Bentinho/PB,PB,2513927.0
+São Domingos do Cariri/PB,PB,2513943.0
+São Domingos/PB,PB,2513968.0
+São Francisco/PB,PB,2513984.0
+São João do Cariri/PB,PB,2514008.0
+São João do Tigre/PB,PB,2514107.0
+São José da Lagoa Tapada/PB,PB,2514206.0
+São José de Caiana/PB,PB,2514305.0
+São José de Espinharas/PB,PB,2514404.0
+São José dos Ramos/PB,PB,2514453.0
+São José de Piranhas/PB,PB,2514503.0
+São José de Princesa/PB,PB,2514552.0
+São José do Bonfim/PB,PB,2514602.0
+São José dos Cordeiros/PB,PB,2514800.0
+São Mamede/PB,PB,2514909.0
+São Miguel de Taipu/PB,PB,2515005.0
+São Sebastião de Lagoa de Roça/PB,PB,2515104.0
+São Sebastião do Umbuzeiro/PB,PB,2515203.0
+Sapé/PB,PB,2515302.0
+São Vicente do Seridó/PB,PB,2515401.0
+Serra Branca/PB,PB,2515500.0
+Serra da Raiz/PB,PB,2515609.0
+Serra Grande/PB,PB,2515708.0
+Serra Redonda/PB,PB,2515807.0
+Serraria/PB,PB,2515906.0
+Sertãozinho/PB,PB,2515930.0
+Sobrado/PB,PB,2515971.0
+Solânea/PB,PB,2516003.0
+Soledade/PB,PB,2516102.0
+Sossêgo/PB,PB,2516151.0
+Sousa/PB,PB,2516201.0
+Sumé/PB,PB,2516300.0
+Tacima/PB,PB,2516409.0
+Taperoá/PB,PB,2516508.0
+Tavares/PB,PB,2516607.0
+Teixeira/PB,PB,2516706.0
+Triunfo/PB,PB,2516805.0
+Uiraúna/PB,PB,2516904.0
+Umbuzeiro/PB,PB,2517001.0
+Várzea/PB,PB,2517100.0
+Vieirópolis/PB,PB,2517209.0
+Zabelê/PB,PB,2517407.0
+Abreu e Lima/PE,PE,2600054.0
+Afogados da Ingazeira/PE,PE,2600104.0
+Afrânio/PE,PE,2600203.0
+Agrestina/PE,PE,2600302.0
+Água Preta/PE,PE,2600401.0
+Águas Belas/PE,PE,2600500.0
+Alagoinha/PE,PE,2600609.0
+Aliança/PE,PE,2600708.0
+Altinho/PE,PE,2600807.0
+Amaraji/PE,PE,2600906.0
+Angelim/PE,PE,2601003.0
+Araçoiaba/PE,PE,2601052.0
+Araripina/PE,PE,2601102.0
+Arcoverde/PE,PE,2601201.0
+Barra de Guabiraba/PE,PE,2601300.0
+Barreiros/PE,PE,2601409.0
+Belém de Maria/PE,PE,2601508.0
+Belém do São Francisco/PE,PE,2601607.0
+Belo Jardim/PE,PE,2601706.0
+Betânia/PE,PE,2601805.0
+Bezerros/PE,PE,2601904.0
+Bodocó/PE,PE,2602001.0
+Bom Conselho/PE,PE,2602100.0
+Bom Jardim/PE,PE,2602209.0
+Bonito/PE,PE,2602308.0
+Brejão/PE,PE,2602407.0
+Brejinho/PE,PE,2602506.0
+Brejo da Madre de Deus/PE,PE,2602605.0
+Buenos Aires/PE,PE,2602704.0
+Buíque/PE,PE,2602803.0
+Cabo de Santo Agostinho/PE,PE,2602902.0
+Cabrobó/PE,PE,2603009.0
+Cachoeirinha/PE,PE,2603108.0
+Caetés/PE,PE,2603207.0
+Calçado/PE,PE,2603306.0
+Calumbi/PE,PE,2603405.0
+Camaragibe/PE,PE,2603454.0
+Camocim de São Félix/PE,PE,2603504.0
+Camutanga/PE,PE,2603603.0
+Canhotinho/PE,PE,2603702.0
+Capoeiras/PE,PE,2603801.0
+Carnaíba/PE,PE,2603900.0
+Carnaubeira da Penha/PE,PE,2603926.0
+Carpina/PE,PE,2604007.0
+Caruaru/PE,PE,2604106.0
+Casinhas/PE,PE,2604155.0
+Catende/PE,PE,2604205.0
+Cedro/PE,PE,2604304.0
+Chã de Alegria/PE,PE,2604403.0
+Chã Grande/PE,PE,2604502.0
+Condado/PE,PE,2604601.0
+Correntes/PE,PE,2604700.0
+Cortês/PE,PE,2604809.0
+Cumaru/PE,PE,2604908.0
+Cupira/PE,PE,2605004.0
+Custódia/PE,PE,2605103.0
+Dormentes/PE,PE,2605152.0
+Escada/PE,PE,2605202.0
+Exu/PE,PE,2605301.0
+Feira Nova/PE,PE,2605400.0
+Ferreiros/PE,PE,2605509.0
+Flores/PE,PE,2605608.0
+Floresta/PE,PE,2605707.0
+Frei Miguelinho/PE,PE,2605806.0
+Gameleira/PE,PE,2605905.0
+Garanhuns/PE,PE,2606002.0
+Glória do Goitá/PE,PE,2606101.0
+Goiana/PE,PE,2606200.0
+Granito/PE,PE,2606309.0
+Gravatá/PE,PE,2606408.0
+Iati/PE,PE,2606507.0
+Ibimirim/PE,PE,2606606.0
+Ibirajuba/PE,PE,2606705.0
+Igarassu/PE,PE,2606804.0
+Iguaracy/PE,PE,2606903.0
+Inajá/PE,PE,2607000.0
+Ingazeira/PE,PE,2607109.0
+Ipojuca/PE,PE,2607208.0
+Ipubi/PE,PE,2607307.0
+Itacuruba/PE,PE,2607406.0
+Itaíba/PE,PE,2607505.0
+Itambé/PE,PE,2607653.0
+Itapetim/PE,PE,2607703.0
+Itaquitinga/PE,PE,2607802.0
+Jaboatão dos Guararapes/PE,PE,2607901.0
+Jaqueira/PE,PE,2607950.0
+Jataúba/PE,PE,2608008.0
+Jatobá/PE,PE,2608057.0
+João Alfredo/PE,PE,2608107.0
+Joaquim Nabuco/PE,PE,2608206.0
+Jucati/PE,PE,2608255.0
+Jupi/PE,PE,2608305.0
+Jurema/PE,PE,2608404.0
+Lagoa do Carro/PE,PE,2608453.0
+Lagoa de Itaenga/PE,PE,2608503.0
+Lagoa do Ouro/PE,PE,2608602.0
+Lagoa dos Gatos/PE,PE,2608701.0
+Lagoa Grande/PE,PE,2608750.0
+Lajedo/PE,PE,2608800.0
+Limoeiro/PE,PE,2608909.0
+Macaparana/PE,PE,2609006.0
+Machados/PE,PE,2609105.0
+Manari/PE,PE,2609154.0
+Maraial/PE,PE,2609204.0
+Mirandiba/PE,PE,2609303.0
+Moreno/PE,PE,2609402.0
+Nazaré da Mata/PE,PE,2609501.0
+Orobó/PE,PE,2609709.0
+Orocó/PE,PE,2609808.0
+Ouricuri/PE,PE,2609907.0
+Palmares/PE,PE,2610004.0
+Palmeirina/PE,PE,2610103.0
+Panelas/PE,PE,2610202.0
+Paranatama/PE,PE,2610301.0
+Parnamirim/PE,PE,2610400.0
+Passira/PE,PE,2610509.0
+Paudalho/PE,PE,2610608.0
+Paulista/PE,PE,2610707.0
+Pedra/PE,PE,2610806.0
+Pesqueira/PE,PE,2610905.0
+Petrolândia/PE,PE,2611002.0
+Petrolina/PE,PE,2611101.0
+Poção/PE,PE,2611200.0
+Pombos/PE,PE,2611309.0
+Primavera/PE,PE,2611408.0
+Quipapá/PE,PE,2611507.0
+Quixaba/PE,PE,2611533.0
+Recife/PE,PE,2611606.0
+Riacho das Almas/PE,PE,2611705.0
+Ribeirão/PE,PE,2611804.0
+Rio Formoso/PE,PE,2611903.0
+Sairé/PE,PE,2612000.0
+Salgadinho/PE,PE,2612109.0
+Salgueiro/PE,PE,2612208.0
+Saloá/PE,PE,2612307.0
+Sanharó/PE,PE,2612406.0
+Santa Cruz/PE,PE,2612455.0
+Santa Cruz da Baixa Verde/PE,PE,2612471.0
+Santa Cruz do Capibaribe/PE,PE,2612505.0
+Santa Filomena/PE,PE,2612554.0
+Santa Maria da Boa Vista/PE,PE,2612604.0
+Santa Maria do Cambucá/PE,PE,2612703.0
+Santa Terezinha/PE,PE,2612802.0
+São Benedito do Sul/PE,PE,2612901.0
+São Bento do Una/PE,PE,2613008.0
+São Caitano/PE,PE,2613107.0
+São João/PE,PE,2613206.0
+São Joaquim do Monte/PE,PE,2613305.0
+São José da Coroa Grande/PE,PE,2613404.0
+São José do Belmonte/PE,PE,2613503.0
+São José do Egito/PE,PE,2613602.0
+São Lourenço da Mata/PE,PE,2613701.0
+São Vicente Férrer/PE,PE,2613800.0
+Serra Talhada/PE,PE,2613909.0
+Serrita/PE,PE,2614006.0
+Sertânia/PE,PE,2614105.0
+Sirinhaém/PE,PE,2614204.0
+Moreilândia/PE,PE,2614303.0
+Solidão/PE,PE,2614402.0
+Surubim/PE,PE,2614501.0
+Tabira/PE,PE,2614600.0
+Tacaimbó/PE,PE,2614709.0
+Tacaratu/PE,PE,2614808.0
+Tamandaré/PE,PE,2614857.0
+Taquaritinga do Norte/PE,PE,2615003.0
+Terezinha/PE,PE,2615102.0
+Terra Nova/PE,PE,2615201.0
+Timbaúba/PE,PE,2615300.0
+Toritama/PE,PE,2615409.0
+Tracunhaém/PE,PE,2615508.0
+Trindade/PE,PE,2615607.0
+Triunfo/PE,PE,2615706.0
+Tupanatinga/PE,PE,2615805.0
+Tuparetama/PE,PE,2615904.0
+Venturosa/PE,PE,2616001.0
+Verdejante/PE,PE,2616100.0
+Vertente do Lério/PE,PE,2616183.0
+Vertentes/PE,PE,2616209.0
+Vicência/PE,PE,2616308.0
+Vitória de Santo Antão/PE,PE,2616407.0
+Xexéu/PE,PE,2616506.0
+Água Branca/AL,AL,2700102.0
+Anadia/AL,AL,2700201.0
+Arapiraca/AL,AL,2700300.0
+Atalaia/AL,AL,2700409.0
+Barra de Santo Antônio/AL,AL,2700508.0
+Barra de São Miguel/AL,AL,2700607.0
+Batalha/AL,AL,2700706.0
+Belém/AL,AL,2700805.0
+Belo Monte/AL,AL,2700904.0
+Boca da Mata/AL,AL,2701001.0
+Branquinha/AL,AL,2701100.0
+Cacimbinhas/AL,AL,2701209.0
+Cajueiro/AL,AL,2701308.0
+Campestre/AL,AL,2701357.0
+Campo Alegre/AL,AL,2701407.0
+Campo Grande/AL,AL,2701506.0
+Canapi/AL,AL,2701605.0
+Capela/AL,AL,2701704.0
+Carneiros/AL,AL,2701803.0
+Chã Preta/AL,AL,2701902.0
+Coité do Nóia/AL,AL,2702009.0
+Colônia Leopoldina/AL,AL,2702108.0
+Coqueiro Seco/AL,AL,2702207.0
+Coruripe/AL,AL,2702306.0
+Craíbas/AL,AL,2702355.0
+Delmiro Gouveia/AL,AL,2702405.0
+Dois Riachos/AL,AL,2702504.0
+Estrela de Alagoas/AL,AL,2702553.0
+Feira Grande/AL,AL,2702603.0
+Feliz Deserto/AL,AL,2702702.0
+Flexeiras/AL,AL,2702801.0
+Girau do Ponciano/AL,AL,2702900.0
+Ibateguara/AL,AL,2703007.0
+Igaci/AL,AL,2703106.0
+Igreja Nova/AL,AL,2703205.0
+Inhapi/AL,AL,2703304.0
+Jacaré dos Homens/AL,AL,2703403.0
+Jacuípe/AL,AL,2703502.0
+Japaratinga/AL,AL,2703601.0
+Jaramataia/AL,AL,2703700.0
+Jequiá da Praia/AL,AL,2703759.0
+Joaquim Gomes/AL,AL,2703809.0
+Jundiá/AL,AL,2703908.0
+Junqueiro/AL,AL,2704005.0
+Lagoa da Canoa/AL,AL,2704104.0
+Limoeiro de Anadia/AL,AL,2704203.0
+Maceió/AL,AL,2704302.0
+Major Isidoro/AL,AL,2704401.0
+Maragogi/AL,AL,2704500.0
+Maravilha/AL,AL,2704609.0
+Marechal Deodoro/AL,AL,2704708.0
+Maribondo/AL,AL,2704807.0
+Mar Vermelho/AL,AL,2704906.0
+Mata Grande/AL,AL,2705002.0
+Matriz de Camaragibe/AL,AL,2705101.0
+Messias/AL,AL,2705200.0
+Minador do Negrão/AL,AL,2705309.0
+Monteirópolis/AL,AL,2705408.0
+Murici/AL,AL,2705507.0
+Novo Lino/AL,AL,2705606.0
+Olho d'Água das Flores/AL,AL,2705705.0
+Olho d'Água do Casado/AL,AL,2705804.0
+Olho d'Água Grande/AL,AL,2705903.0
+Olivença/AL,AL,2706000.0
+Ouro Branco/AL,AL,2706109.0
+Palestina/AL,AL,2706208.0
+Palmeira dos Índios/AL,AL,2706307.0
+Pão de Açúcar/AL,AL,2706406.0
+Pariconha/AL,AL,2706422.0
+Paripueira/AL,AL,2706448.0
+Passo de Camaragibe/AL,AL,2706505.0
+Paulo Jacinto/AL,AL,2706604.0
+Penedo/AL,AL,2706703.0
+Piaçabuçu/AL,AL,2706802.0
+Pilar/AL,AL,2706901.0
+Pindoba/AL,AL,2707008.0
+Piranhas/AL,AL,2707107.0
+Poço das Trincheiras/AL,AL,2707206.0
+Porto Calvo/AL,AL,2707305.0
+Porto de Pedras/AL,AL,2707404.0
+Porto Real do Colégio/AL,AL,2707503.0
+Quebrangulo/AL,AL,2707602.0
+Rio Largo/AL,AL,2707701.0
+Roteiro/AL,AL,2707800.0
+Santana do Ipanema/AL,AL,2708006.0
+Santana do Mundaú/AL,AL,2708105.0
+São Brás/AL,AL,2708204.0
+São José da Laje/AL,AL,2708303.0
+São José da Tapera/AL,AL,2708402.0
+São Luís do Quitunde/AL,AL,2708501.0
+São Miguel dos Campos/AL,AL,2708600.0
+São Miguel dos Milagres/AL,AL,2708709.0
+São Sebastião/AL,AL,2708808.0
+Satuba/AL,AL,2708907.0
+Senador Rui Palmeira/AL,AL,2708956.0
+Tanque d'Arca/AL,AL,2709004.0
+Taquarana/AL,AL,2709103.0
+Teotônio Vilela/AL,AL,2709152.0
+Traipu/AL,AL,2709202.0
+União dos Palmares/AL,AL,2709301.0
+Viçosa/AL,AL,2709400.0
+Amparo de São Francisco/SE,SE,2800100.0
+Aquidabã/SE,SE,2800209.0
+Aracaju/SE,SE,2800308.0
+Arauá/SE,SE,2800407.0
+Areia Branca/SE,SE,2800506.0
+Boquim/SE,SE,2800670.0
+Brejo Grande/SE,SE,2800704.0
+Campo do Brito/SE,SE,2801009.0
+Canhoba/SE,SE,2801108.0
+Canindé de São Francisco/SE,SE,2801207.0
+Capela/SE,SE,2801306.0
+Carira/SE,SE,2801405.0
+Carmópolis/SE,SE,2801504.0
+Cedro de São João/SE,SE,2801603.0
+Cristinápolis/SE,SE,2801702.0
+Cumbe/SE,SE,2801900.0
+Divina Pastora/SE,SE,2802007.0
+Estância/SE,SE,2802106.0
+Feira Nova/SE,SE,2802205.0
+Frei Paulo/SE,SE,2802304.0
+Gararu/SE,SE,2802403.0
+General Maynard/SE,SE,2802502.0
+Graccho Cardoso/SE,SE,2802601.0
+Ilha das Flores/SE,SE,2802700.0
+Indiaroba/SE,SE,2802809.0
+Itabaiana/SE,SE,2802908.0
+Itabaianinha/SE,SE,2803005.0
+Itabi/SE,SE,2803104.0
+Itaporanga d'Ajuda/SE,SE,2803203.0
+Japaratuba/SE,SE,2803302.0
+Japoatã/SE,SE,2803401.0
+Lagarto/SE,SE,2803500.0
+Laranjeiras/SE,SE,2803609.0
+Macambira/SE,SE,2803708.0
+Malhada dos Bois/SE,SE,2803807.0
+Malhador/SE,SE,2803906.0
+Maruim/SE,SE,2804003.0
+Moita Bonita/SE,SE,2804102.0
+Monte Alegre de Sergipe/SE,SE,2804201.0
+Muribeca/SE,SE,2804300.0
+Neópolis/SE,SE,2804409.0
+Nossa Senhora Aparecida/SE,SE,2804458.0
+Nossa Senhora da Glória/SE,SE,2804508.0
+Nossa Senhora das Dores/SE,SE,2804607.0
+Nossa Senhora de Lourdes/SE,SE,2804706.0
+Nossa Senhora do Socorro/SE,SE,2804805.0
+Pacatuba/SE,SE,2804904.0
+Pedra Mole/SE,SE,2805000.0
+Pedrinhas/SE,SE,2805109.0
+Pinhão/SE,SE,2805208.0
+Pirambu/SE,SE,2805307.0
+Poço Redondo/SE,SE,2805406.0
+Poço Verde/SE,SE,2805505.0
+Porto da Folha/SE,SE,2805604.0
+Propriá/SE,SE,2805703.0
+Riachão do Dantas/SE,SE,2805802.0
+Riachuelo/SE,SE,2805901.0
+Ribeirópolis/SE,SE,2806008.0
+Rosário do Catete/SE,SE,2806107.0
+Salgado/SE,SE,2806206.0
+Santa Luzia do Itanhy/SE,SE,2806305.0
+Santana do São Francisco/SE,SE,2806404.0
+Santa Rosa de Lima/SE,SE,2806503.0
+Santo Amaro das Brotas/SE,SE,2806602.0
+São Cristóvão/SE,SE,2806701.0
+São Domingos/SE,SE,2806800.0
+São Francisco/SE,SE,2806909.0
+São Miguel do Aleixo/SE,SE,2807006.0
+Simão Dias/SE,SE,2807105.0
+Siriri/SE,SE,2807204.0
+Telha/SE,SE,2807303.0
+Tobias Barreto/SE,SE,2807402.0
+Tomar do Geru/SE,SE,2807501.0
+Umbaúba/SE,SE,2807600.0
+Abaíra/BA,BA,2900108.0
+Abaré/BA,BA,2900207.0
+Acajutiba/BA,BA,2900306.0
+Adustina/BA,BA,2900355.0
+Água Fria/BA,BA,2900405.0
+Érico Cardoso/BA,BA,2900504.0
+Aiquara/BA,BA,2900603.0
+Alagoinhas/BA,BA,2900702.0
+Alcobaça/BA,BA,2900801.0
+Almadina/BA,BA,2900900.0
+Amargosa/BA,BA,2901007.0
+Amélia Rodrigues/BA,BA,2901106.0
+América Dourada/BA,BA,2901155.0
+Anagé/BA,BA,2901205.0
+Andaraí/BA,BA,2901304.0
+Andorinha/BA,BA,2901353.0
+Angical/BA,BA,2901403.0
+Anguera/BA,BA,2901502.0
+Antas/BA,BA,2901601.0
+Antônio Cardoso/BA,BA,2901700.0
+Antônio Gonçalves/BA,BA,2901809.0
+Aporá/BA,BA,2901908.0
+Apuarema/BA,BA,2901957.0
+Aracatu/BA,BA,2902005.0
+Araçás/BA,BA,2902054.0
+Araci/BA,BA,2902104.0
+Aramari/BA,BA,2902203.0
+Arataca/BA,BA,2902252.0
+Aratuípe/BA,BA,2902302.0
+Baianópolis/BA,BA,2902500.0
+Baixa Grande/BA,BA,2902609.0
+Banzaê/BA,BA,2902658.0
+Barra/BA,BA,2902708.0
+Barra da Estiva/BA,BA,2902807.0
+Barra do Choça/BA,BA,2902906.0
+Barra do Mendes/BA,BA,2903003.0
+Barra do Rocha/BA,BA,2903102.0
+Barreiras/BA,BA,2903201.0
+Barro Alto/BA,BA,2903235.0
+Barrocas/BA,BA,2903276.0
+Barro Preto/BA,BA,2903300.0
+Belmonte/BA,BA,2903409.0
+Belo Campo/BA,BA,2903508.0
+Biritinga/BA,BA,2903607.0
+Boa Nova/BA,BA,2903706.0
+Boa Vista do Tupim/BA,BA,2903805.0
+Bom Jesus da Lapa/BA,BA,2903904.0
+Bom Jesus da Serra/BA,BA,2903953.0
+Boninal/BA,BA,2904001.0
+Bonito/BA,BA,2904050.0
+Boquira/BA,BA,2904100.0
+Botuporã/BA,BA,2904209.0
+Brejões/BA,BA,2904308.0
+Brejolândia/BA,BA,2904407.0
+Brotas de Macaúbas/BA,BA,2904506.0
+Brumado/BA,BA,2904605.0
+Buerarema/BA,BA,2904704.0
+Buritirama/BA,BA,2904753.0
+Caatiba/BA,BA,2904803.0
+Cabaceiras do Paraguaçu/BA,BA,2904852.0
+Cachoeira/BA,BA,2904902.0
+Caculé/BA,BA,2905008.0
+Caém/BA,BA,2905107.0
+Caetanos/BA,BA,2905156.0
+Caetité/BA,BA,2905206.0
+Cafarnaum/BA,BA,2905305.0
+Cairu/BA,BA,2905404.0
+Caldeirão Grande/BA,BA,2905503.0
+Camacan/BA,BA,2905602.0
+Camaçari/BA,BA,2905701.0
+Camamu/BA,BA,2905800.0
+Campo Alegre de Lourdes/BA,BA,2905909.0
+Campo Formoso/BA,BA,2906006.0
+Canápolis/BA,BA,2906105.0
+Canarana/BA,BA,2906204.0
+Canavieiras/BA,BA,2906303.0
+Candeal/BA,BA,2906402.0
+Candeias/BA,BA,2906501.0
+Candiba/BA,BA,2906600.0
+Cândido Sales/BA,BA,2906709.0
+Cansanção/BA,BA,2906808.0
+Canudos/BA,BA,2906824.0
+Capela do Alto Alegre/BA,BA,2906857.0
+Capim Grosso/BA,BA,2906873.0
+Caraíbas/BA,BA,2906899.0
+Caravelas/BA,BA,2906907.0
+Cardeal da Silva/BA,BA,2907004.0
+Carinhanha/BA,BA,2907103.0
+Casa Nova/BA,BA,2907202.0
+Castro Alves/BA,BA,2907301.0
+Catolândia/BA,BA,2907400.0
+Catu/BA,BA,2907509.0
+Caturama/BA,BA,2907558.0
+Central/BA,BA,2907608.0
+Chorrochó/BA,BA,2907707.0
+Cícero Dantas/BA,BA,2907806.0
+Cipó/BA,BA,2907905.0
+Coaraci/BA,BA,2908002.0
+Cocos/BA,BA,2908101.0
+Conceição da Feira/BA,BA,2908200.0
+Conceição do Almeida/BA,BA,2908309.0
+Conceição do Coité/BA,BA,2908408.0
+Conceição do Jacuípe/BA,BA,2908507.0
+Conde/BA,BA,2908606.0
+Condeúba/BA,BA,2908705.0
+Contendas do Sincorá/BA,BA,2908804.0
+Coração de Maria/BA,BA,2908903.0
+Cordeiros/BA,BA,2909000.0
+Coribe/BA,BA,2909109.0
+Coronel João Sá/BA,BA,2909208.0
+Correntina/BA,BA,2909307.0
+Cotegipe/BA,BA,2909406.0
+Cravolândia/BA,BA,2909505.0
+Crisópolis/BA,BA,2909604.0
+Cristópolis/BA,BA,2909703.0
+Cruz das Almas/BA,BA,2909802.0
+Curaçá/BA,BA,2909901.0
+Dário Meira/BA,BA,2910008.0
+Dias d'Ávila/BA,BA,2910057.0
+Dom Basílio/BA,BA,2910107.0
+Dom Macedo Costa/BA,BA,2910206.0
+Elísio Medrado/BA,BA,2910305.0
+Encruzilhada/BA,BA,2910404.0
+Entre Rios/BA,BA,2910503.0
+Esplanada/BA,BA,2910602.0
+Euclides da Cunha/BA,BA,2910701.0
+Eunápolis/BA,BA,2910727.0
+Fátima/BA,BA,2910750.0
+Feira da Mata/BA,BA,2910776.0
+Feira de Santana/BA,BA,2910800.0
+Filadélfia/BA,BA,2910859.0
+Firmino Alves/BA,BA,2910909.0
+Floresta Azul/BA,BA,2911006.0
+Formosa do Rio Preto/BA,BA,2911105.0
+Gandu/BA,BA,2911204.0
+Gavião/BA,BA,2911253.0
+Gentio do Ouro/BA,BA,2911303.0
+Glória/BA,BA,2911402.0
+Gongogi/BA,BA,2911501.0
+Governador Mangabeira/BA,BA,2911600.0
+Guajeru/BA,BA,2911659.0
+Guanambi/BA,BA,2911709.0
+Guaratinga/BA,BA,2911808.0
+Heliópolis/BA,BA,2911857.0
+Iaçu/BA,BA,2911907.0
+Ibiassucê/BA,BA,2912004.0
+Ibicaraí/BA,BA,2912103.0
+Ibicoara/BA,BA,2912202.0
+Ibicuí/BA,BA,2912301.0
+Ibipeba/BA,BA,2912400.0
+Ibipitanga/BA,BA,2912509.0
+Ibiquera/BA,BA,2912608.0
+Ibirapitanga/BA,BA,2912707.0
+Ibirapuã/BA,BA,2912806.0
+Ibirataia/BA,BA,2912905.0
+Ibitiara/BA,BA,2913002.0
+Ibititá/BA,BA,2913101.0
+Ibotirama/BA,BA,2913200.0
+Ichu/BA,BA,2913309.0
+Igaporã/BA,BA,2913408.0
+Igrapiúna/BA,BA,2913457.0
+Iguaí/BA,BA,2913507.0
+Ilhéus/BA,BA,2913606.0
+Inhambupe/BA,BA,2913705.0
+Ipecaetá/BA,BA,2913804.0
+Ipiaú/BA,BA,2913903.0
+Ipirá/BA,BA,2914000.0
+Ipupiara/BA,BA,2914109.0
+Irajuba/BA,BA,2914208.0
+Iramaia/BA,BA,2914307.0
+Iraquara/BA,BA,2914406.0
+Irará/BA,BA,2914505.0
+Irecê/BA,BA,2914604.0
+Itabela/BA,BA,2914653.0
+Itaberaba/BA,BA,2914703.0
+Itabuna/BA,BA,2914802.0
+Itacaré/BA,BA,2914901.0
+Itaeté/BA,BA,2915007.0
+Itagi/BA,BA,2915106.0
+Itagibá/BA,BA,2915205.0
+Itagimirim/BA,BA,2915304.0
+Itaguaçu da Bahia/BA,BA,2915353.0
+Itaju do Colônia/BA,BA,2915403.0
+Itajuípe/BA,BA,2915502.0
+Itamaraju/BA,BA,2915601.0
+Itamari/BA,BA,2915700.0
+Itambé/BA,BA,2915809.0
+Itanagra/BA,BA,2915908.0
+Itanhém/BA,BA,2916005.0
+Itaparica/BA,BA,2916104.0
+Itapé/BA,BA,2916203.0
+Itapebi/BA,BA,2916302.0
+Itapetinga/BA,BA,2916401.0
+Itapicuru/BA,BA,2916500.0
+Itapitanga/BA,BA,2916609.0
+Itaquara/BA,BA,2916708.0
+Itarantim/BA,BA,2916807.0
+Itatim/BA,BA,2916856.0
+Itiruçu/BA,BA,2916906.0
+Itiúba/BA,BA,2917003.0
+Itororó/BA,BA,2917102.0
+Ituaçu/BA,BA,2917201.0
+Ituberá/BA,BA,2917300.0
+Iuiu/BA,BA,2917334.0
+Jaborandi/BA,BA,2917359.0
+Jacaraci/BA,BA,2917409.0
+Jacobina/BA,BA,2917508.0
+Jaguaquara/BA,BA,2917607.0
+Jaguarari/BA,BA,2917706.0
+Jaguaripe/BA,BA,2917805.0
+Jandaíra/BA,BA,2917904.0
+Jequié/BA,BA,2918001.0
+Jeremoabo/BA,BA,2918100.0
+Jiquiriçá/BA,BA,2918209.0
+Jitaúna/BA,BA,2918308.0
+João Dourado/BA,BA,2918357.0
+Juazeiro/BA,BA,2918407.0
+Jucuruçu/BA,BA,2918456.0
+Jussara/BA,BA,2918506.0
+Jussari/BA,BA,2918555.0
+Jussiape/BA,BA,2918605.0
+Lafaiete Coutinho/BA,BA,2918704.0
+Lagoa Real/BA,BA,2918753.0
+Laje/BA,BA,2918803.0
+Lajedão/BA,BA,2918902.0
+Lajedinho/BA,BA,2919009.0
+Lajedo do Tabocal/BA,BA,2919058.0
+Lamarão/BA,BA,2919108.0
+Lapão/BA,BA,2919157.0
+Lençóis/BA,BA,2919306.0
+Licínio de Almeida/BA,BA,2919405.0
+Livramento de Nossa Senhora/BA,BA,2919504.0
+Luís Eduardo Magalhães/BA,BA,2919553.0
+Macajuba/BA,BA,2919603.0
+Macarani/BA,BA,2919702.0
+Macaúbas/BA,BA,2919801.0
+Macururé/BA,BA,2919900.0
+Madre de Deus/BA,BA,2919926.0
+Maetinga/BA,BA,2919959.0
+Maiquinique/BA,BA,2920007.0
+Mairi/BA,BA,2920106.0
+Malhada/BA,BA,2920205.0
+Malhada de Pedras/BA,BA,2920304.0
+Manoel Vitorino/BA,BA,2920403.0
+Mansidão/BA,BA,2920452.0
+Maracás/BA,BA,2920502.0
+Maragogipe/BA,BA,2920601.0
+Maraú/BA,BA,2920700.0
+Marcionílio Souza/BA,BA,2920809.0
+Mascote/BA,BA,2920908.0
+Mata de São João/BA,BA,2921005.0
+Matina/BA,BA,2921054.0
+Medeiros Neto/BA,BA,2921104.0
+Miguel Calmon/BA,BA,2921203.0
+Milagres/BA,BA,2921302.0
+Mirangaba/BA,BA,2921401.0
+Mirante/BA,BA,2921450.0
+Monte Santo/BA,BA,2921500.0
+Morpará/BA,BA,2921609.0
+Morro do Chapéu/BA,BA,2921708.0
+Mortugaba/BA,BA,2921807.0
+Mucugê/BA,BA,2921906.0
+Mucuri/BA,BA,2922003.0
+Mulungu do Morro/BA,BA,2922052.0
+Mundo Novo/BA,BA,2922102.0
+Muniz Ferreira/BA,BA,2922201.0
+Muquém do São Francisco/BA,BA,2922250.0
+Muritiba/BA,BA,2922300.0
+Mutuípe/BA,BA,2922409.0
+Nazaré/BA,BA,2922508.0
+Nilo Peçanha/BA,BA,2922607.0
+Nordestina/BA,BA,2922656.0
+Nova Canaã/BA,BA,2922706.0
+Nova Fátima/BA,BA,2922730.0
+Nova Ibiá/BA,BA,2922755.0
+Nova Itarana/BA,BA,2922805.0
+Nova Redenção/BA,BA,2922854.0
+Nova Soure/BA,BA,2922904.0
+Nova Viçosa/BA,BA,2923001.0
+Novo Horizonte/BA,BA,2923035.0
+Novo Triunfo/BA,BA,2923050.0
+Olindina/BA,BA,2923100.0
+Oliveira dos Brejinhos/BA,BA,2923209.0
+Ouriçangas/BA,BA,2923308.0
+Ourolândia/BA,BA,2923357.0
+Palmas de Monte Alto/BA,BA,2923407.0
+Palmeiras/BA,BA,2923506.0
+Paramirim/BA,BA,2923605.0
+Paratinga/BA,BA,2923704.0
+Paripiranga/BA,BA,2923803.0
+Pau Brasil/BA,BA,2923902.0
+Paulo Afonso/BA,BA,2924009.0
+Pé de Serra/BA,BA,2924058.0
+Pedrão/BA,BA,2924108.0
+Pedro Alexandre/BA,BA,2924207.0
+Piatã/BA,BA,2924306.0
+Pilão Arcado/BA,BA,2924405.0
+Pindaí/BA,BA,2924504.0
+Pindobaçu/BA,BA,2924603.0
+Pintadas/BA,BA,2924652.0
+Piraí do Norte/BA,BA,2924678.0
+Piripá/BA,BA,2924702.0
+Piritiba/BA,BA,2924801.0
+Planaltino/BA,BA,2924900.0
+Planalto/BA,BA,2925006.0
+Poções/BA,BA,2925105.0
+Pojuca/BA,BA,2925204.0
+Ponto Novo/BA,BA,2925253.0
+Porto Seguro/BA,BA,2925303.0
+Potiraguá/BA,BA,2925402.0
+Prado/BA,BA,2925501.0
+Presidente Dutra/BA,BA,2925600.0
+Presidente Jânio Quadros/BA,BA,2925709.0
+Presidente Tancredo Neves/BA,BA,2925758.0
+Queimadas/BA,BA,2925808.0
+Quijingue/BA,BA,2925907.0
+Quixabeira/BA,BA,2925931.0
+Rafael Jambeiro/BA,BA,2925956.0
+Remanso/BA,BA,2926004.0
+Retirolândia/BA,BA,2926103.0
+Riachão das Neves/BA,BA,2926202.0
+Riachão do Jacuípe/BA,BA,2926301.0
+Riacho de Santana/BA,BA,2926400.0
+Ribeira do Amparo/BA,BA,2926509.0
+Ribeira do Pombal/BA,BA,2926608.0
+Ribeirão do Largo/BA,BA,2926657.0
+Rio de Contas/BA,BA,2926707.0
+Rio do Antônio/BA,BA,2926806.0
+Rio do Pires/BA,BA,2926905.0
+Rio Real/BA,BA,2927002.0
+Rodelas/BA,BA,2927101.0
+Ruy Barbosa/BA,BA,2927200.0
+Salinas da Margarida/BA,BA,2927309.0
+Salvador/BA,BA,2927408.0
+Santa Bárbara/BA,BA,2927507.0
+Santa Brígida/BA,BA,2927606.0
+Santa Cruz Cabrália/BA,BA,2927705.0
+Santa Cruz da Vitória/BA,BA,2927804.0
+Santa Inês/BA,BA,2927903.0
+Santaluz/BA,BA,2928000.0
+Santa Luzia/BA,BA,2928059.0
+Santa Maria da Vitória/BA,BA,2928109.0
+Santana/BA,BA,2928208.0
+Santanópolis/BA,BA,2928307.0
+Santa Rita de Cássia/BA,BA,2928406.0
+Santa Teresinha/BA,BA,2928505.0
+Santo Amaro/BA,BA,2928604.0
+Santo Antônio de Jesus/BA,BA,2928703.0
+Santo Estêvão/BA,BA,2928802.0
+São Desidério/BA,BA,2928901.0
+São Domingos/BA,BA,2928950.0
+São Félix/BA,BA,2929008.0
+São Félix do Coribe/BA,BA,2929057.0
+São Felipe/BA,BA,2929107.0
+São Francisco do Conde/BA,BA,2929206.0
+São Gabriel/BA,BA,2929255.0
+São Gonçalo dos Campos/BA,BA,2929305.0
+São José da Vitória/BA,BA,2929354.0
+São José do Jacuípe/BA,BA,2929370.0
+São Miguel das Matas/BA,BA,2929404.0
+São Sebastião do Passé/BA,BA,2929503.0
+Sapeaçu/BA,BA,2929602.0
+Sátiro Dias/BA,BA,2929701.0
+Saubara/BA,BA,2929750.0
+Saúde/BA,BA,2929800.0
+Seabra/BA,BA,2929909.0
+Sebastião Laranjeiras/BA,BA,2930006.0
+Senhor do Bonfim/BA,BA,2930105.0
+Serra do Ramalho/BA,BA,2930154.0
+Sento Sé/BA,BA,2930204.0
+Serra Dourada/BA,BA,2930303.0
+Serra Preta/BA,BA,2930402.0
+Serrinha/BA,BA,2930501.0
+Serrolândia/BA,BA,2930600.0
+Simões Filho/BA,BA,2930709.0
+Sítio do Mato/BA,BA,2930758.0
+Sítio do Quinto/BA,BA,2930766.0
+Sobradinho/BA,BA,2930774.0
+Souto Soares/BA,BA,2930808.0
+Tabocas do Brejo Velho/BA,BA,2930907.0
+Tanhaçu/BA,BA,2931004.0
+Tanque Novo/BA,BA,2931053.0
+Tanquinho/BA,BA,2931103.0
+Taperoá/BA,BA,2931202.0
+Tapiramutá/BA,BA,2931301.0
+Teixeira de Freitas/BA,BA,2931350.0
+Teodoro Sampaio/BA,BA,2931400.0
+Teofilândia/BA,BA,2931509.0
+Teolândia/BA,BA,2931608.0
+Terra Nova/BA,BA,2931707.0
+Tremedal/BA,BA,2931806.0
+Tucano/BA,BA,2931905.0
+Uauá/BA,BA,2932002.0
+Ubaíra/BA,BA,2932101.0
+Ubaitaba/BA,BA,2932200.0
+Ubatã/BA,BA,2932309.0
+Uibaí/BA,BA,2932408.0
+Umburanas/BA,BA,2932457.0
+Una/BA,BA,2932507.0
+Urandi/BA,BA,2932606.0
+Uruçuca/BA,BA,2932705.0
+Utinga/BA,BA,2932804.0
+Valença/BA,BA,2932903.0
+Valente/BA,BA,2933000.0
+Várzea da Roça/BA,BA,2933059.0
+Várzea do Poço/BA,BA,2933109.0
+Várzea Nova/BA,BA,2933158.0
+Varzedo/BA,BA,2933174.0
+Vereda/BA,BA,2933257.0
+Vitória da Conquista/BA,BA,2933307.0
+Wagner/BA,BA,2933406.0
+Wanderley/BA,BA,2933455.0
+Wenceslau Guimarães/BA,BA,2933505.0
+Xique-Xique/BA,BA,2933604.0
+Abadia dos Dourados/MG,MG,3100104.0
+Abaeté/MG,MG,3100203.0
+Abre Campo/MG,MG,3100302.0
+Acaiaca/MG,MG,3100401.0
+Açucena/MG,MG,3100500.0
+Água Boa/MG,MG,3100609.0
+Água Comprida/MG,MG,3100708.0
+Aguanil/MG,MG,3100807.0
+Águas Formosas/MG,MG,3100906.0
+Águas Vermelhas/MG,MG,3101003.0
+Aimorés/MG,MG,3101102.0
+Aiuruoca/MG,MG,3101201.0
+Alagoa/MG,MG,3101300.0
+Além Paraíba/MG,MG,3101508.0
+Alfenas/MG,MG,3101607.0
+Alfredo Vasconcelos/MG,MG,3101631.0
+Almenara/MG,MG,3101706.0
+Alpercata/MG,MG,3101805.0
+Alpinópolis/MG,MG,3101904.0
+Alterosa/MG,MG,3102001.0
+Alto Caparaó/MG,MG,3102050.0
+Alto Rio Doce/MG,MG,3102100.0
+Alvarenga/MG,MG,3102209.0
+Alvinópolis/MG,MG,3102308.0
+Alvorada de Minas/MG,MG,3102407.0
+Amparo do Serra/MG,MG,3102506.0
+Andradas/MG,MG,3102605.0
+Andrelândia/MG,MG,3102803.0
+Angelândia/MG,MG,3102852.0
+Antônio Carlos/MG,MG,3102902.0
+Antônio Dias/MG,MG,3103009.0
+Antônio Prado de Minas/MG,MG,3103108.0
+Araçaí/MG,MG,3103207.0
+Aracitaba/MG,MG,3103306.0
+Araçuaí/MG,MG,3103405.0
+Araguari/MG,MG,3103504.0
+Arantina/MG,MG,3103603.0
+Araponga/MG,MG,3103702.0
+Araporã/MG,MG,3103751.0
+Arapuá/MG,MG,3103801.0
+Araújos/MG,MG,3103900.0
+Araxá/MG,MG,3104007.0
+Arceburgo/MG,MG,3104106.0
+Arcos/MG,MG,3104205.0
+Areado/MG,MG,3104304.0
+Argirita/MG,MG,3104403.0
+Aricanduva/MG,MG,3104452.0
+Arinos/MG,MG,3104502.0
+Astolfo Dutra/MG,MG,3104601.0
+Ataléia/MG,MG,3104700.0
+Augusto de Lima/MG,MG,3104809.0
+Baependi/MG,MG,3104908.0
+Baldim/MG,MG,3105004.0
+Bambuí/MG,MG,3105103.0
+Bandeira/MG,MG,3105202.0
+Bandeira do Sul/MG,MG,3105301.0
+Barão de Cocais/MG,MG,3105400.0
+Barão de Monte Alto/MG,MG,3105509.0
+Barbacena/MG,MG,3105608.0
+Barra Longa/MG,MG,3105707.0
+Barroso/MG,MG,3105905.0
+Bela Vista de Minas/MG,MG,3106002.0
+Belmiro Braga/MG,MG,3106101.0
+Belo Horizonte/MG,MG,3106200.0
+Belo Oriente/MG,MG,3106309.0
+Belo Vale/MG,MG,3106408.0
+Berilo/MG,MG,3106507.0
+Bertópolis/MG,MG,3106606.0
+Berizal/MG,MG,3106655.0
+Betim/MG,MG,3106705.0
+Bias Fortes/MG,MG,3106804.0
+Bicas/MG,MG,3106903.0
+Biquinhas/MG,MG,3107000.0
+Boa Esperança/MG,MG,3107109.0
+Bocaiúva/MG,MG,3107307.0
+Bom Despacho/MG,MG,3107406.0
+Bom Jardim de Minas/MG,MG,3107505.0
+Bom Jesus da Penha/MG,MG,3107604.0
+Bom Jesus do Amparo/MG,MG,3107703.0
+Bom Jesus do Galho/MG,MG,3107802.0
+Bom Repouso/MG,MG,3107901.0
+Bom Sucesso/MG,MG,3108008.0
+Bonfim/MG,MG,3108107.0
+Bonfinópolis de Minas/MG,MG,3108206.0
+Bonito de Minas/MG,MG,3108255.0
+Borda da Mata/MG,MG,3108305.0
+Botelhos/MG,MG,3108404.0
+Botumirim/MG,MG,3108503.0
+Brasilândia de Minas/MG,MG,3108552.0
+Brasília de Minas/MG,MG,3108602.0
+Brás Pires/MG,MG,3108701.0
+Braúnas/MG,MG,3108800.0
+Brazópolis/MG,MG,3108909.0
+Brumadinho/MG,MG,3109006.0
+Bueno Brandão/MG,MG,3109105.0
+Buenópolis/MG,MG,3109204.0
+Bugre/MG,MG,3109253.0
+Buritis/MG,MG,3109303.0
+Buritizeiro/MG,MG,3109402.0
+Cabeceira Grande/MG,MG,3109451.0
+Cabo Verde/MG,MG,3109501.0
+Cachoeira da Prata/MG,MG,3109600.0
+Cachoeira de Minas/MG,MG,3109709.0
+Cachoeira Dourada/MG,MG,3109808.0
+Caetanópolis/MG,MG,3109907.0
+Caeté/MG,MG,3110004.0
+Caiana/MG,MG,3110103.0
+Cajuri/MG,MG,3110202.0
+Caldas/MG,MG,3110301.0
+Camacho/MG,MG,3110400.0
+Camanducaia/MG,MG,3110509.0
+Cambuí/MG,MG,3110608.0
+Cambuquira/MG,MG,3110707.0
+Campanário/MG,MG,3110806.0
+Campanha/MG,MG,3110905.0
+Campestre/MG,MG,3111002.0
+Campina Verde/MG,MG,3111101.0
+Campo Belo/MG,MG,3111200.0
+Campo do Meio/MG,MG,3111309.0
+Campo Florido/MG,MG,3111408.0
+Campos Altos/MG,MG,3111507.0
+Campos Gerais/MG,MG,3111606.0
+Canaã/MG,MG,3111705.0
+Canápolis/MG,MG,3111804.0
+Cana Verde/MG,MG,3111903.0
+Candeias/MG,MG,3112000.0
+Cantagalo/MG,MG,3112059.0
+Caparaó/MG,MG,3112109.0
+Capela Nova/MG,MG,3112208.0
+Capelinha/MG,MG,3112307.0
+Capetinga/MG,MG,3112406.0
+Capim Branco/MG,MG,3112505.0
+Capinópolis/MG,MG,3112604.0
+Capitão Andrade/MG,MG,3112653.0
+Capitão Enéas/MG,MG,3112703.0
+Capitólio/MG,MG,3112802.0
+Caputira/MG,MG,3112901.0
+Caraí/MG,MG,3113008.0
+Caranaíba/MG,MG,3113107.0
+Carandaí/MG,MG,3113206.0
+Carangola/MG,MG,3113305.0
+Caratinga/MG,MG,3113404.0
+Carbonita/MG,MG,3113503.0
+Careaçu/MG,MG,3113602.0
+Carlos Chagas/MG,MG,3113701.0
+Carmésia/MG,MG,3113800.0
+Carmo da Cachoeira/MG,MG,3113909.0
+Carmo da Mata/MG,MG,3114006.0
+Carmo de Minas/MG,MG,3114105.0
+Carmo do Cajuru/MG,MG,3114204.0
+Carmo do Paranaíba/MG,MG,3114303.0
+Carmo do Rio Claro/MG,MG,3114402.0
+Carmópolis de Minas/MG,MG,3114501.0
+Carneirinho/MG,MG,3114550.0
+Carrancas/MG,MG,3114600.0
+Carvalhópolis/MG,MG,3114709.0
+Carvalhos/MG,MG,3114808.0
+Casa Grande/MG,MG,3114907.0
+Cascalho Rico/MG,MG,3115003.0
+Cássia/MG,MG,3115102.0
+Conceição da Barra de Minas/MG,MG,3115201.0
+Cataguases/MG,MG,3115300.0
+Catas Altas/MG,MG,3115359.0
+Catas Altas da Noruega/MG,MG,3115409.0
+Catuji/MG,MG,3115458.0
+Catuti/MG,MG,3115474.0
+Caxambu/MG,MG,3115508.0
+Central de Minas/MG,MG,3115706.0
+Centralina/MG,MG,3115805.0
+Chácara/MG,MG,3115904.0
+Chalé/MG,MG,3116001.0
+Chapada do Norte/MG,MG,3116100.0
+Chapada Gaúcha/MG,MG,3116159.0
+Chiador/MG,MG,3116209.0
+Cipotânea/MG,MG,3116308.0
+Claraval/MG,MG,3116407.0
+Claro dos Poções/MG,MG,3116506.0
+Cláudio/MG,MG,3116605.0
+Coimbra/MG,MG,3116704.0
+Coluna/MG,MG,3116803.0
+Comendador Gomes/MG,MG,3116902.0
+Comercinho/MG,MG,3117009.0
+Conceição da Aparecida/MG,MG,3117108.0
+Conceição das Pedras/MG,MG,3117207.0
+Conceição das Alagoas/MG,MG,3117306.0
+Conceição de Ipanema/MG,MG,3117405.0
+Conceição do Mato Dentro/MG,MG,3117504.0
+Conceição do Pará/MG,MG,3117603.0
+Conceição do Rio Verde/MG,MG,3117702.0
+Conceição dos Ouros/MG,MG,3117801.0
+Cônego Marinho/MG,MG,3117836.0
+Confins/MG,MG,3117876.0
+Congonhal/MG,MG,3117900.0
+Congonhas/MG,MG,3118007.0
+Congonhas do Norte/MG,MG,3118106.0
+Conquista/MG,MG,3118205.0
+Conselheiro Lafaiete/MG,MG,3118304.0
+Conselheiro Pena/MG,MG,3118403.0
+Consolação/MG,MG,3118502.0
+Contagem/MG,MG,3118601.0
+Coqueiral/MG,MG,3118700.0
+Coração de Jesus/MG,MG,3118809.0
+Cordisburgo/MG,MG,3118908.0
+Cordislândia/MG,MG,3119005.0
+Corinto/MG,MG,3119104.0
+Coroaci/MG,MG,3119203.0
+Coromandel/MG,MG,3119302.0
+Coronel Fabriciano/MG,MG,3119401.0
+Coronel Murta/MG,MG,3119500.0
+Coronel Pacheco/MG,MG,3119609.0
+Coronel Xavier Chaves/MG,MG,3119708.0
+Córrego Danta/MG,MG,3119807.0
+Córrego do Bom Jesus/MG,MG,3119906.0
+Córrego Fundo/MG,MG,3119955.0
+Córrego Novo/MG,MG,3120003.0
+Couto de Magalhães de Minas/MG,MG,3120102.0
+Crisólita/MG,MG,3120151.0
+Cristais/MG,MG,3120201.0
+Cristália/MG,MG,3120300.0
+Cristiano Otoni/MG,MG,3120409.0
+Cristina/MG,MG,3120508.0
+Crucilândia/MG,MG,3120607.0
+Cruzeiro da Fortaleza/MG,MG,3120706.0
+Cruzília/MG,MG,3120805.0
+Cuparaque/MG,MG,3120839.0
+Curral de Dentro/MG,MG,3120870.0
+Curvelo/MG,MG,3120904.0
+Datas/MG,MG,3121001.0
+Delfim Moreira/MG,MG,3121100.0
+Delfinópolis/MG,MG,3121209.0
+Delta/MG,MG,3121258.0
+Descoberto/MG,MG,3121308.0
+Desterro de Entre Rios/MG,MG,3121407.0
+Desterro do Melo/MG,MG,3121506.0
+Diamantina/MG,MG,3121605.0
+Dionísio/MG,MG,3121803.0
+Divinésia/MG,MG,3121902.0
+Divino/MG,MG,3122009.0
+Divino das Laranjeiras/MG,MG,3122108.0
+Divinolândia de Minas/MG,MG,3122207.0
+Divinópolis/MG,MG,3122306.0
+Divisa Alegre/MG,MG,3122355.0
+Divisa Nova/MG,MG,3122405.0
+Divisópolis/MG,MG,3122454.0
+Dom Cavati/MG,MG,3122504.0
+Dom Joaquim/MG,MG,3122603.0
+Dom Silvério/MG,MG,3122702.0
+Dom Viçoso/MG,MG,3122801.0
+Dona Euzébia/MG,MG,3122900.0
+Dores de Campos/MG,MG,3123007.0
+Dores de Guanhães/MG,MG,3123106.0
+Dores do Indaiá/MG,MG,3123205.0
+Dores do Turvo/MG,MG,3123304.0
+Doresópolis/MG,MG,3123403.0
+Durandé/MG,MG,3123528.0
+Elói Mendes/MG,MG,3123601.0
+Engenheiro Caldas/MG,MG,3123700.0
+Engenheiro Navarro/MG,MG,3123809.0
+Entre Folhas/MG,MG,3123858.0
+Entre Rios de Minas/MG,MG,3123908.0
+Ervália/MG,MG,3124005.0
+Esmeraldas/MG,MG,3124104.0
+Espera Feliz/MG,MG,3124203.0
+Espinosa/MG,MG,3124302.0
+Espírito Santo do Dourado/MG,MG,3124401.0
+Estiva/MG,MG,3124500.0
+Estrela Dalva/MG,MG,3124609.0
+Estrela do Sul/MG,MG,3124807.0
+Eugenópolis/MG,MG,3124906.0
+Ewbank da Câmara/MG,MG,3125002.0
+Extrema/MG,MG,3125101.0
+Fama/MG,MG,3125200.0
+Faria Lemos/MG,MG,3125309.0
+Felício dos Santos/MG,MG,3125408.0
+São Gonçalo do Rio Preto/MG,MG,3125507.0
+Felisburgo/MG,MG,3125606.0
+Felixlândia/MG,MG,3125705.0
+Fernandes Tourinho/MG,MG,3125804.0
+Ferros/MG,MG,3125903.0
+Fervedouro/MG,MG,3125952.0
+Florestal/MG,MG,3126000.0
+Formiga/MG,MG,3126109.0
+Formoso/MG,MG,3126208.0
+Fortaleza de Minas/MG,MG,3126307.0
+Fortuna de Minas/MG,MG,3126406.0
+Francisco Badaró/MG,MG,3126505.0
+Francisco Dumont/MG,MG,3126604.0
+Francisco Sá/MG,MG,3126703.0
+Franciscópolis/MG,MG,3126752.0
+Frei Gaspar/MG,MG,3126802.0
+Frei Inocêncio/MG,MG,3126901.0
+Fronteira/MG,MG,3127008.0
+Fronteira dos Vales/MG,MG,3127057.0
+Fruta de Leite/MG,MG,3127073.0
+Frutal/MG,MG,3127107.0
+Funilândia/MG,MG,3127206.0
+Galiléia/MG,MG,3127305.0
+Gameleiras/MG,MG,3127339.0
+Glaucilândia/MG,MG,3127354.0
+Goiabeira/MG,MG,3127370.0
+Goianá/MG,MG,3127388.0
+Gonçalves/MG,MG,3127404.0
+Gonzaga/MG,MG,3127503.0
+Gouveia/MG,MG,3127602.0
+Governador Valadares/MG,MG,3127701.0
+Grão Mogol/MG,MG,3127800.0
+Grupiara/MG,MG,3127909.0
+Guanhães/MG,MG,3128006.0
+Guapé/MG,MG,3128105.0
+Guaraciaba/MG,MG,3128204.0
+Guaraciama/MG,MG,3128253.0
+Guaranésia/MG,MG,3128303.0
+Guarani/MG,MG,3128402.0
+Guarará/MG,MG,3128501.0
+Guarda-Mor/MG,MG,3128600.0
+Guaxupé/MG,MG,3128709.0
+Guidoval/MG,MG,3128808.0
+Guimarânia/MG,MG,3128907.0
+Guiricema/MG,MG,3129004.0
+Gurinhatã/MG,MG,3129103.0
+Heliodora/MG,MG,3129202.0
+Iapu/MG,MG,3129301.0
+Ibertioga/MG,MG,3129400.0
+Ibiá/MG,MG,3129509.0
+Ibiaí/MG,MG,3129608.0
+Ibiracatu/MG,MG,3129657.0
+Ibiraci/MG,MG,3129707.0
+Ibirité/MG,MG,3129806.0
+Ibitiúra de Minas/MG,MG,3129905.0
+Ibituruna/MG,MG,3130002.0
+Icaraí de Minas/MG,MG,3130051.0
+Igarapé/MG,MG,3130101.0
+Igaratinga/MG,MG,3130200.0
+Iguatama/MG,MG,3130309.0
+Ijaci/MG,MG,3130408.0
+Ilicínea/MG,MG,3130507.0
+Imbé de Minas/MG,MG,3130556.0
+Inconfidentes/MG,MG,3130606.0
+Indaiabira/MG,MG,3130655.0
+Indianópolis/MG,MG,3130705.0
+Ingaí/MG,MG,3130804.0
+Inhapim/MG,MG,3130903.0
+Inhaúma/MG,MG,3131000.0
+Inimutaba/MG,MG,3131109.0
+Ipaba/MG,MG,3131158.0
+Ipanema/MG,MG,3131208.0
+Ipatinga/MG,MG,3131307.0
+Ipiaçu/MG,MG,3131406.0
+Ipuiúna/MG,MG,3131505.0
+Iraí de Minas/MG,MG,3131604.0
+Itabira/MG,MG,3131703.0
+Itabirinha/MG,MG,3131802.0
+Itabirito/MG,MG,3131901.0
+Itacambira/MG,MG,3132008.0
+Itacarambi/MG,MG,3132107.0
+Itaguara/MG,MG,3132206.0
+Itaipé/MG,MG,3132305.0
+Itajubá/MG,MG,3132404.0
+Itamarandiba/MG,MG,3132503.0
+Itamarati de Minas/MG,MG,3132602.0
+Itambacuri/MG,MG,3132701.0
+Itambé do Mato Dentro/MG,MG,3132800.0
+Itamogi/MG,MG,3132909.0
+Itamonte/MG,MG,3133006.0
+Itanhandu/MG,MG,3133105.0
+Itanhomi/MG,MG,3133204.0
+Itaobim/MG,MG,3133303.0
+Itapagipe/MG,MG,3133402.0
+Itapecerica/MG,MG,3133501.0
+Itapeva/MG,MG,3133600.0
+Itatiaiuçu/MG,MG,3133709.0
+Itaú de Minas/MG,MG,3133758.0
+Itaúna/MG,MG,3133808.0
+Itaverava/MG,MG,3133907.0
+Itinga/MG,MG,3134004.0
+Itueta/MG,MG,3134103.0
+Ituiutaba/MG,MG,3134202.0
+Itumirim/MG,MG,3134301.0
+Iturama/MG,MG,3134400.0
+Itutinga/MG,MG,3134509.0
+Jaboticatubas/MG,MG,3134608.0
+Jacinto/MG,MG,3134707.0
+Jacuí/MG,MG,3134806.0
+Jacutinga/MG,MG,3134905.0
+Jaguaraçu/MG,MG,3135001.0
+Jaíba/MG,MG,3135050.0
+Jampruca/MG,MG,3135076.0
+Janaúba/MG,MG,3135100.0
+Januária/MG,MG,3135209.0
+Japaraíba/MG,MG,3135308.0
+Japonvar/MG,MG,3135357.0
+Jeceaba/MG,MG,3135407.0
+Jenipapo de Minas/MG,MG,3135456.0
+Jequeri/MG,MG,3135506.0
+Jequitaí/MG,MG,3135605.0
+Jequitibá/MG,MG,3135704.0
+Jequitinhonha/MG,MG,3135803.0
+Jesuânia/MG,MG,3135902.0
+Joaíma/MG,MG,3136009.0
+Joanésia/MG,MG,3136108.0
+João Monlevade/MG,MG,3136207.0
+João Pinheiro/MG,MG,3136306.0
+Joaquim Felício/MG,MG,3136405.0
+Jordânia/MG,MG,3136504.0
+José Gonçalves de Minas/MG,MG,3136520.0
+José Raydan/MG,MG,3136553.0
+Josenópolis/MG,MG,3136579.0
+Nova União/MG,MG,3136603.0
+Juatuba/MG,MG,3136652.0
+Juiz de Fora/MG,MG,3136702.0
+Juramento/MG,MG,3136801.0
+Juruaia/MG,MG,3136900.0
+Juvenília/MG,MG,3136959.0
+Ladainha/MG,MG,3137007.0
+Lagamar/MG,MG,3137106.0
+Lagoa da Prata/MG,MG,3137205.0
+Lagoa Dourada/MG,MG,3137403.0
+Lagoa Formosa/MG,MG,3137502.0
+Lagoa Grande/MG,MG,3137536.0
+Lagoa Santa/MG,MG,3137601.0
+Lajinha/MG,MG,3137700.0
+Lambari/MG,MG,3137809.0
+Lamim/MG,MG,3137908.0
+Laranjal/MG,MG,3138005.0
+Lassance/MG,MG,3138104.0
+Lavras/MG,MG,3138203.0
+Leandro Ferreira/MG,MG,3138302.0
+Leme do Prado/MG,MG,3138351.0
+Leopoldina/MG,MG,3138401.0
+Liberdade/MG,MG,3138500.0
+Lima Duarte/MG,MG,3138609.0
+Limeira do Oeste/MG,MG,3138625.0
+Lontra/MG,MG,3138658.0
+Luisburgo/MG,MG,3138674.0
+Luislândia/MG,MG,3138682.0
+Luminárias/MG,MG,3138708.0
+Luz/MG,MG,3138807.0
+Machacalis/MG,MG,3138906.0
+Machado/MG,MG,3139003.0
+Madre de Deus de Minas/MG,MG,3139102.0
+Malacacheta/MG,MG,3139201.0
+Mamonas/MG,MG,3139250.0
+Manga/MG,MG,3139300.0
+Manhuaçu/MG,MG,3139409.0
+Manhumirim/MG,MG,3139508.0
+Mantena/MG,MG,3139607.0
+Maravilhas/MG,MG,3139706.0
+Mar de Espanha/MG,MG,3139805.0
+Maria da Fé/MG,MG,3139904.0
+Mariana/MG,MG,3140001.0
+Marilac/MG,MG,3140100.0
+Mário Campos/MG,MG,3140159.0
+Maripá de Minas/MG,MG,3140209.0
+Marliéria/MG,MG,3140308.0
+Marmelópolis/MG,MG,3140407.0
+Martinho Campos/MG,MG,3140506.0
+Martins Soares/MG,MG,3140530.0
+Mata Verde/MG,MG,3140555.0
+Materlândia/MG,MG,3140605.0
+Mateus Leme/MG,MG,3140704.0
+Matias Barbosa/MG,MG,3140803.0
+Matias Cardoso/MG,MG,3140852.0
+Matipó/MG,MG,3140902.0
+Mato Verde/MG,MG,3141009.0
+Matozinhos/MG,MG,3141108.0
+Matutina/MG,MG,3141207.0
+Medeiros/MG,MG,3141306.0
+Medina/MG,MG,3141405.0
+Mendes Pimentel/MG,MG,3141504.0
+Mercês/MG,MG,3141603.0
+Mesquita/MG,MG,3141702.0
+Minas Novas/MG,MG,3141801.0
+Minduri/MG,MG,3141900.0
+Mirabela/MG,MG,3142007.0
+Miradouro/MG,MG,3142106.0
+Miraí/MG,MG,3142205.0
+Miravânia/MG,MG,3142254.0
+Moeda/MG,MG,3142304.0
+Moema/MG,MG,3142403.0
+Monjolos/MG,MG,3142502.0
+Monsenhor Paulo/MG,MG,3142601.0
+Montalvânia/MG,MG,3142700.0
+Monte Alegre de Minas/MG,MG,3142809.0
+Monte Azul/MG,MG,3142908.0
+Monte Belo/MG,MG,3143005.0
+Monte Carmelo/MG,MG,3143104.0
+Monte Formoso/MG,MG,3143153.0
+Monte Santo de Minas/MG,MG,3143203.0
+Montes Claros/MG,MG,3143302.0
+Monte Sião/MG,MG,3143401.0
+Montezuma/MG,MG,3143450.0
+Morada Nova de Minas/MG,MG,3143500.0
+Morro da Garça/MG,MG,3143609.0
+Morro do Pilar/MG,MG,3143708.0
+Munhoz/MG,MG,3143807.0
+Muriaé/MG,MG,3143906.0
+Mutum/MG,MG,3144003.0
+Muzambinho/MG,MG,3144102.0
+Nacip Raydan/MG,MG,3144201.0
+Nanuque/MG,MG,3144300.0
+Naque/MG,MG,3144359.0
+Natalândia/MG,MG,3144375.0
+Natércia/MG,MG,3144409.0
+Nazareno/MG,MG,3144508.0
+Nepomuceno/MG,MG,3144607.0
+Ninheira/MG,MG,3144656.0
+Nova Belém/MG,MG,3144672.0
+Nova Era/MG,MG,3144706.0
+Nova Lima/MG,MG,3144805.0
+Nova Módica/MG,MG,3144904.0
+Nova Ponte/MG,MG,3145000.0
+Nova Porteirinha/MG,MG,3145059.0
+Nova Resende/MG,MG,3145109.0
+Nova Serrana/MG,MG,3145208.0
+Novo Cruzeiro/MG,MG,3145307.0
+Novo Oriente de Minas/MG,MG,3145356.0
+Novorizonte/MG,MG,3145372.0
+Olaria/MG,MG,3145406.0
+Olhos-d'Água/MG,MG,3145455.0
+Olímpio Noronha/MG,MG,3145505.0
+Oliveira/MG,MG,3145604.0
+Oliveira Fortes/MG,MG,3145703.0
+Onça de Pitangui/MG,MG,3145802.0
+Oratórios/MG,MG,3145851.0
+Orizânia/MG,MG,3145877.0
+Ouro Branco/MG,MG,3145901.0
+Ouro Fino/MG,MG,3146008.0
+Ouro Preto/MG,MG,3146107.0
+Ouro Verde de Minas/MG,MG,3146206.0
+Padre Carvalho/MG,MG,3146255.0
+Padre Paraíso/MG,MG,3146305.0
+Paineiras/MG,MG,3146404.0
+Pains/MG,MG,3146503.0
+Pai Pedro/MG,MG,3146552.0
+Paiva/MG,MG,3146602.0
+Palma/MG,MG,3146701.0
+Palmópolis/MG,MG,3146750.0
+Papagaios/MG,MG,3146909.0
+Paracatu/MG,MG,3147006.0
+Pará de Minas/MG,MG,3147105.0
+Paraguaçu/MG,MG,3147204.0
+Paraisópolis/MG,MG,3147303.0
+Paraopeba/MG,MG,3147402.0
+Passabém/MG,MG,3147501.0
+Passa Quatro/MG,MG,3147600.0
+Passa Tempo/MG,MG,3147709.0
+Passa Vinte/MG,MG,3147808.0
+Passos/MG,MG,3147907.0
+Patis/MG,MG,3147956.0
+Patos de Minas/MG,MG,3148004.0
+Patrocínio/MG,MG,3148103.0
+Patrocínio do Muriaé/MG,MG,3148202.0
+Paula Cândido/MG,MG,3148301.0
+Paulistas/MG,MG,3148400.0
+Pavão/MG,MG,3148509.0
+Peçanha/MG,MG,3148608.0
+Pedra Azul/MG,MG,3148707.0
+Pedra Bonita/MG,MG,3148756.0
+Pedra do Anta/MG,MG,3148806.0
+Pedra do Indaiá/MG,MG,3148905.0
+Pedra Dourada/MG,MG,3149002.0
+Pedralva/MG,MG,3149101.0
+Pedras de Maria da Cruz/MG,MG,3149150.0
+Pedrinópolis/MG,MG,3149200.0
+Pedro Leopoldo/MG,MG,3149309.0
+Pedro Teixeira/MG,MG,3149408.0
+Pequeri/MG,MG,3149507.0
+Pequi/MG,MG,3149606.0
+Perdigão/MG,MG,3149705.0
+Perdizes/MG,MG,3149804.0
+Perdões/MG,MG,3149903.0
+Periquito/MG,MG,3149952.0
+Pescador/MG,MG,3150000.0
+Piau/MG,MG,3150109.0
+Piedade de Caratinga/MG,MG,3150158.0
+Piedade de Ponte Nova/MG,MG,3150208.0
+Piedade do Rio Grande/MG,MG,3150307.0
+Piedade dos Gerais/MG,MG,3150406.0
+Pimenta/MG,MG,3150505.0
+Pingo-d'Água/MG,MG,3150539.0
+Pintópolis/MG,MG,3150570.0
+Piracema/MG,MG,3150604.0
+Pirajuba/MG,MG,3150703.0
+Piranga/MG,MG,3150802.0
+Piranguçu/MG,MG,3150901.0
+Piranguinho/MG,MG,3151008.0
+Pirapetinga/MG,MG,3151107.0
+Pirapora/MG,MG,3151206.0
+Piraúba/MG,MG,3151305.0
+Pitangui/MG,MG,3151404.0
+Piumhi/MG,MG,3151503.0
+Planura/MG,MG,3151602.0
+Poço Fundo/MG,MG,3151701.0
+Poços de Caldas/MG,MG,3151800.0
+Pocrane/MG,MG,3151909.0
+Pompéu/MG,MG,3152006.0
+Ponte Nova/MG,MG,3152105.0
+Ponto Chique/MG,MG,3152131.0
+Ponto dos Volantes/MG,MG,3152170.0
+Porteirinha/MG,MG,3152204.0
+Porto Firme/MG,MG,3152303.0
+Poté/MG,MG,3152402.0
+Pouso Alegre/MG,MG,3152501.0
+Pouso Alto/MG,MG,3152600.0
+Prados/MG,MG,3152709.0
+Prata/MG,MG,3152808.0
+Pratápolis/MG,MG,3152907.0
+Pratinha/MG,MG,3153004.0
+Presidente Bernardes/MG,MG,3153103.0
+Presidente Juscelino/MG,MG,3153202.0
+Presidente Kubitschek/MG,MG,3153301.0
+Presidente Olegário/MG,MG,3153400.0
+Alto Jequitibá/MG,MG,3153509.0
+Prudente de Morais/MG,MG,3153608.0
+Quartel Geral/MG,MG,3153707.0
+Queluzito/MG,MG,3153806.0
+Raposos/MG,MG,3153905.0
+Raul Soares/MG,MG,3154002.0
+Recreio/MG,MG,3154101.0
+Reduto/MG,MG,3154150.0
+Resende Costa/MG,MG,3154200.0
+Resplendor/MG,MG,3154309.0
+Ressaquinha/MG,MG,3154408.0
+Riachinho/MG,MG,3154457.0
+Riacho dos Machados/MG,MG,3154507.0
+Ribeirão Vermelho/MG,MG,3154705.0
+Rio Acima/MG,MG,3154804.0
+Rio Casca/MG,MG,3154903.0
+Rio Doce/MG,MG,3155009.0
+Rio do Prado/MG,MG,3155108.0
+Rio Espera/MG,MG,3155207.0
+Rio Manso/MG,MG,3155306.0
+Rio Novo/MG,MG,3155405.0
+Rio Paranaíba/MG,MG,3155504.0
+Rio Pardo de Minas/MG,MG,3155603.0
+Rio Piracicaba/MG,MG,3155702.0
+Rio Pomba/MG,MG,3155801.0
+Rio Preto/MG,MG,3155900.0
+Rio Vermelho/MG,MG,3156007.0
+Ritápolis/MG,MG,3156106.0
+Rochedo de Minas/MG,MG,3156205.0
+Rodeiro/MG,MG,3156304.0
+Romaria/MG,MG,3156403.0
+Rosário da Limeira/MG,MG,3156452.0
+Rubelita/MG,MG,3156502.0
+Rubim/MG,MG,3156601.0
+Sabará/MG,MG,3156700.0
+Sabinópolis/MG,MG,3156809.0
+Sacramento/MG,MG,3156908.0
+Salinas/MG,MG,3157005.0
+Salto da Divisa/MG,MG,3157104.0
+Santa Bárbara/MG,MG,3157203.0
+Santa Bárbara do Leste/MG,MG,3157252.0
+Santa Bárbara do Monte Verde/MG,MG,3157278.0
+Santa Bárbara do Tugúrio/MG,MG,3157302.0
+Santa Cruz de Salinas/MG,MG,3157377.0
+Santa Cruz do Escalvado/MG,MG,3157401.0
+Santa Efigênia de Minas/MG,MG,3157500.0
+Santa Helena de Minas/MG,MG,3157658.0
+Santa Juliana/MG,MG,3157708.0
+Santa Luzia/MG,MG,3157807.0
+Santa Margarida/MG,MG,3157906.0
+Santa Maria de Itabira/MG,MG,3158003.0
+Santa Maria do Salto/MG,MG,3158102.0
+Santa Maria do Suaçuí/MG,MG,3158201.0
+Santana da Vargem/MG,MG,3158300.0
+Santana de Cataguases/MG,MG,3158409.0
+Santana de Pirapama/MG,MG,3158508.0
+Santana do Deserto/MG,MG,3158607.0
+Santana do Garambéu/MG,MG,3158706.0
+Santana do Jacaré/MG,MG,3158805.0
+Santana do Manhuaçu/MG,MG,3158904.0
+Santana do Paraíso/MG,MG,3158953.0
+Santana do Riacho/MG,MG,3159001.0
+Santana dos Montes/MG,MG,3159100.0
+Santa Rita de Caldas/MG,MG,3159209.0
+Santa Rita de Jacutinga/MG,MG,3159308.0
+Santa Rita de Minas/MG,MG,3159357.0
+Santa Rita de Ibitipoca/MG,MG,3159407.0
+Santa Rita do Itueto/MG,MG,3159506.0
+Santa Rita do Sapucaí/MG,MG,3159605.0
+Santa Rosa da Serra/MG,MG,3159704.0
+Santa Vitória/MG,MG,3159803.0
+Santo Antônio do Amparo/MG,MG,3159902.0
+Santo Antônio do Aventureiro/MG,MG,3160009.0
+Santo Antônio do Grama/MG,MG,3160108.0
+Santo Antônio do Itambé/MG,MG,3160207.0
+Santo Antônio do Jacinto/MG,MG,3160306.0
+Santo Antônio do Monte/MG,MG,3160405.0
+Santo Antônio do Rio Abaixo/MG,MG,3160504.0
+Santo Hipólito/MG,MG,3160603.0
+Santos Dumont/MG,MG,3160702.0
+São Bento Abade/MG,MG,3160801.0
+São Brás do Suaçuí/MG,MG,3160900.0
+São Domingos das Dores/MG,MG,3160959.0
+São Domingos do Prata/MG,MG,3161007.0
+São Francisco/MG,MG,3161106.0
+São Francisco de Paula/MG,MG,3161205.0
+São Francisco de Sales/MG,MG,3161304.0
+São Francisco do Glória/MG,MG,3161403.0
+São Geraldo/MG,MG,3161502.0
+São Geraldo da Piedade/MG,MG,3161601.0
+São Gonçalo do Abaeté/MG,MG,3161700.0
+São Gonçalo do Pará/MG,MG,3161809.0
+São Gonçalo do Rio Abaixo/MG,MG,3161908.0
+São Gonçalo do Sapucaí/MG,MG,3162005.0
+São Gotardo/MG,MG,3162104.0
+São João Batista do Glória/MG,MG,3162203.0
+São João da Lagoa/MG,MG,3162252.0
+São João da Mata/MG,MG,3162302.0
+São João da Ponte/MG,MG,3162401.0
+São João das Missões/MG,MG,3162450.0
+São João del Rei/MG,MG,3162500.0
+São João do Manhuaçu/MG,MG,3162559.0
+São João do Manteninha/MG,MG,3162575.0
+São João do Oriente/MG,MG,3162609.0
+São João do Pacuí/MG,MG,3162658.0
+São João do Paraíso/MG,MG,3162708.0
+São João Evangelista/MG,MG,3162807.0
+São João Nepomuceno/MG,MG,3162906.0
+São Joaquim de Bicas/MG,MG,3162922.0
+São José da Barra/MG,MG,3162948.0
+São José da Lapa/MG,MG,3162955.0
+São José da Safira/MG,MG,3163003.0
+São José da Varginha/MG,MG,3163102.0
+São José do Alegre/MG,MG,3163201.0
+São José do Divino/MG,MG,3163300.0
+São José do Goiabal/MG,MG,3163409.0
+São José do Jacuri/MG,MG,3163508.0
+São José do Mantimento/MG,MG,3163607.0
+São Lourenço/MG,MG,3163706.0
+São Miguel do Anta/MG,MG,3163805.0
+São Pedro da União/MG,MG,3163904.0
+São Pedro dos Ferros/MG,MG,3164001.0
+São Pedro do Suaçuí/MG,MG,3164100.0
+São Romão/MG,MG,3164209.0
+São Roque de Minas/MG,MG,3164308.0
+São Sebastião da Bela Vista/MG,MG,3164407.0
+São Sebastião da Vargem Alegre/MG,MG,3164431.0
+São Sebastião do Anta/MG,MG,3164472.0
+São Sebastião do Oeste/MG,MG,3164605.0
+São Sebastião do Paraíso/MG,MG,3164704.0
+São Sebastião do Rio Preto/MG,MG,3164803.0
+São Sebastião do Rio Verde/MG,MG,3164902.0
+São Tiago/MG,MG,3165008.0
+São Tomás de Aquino/MG,MG,3165107.0
+São Tomé das Letras/MG,MG,3165206.0
+São Vicente de Minas/MG,MG,3165305.0
+Sapucaí-Mirim/MG,MG,3165404.0
+Sardoá/MG,MG,3165503.0
+Sarzedo/MG,MG,3165537.0
+Setubinha/MG,MG,3165552.0
+Sem-Peixe/MG,MG,3165560.0
+Senador Amaral/MG,MG,3165578.0
+Senador Cortes/MG,MG,3165602.0
+Senador Firmino/MG,MG,3165701.0
+Senador José Bento/MG,MG,3165800.0
+Senador Modestino Gonçalves/MG,MG,3165909.0
+Senhora de Oliveira/MG,MG,3166006.0
+Senhora do Porto/MG,MG,3166105.0
+Senhora dos Remédios/MG,MG,3166204.0
+Sericita/MG,MG,3166303.0
+Seritinga/MG,MG,3166402.0
+Serra Azul de Minas/MG,MG,3166501.0
+Serra dos Aimorés/MG,MG,3166709.0
+Serra do Salitre/MG,MG,3166808.0
+Serrania/MG,MG,3166907.0
+Serranópolis de Minas/MG,MG,3166956.0
+Serro/MG,MG,3167103.0
+Sete Lagoas/MG,MG,3167202.0
+Silveirânia/MG,MG,3167301.0
+Silvianópolis/MG,MG,3167400.0
+Simão Pereira/MG,MG,3167509.0
+Simonésia/MG,MG,3167608.0
+Sobrália/MG,MG,3167707.0
+Soledade de Minas/MG,MG,3167806.0
+Tabuleiro/MG,MG,3167905.0
+Taiobeiras/MG,MG,3168002.0
+Taparuba/MG,MG,3168051.0
+Tapira/MG,MG,3168101.0
+Tapiraí/MG,MG,3168200.0
+Taquaraçu de Minas/MG,MG,3168309.0
+Tarumirim/MG,MG,3168408.0
+Teixeiras/MG,MG,3168507.0
+Teófilo Otoni/MG,MG,3168606.0
+Timóteo/MG,MG,3168705.0
+Tiradentes/MG,MG,3168804.0
+Tiros/MG,MG,3168903.0
+Tocantins/MG,MG,3169000.0
+Tocos do Moji/MG,MG,3169059.0
+Toledo/MG,MG,3169109.0
+Tombos/MG,MG,3169208.0
+Três Corações/MG,MG,3169307.0
+Três Marias/MG,MG,3169356.0
+Três Pontas/MG,MG,3169406.0
+Tumiritinga/MG,MG,3169505.0
+Tupaciguara/MG,MG,3169604.0
+Turmalina/MG,MG,3169703.0
+Turvolândia/MG,MG,3169802.0
+Ubá/MG,MG,3169901.0
+Ubaí/MG,MG,3170008.0
+Ubaporanga/MG,MG,3170057.0
+Uberaba/MG,MG,3170107.0
+Uberlândia/MG,MG,3170206.0
+Umburatiba/MG,MG,3170305.0
+Unaí/MG,MG,3170404.0
+União de Minas/MG,MG,3170438.0
+Urucânia/MG,MG,3170503.0
+Urucuia/MG,MG,3170529.0
+Vargem Alegre/MG,MG,3170578.0
+Vargem Bonita/MG,MG,3170602.0
+Varginha/MG,MG,3170701.0
+Varjão de Minas/MG,MG,3170750.0
+Várzea da Palma/MG,MG,3170800.0
+Varzelândia/MG,MG,3170909.0
+Vazante/MG,MG,3171006.0
+Veredinha/MG,MG,3171071.0
+Veríssimo/MG,MG,3171105.0
+Vermelho Novo/MG,MG,3171154.0
+Vespasiano/MG,MG,3171204.0
+Viçosa/MG,MG,3171303.0
+Vieiras/MG,MG,3171402.0
+Mathias Lobato/MG,MG,3171501.0
+Virgem da Lapa/MG,MG,3171600.0
+Virgínia/MG,MG,3171709.0
+Virginópolis/MG,MG,3171808.0
+Virgolândia/MG,MG,3171907.0
+Visconde do Rio Branco/MG,MG,3172004.0
+Volta Grande/MG,MG,3172103.0
+Wenceslau Braz/MG,MG,3172202.0
+Afonso Cláudio/ES,ES,3200102.0
+Águia Branca/ES,ES,3200136.0
+Água Doce do Norte/ES,ES,3200169.0
+Alegre/ES,ES,3200201.0
+Alfredo Chaves/ES,ES,3200300.0
+Alto Rio Novo/ES,ES,3200359.0
+Anchieta/ES,ES,3200409.0
+Apiacá/ES,ES,3200508.0
+Aracruz/ES,ES,3200607.0
+Atilio Vivacqua/ES,ES,3200706.0
+Baixo Guandu/ES,ES,3200805.0
+Barra de São Francisco/ES,ES,3200904.0
+Boa Esperança/ES,ES,3201001.0
+Bom Jesus do Norte/ES,ES,3201100.0
+Brejetuba/ES,ES,3201159.0
+Cachoeiro de Itapemirim/ES,ES,3201209.0
+Cariacica/ES,ES,3201308.0
+Castelo/ES,ES,3201407.0
+Colatina/ES,ES,3201506.0
+Conceição da Barra/ES,ES,3201605.0
+Conceição do Castelo/ES,ES,3201704.0
+Divino de São Lourenço/ES,ES,3201803.0
+Domingos Martins/ES,ES,3201902.0
+Dores do Rio Preto/ES,ES,3202009.0
+Ecoporanga/ES,ES,3202108.0
+Fundão/ES,ES,3202207.0
+Governador Lindenberg/ES,ES,3202256.0
+Guaçuí/ES,ES,3202306.0
+Guarapari/ES,ES,3202405.0
+Ibatiba/ES,ES,3202454.0
+Ibiraçu/ES,ES,3202504.0
+Ibitirama/ES,ES,3202553.0
+Iconha/ES,ES,3202603.0
+Irupi/ES,ES,3202652.0
+Itaguaçu/ES,ES,3202702.0
+Itapemirim/ES,ES,3202801.0
+Itarana/ES,ES,3202900.0
+Iúna/ES,ES,3203007.0
+Jaguaré/ES,ES,3203056.0
+Jerônimo Monteiro/ES,ES,3203106.0
+João Neiva/ES,ES,3203130.0
+Laranja da Terra/ES,ES,3203163.0
+Linhares/ES,ES,3203205.0
+Mantenópolis/ES,ES,3203304.0
+Marataízes/ES,ES,3203320.0
+Marechal Floriano/ES,ES,3203346.0
+Marilândia/ES,ES,3203353.0
+Mimoso do Sul/ES,ES,3203403.0
+Montanha/ES,ES,3203502.0
+Mucurici/ES,ES,3203601.0
+Muniz Freire/ES,ES,3203700.0
+Muqui/ES,ES,3203809.0
+Nova Venécia/ES,ES,3203908.0
+Pancas/ES,ES,3204005.0
+Pedro Canário/ES,ES,3204054.0
+Pinheiros/ES,ES,3204104.0
+Piúma/ES,ES,3204203.0
+Ponto Belo/ES,ES,3204252.0
+Presidente Kennedy/ES,ES,3204302.0
+Rio Bananal/ES,ES,3204351.0
+Rio Novo do Sul/ES,ES,3204401.0
+Santa Leopoldina/ES,ES,3204500.0
+Santa Maria de Jetibá/ES,ES,3204559.0
+Santa Teresa/ES,ES,3204609.0
+São Domingos do Norte/ES,ES,3204658.0
+São Gabriel da Palha/ES,ES,3204708.0
+São José do Calçado/ES,ES,3204807.0
+São Mateus/ES,ES,3204906.0
+São Roque do Canaã/ES,ES,3204955.0
+Serra/ES,ES,3205002.0
+Sooretama/ES,ES,3205010.0
+Vargem Alta/ES,ES,3205036.0
+Venda Nova do Imigrante/ES,ES,3205069.0
+Viana/ES,ES,3205101.0
+Vila Pavão/ES,ES,3205150.0
+Vila Valério/ES,ES,3205176.0
+Vila Velha/ES,ES,3205200.0
+Vitória/ES,ES,3205309.0
+Angra dos Reis/RJ,RJ,3300100.0
+Aperibé/RJ,RJ,3300159.0
+Araruama/RJ,RJ,3300209.0
+Areal/RJ,RJ,3300225.0
+Armação dos Búzios/RJ,RJ,3300233.0
+Arraial do Cabo/RJ,RJ,3300258.0
+Barra do Piraí/RJ,RJ,3300308.0
+Barra Mansa/RJ,RJ,3300407.0
+Bom Jardim/RJ,RJ,3300506.0
+Bom Jesus do Itabapoana/RJ,RJ,3300605.0
+Cabo Frio/RJ,RJ,3300704.0
+Cachoeiras de Macacu/RJ,RJ,3300803.0
+Cambuci/RJ,RJ,3300902.0
+Carapebus/RJ,RJ,3300936.0
+Comendador Levy Gasparian/RJ,RJ,3300951.0
+Campos dos Goytacazes/RJ,RJ,3301009.0
+Cantagalo/RJ,RJ,3301108.0
+Cardoso Moreira/RJ,RJ,3301157.0
+Carmo/RJ,RJ,3301207.0
+Casimiro de Abreu/RJ,RJ,3301306.0
+Conceição de Macabu/RJ,RJ,3301405.0
+Cordeiro/RJ,RJ,3301504.0
+Duas Barras/RJ,RJ,3301603.0
+Duque de Caxias/RJ,RJ,3301702.0
+Engenheiro Paulo de Frontin/RJ,RJ,3301801.0
+Guapimirim/RJ,RJ,3301850.0
+Iguaba Grande/RJ,RJ,3301876.0
+Itaboraí/RJ,RJ,3301900.0
+Itaguaí/RJ,RJ,3302007.0
+Italva/RJ,RJ,3302056.0
+Itaocara/RJ,RJ,3302106.0
+Itaperuna/RJ,RJ,3302205.0
+Itatiaia/RJ,RJ,3302254.0
+Japeri/RJ,RJ,3302270.0
+Laje do Muriaé/RJ,RJ,3302304.0
+Macaé/RJ,RJ,3302403.0
+Macuco/RJ,RJ,3302452.0
+Magé/RJ,RJ,3302502.0
+Mangaratiba/RJ,RJ,3302601.0
+Mendes/RJ,RJ,3302809.0
+Miguel Pereira/RJ,RJ,3302908.0
+Miracema/RJ,RJ,3303005.0
+Natividade/RJ,RJ,3303104.0
+Nilópolis/RJ,RJ,3303203.0
+Niterói/RJ,RJ,3303302.0
+Nova Friburgo/RJ,RJ,3303401.0
+Nova Iguaçu/RJ,RJ,3303500.0
+Paracambi/RJ,RJ,3303609.0
+Paraíba do Sul/RJ,RJ,3303708.0
+Paraty/RJ,RJ,3303807.0
+Paty do Alferes/RJ,RJ,3303856.0
+Petrópolis/RJ,RJ,3303906.0
+Pinheiral/RJ,RJ,3303955.0
+Piraí/RJ,RJ,3304003.0
+Porciúncula/RJ,RJ,3304102.0
+Porto Real/RJ,RJ,3304110.0
+Quatis/RJ,RJ,3304128.0
+Quissamã/RJ,RJ,3304151.0
+Resende/RJ,RJ,3304201.0
+Rio Bonito/RJ,RJ,3304300.0
+Rio Claro/RJ,RJ,3304409.0
+Rio das Flores/RJ,RJ,3304508.0
+Rio das Ostras/RJ,RJ,3304524.0
+Rio de Janeiro/RJ,RJ,3304557.0
+Santa Maria Madalena/RJ,RJ,3304607.0
+Santo Antônio de Pádua/RJ,RJ,3304706.0
+São Francisco de Itabapoana/RJ,RJ,3304755.0
+São Fidélis/RJ,RJ,3304805.0
+São Gonçalo/RJ,RJ,3304904.0
+São João da Barra/RJ,RJ,3305000.0
+São José de Ubá/RJ,RJ,3305133.0
+São José do Vale do Rio Preto/RJ,RJ,3305158.0
+São Pedro da Aldeia/RJ,RJ,3305208.0
+São Sebastião do Alto/RJ,RJ,3305307.0
+Sapucaia/RJ,RJ,3305406.0
+Saquarema/RJ,RJ,3305505.0
+Seropédica/RJ,RJ,3305554.0
+Silva Jardim/RJ,RJ,3305604.0
+Sumidouro/RJ,RJ,3305703.0
+Tanguá/RJ,RJ,3305752.0
+Teresópolis/RJ,RJ,3305802.0
+Trajano de Moraes/RJ,RJ,3305901.0
+Três Rios/RJ,RJ,3306008.0
+Valença/RJ,RJ,3306107.0
+Varre-Sai/RJ,RJ,3306156.0
+Vassouras/RJ,RJ,3306206.0
+Volta Redonda/RJ,RJ,3306305.0
+Adamantina/SP,SP,3500105.0
+Adolfo/SP,SP,3500204.0
+Aguaí/SP,SP,3500303.0
+Águas da Prata/SP,SP,3500402.0
+Águas de Lindóia/SP,SP,3500501.0
+Águas de Santa Bárbara/SP,SP,3500550.0
+Águas de São Pedro/SP,SP,3500600.0
+Agudos/SP,SP,3500709.0
+Alambari/SP,SP,3500758.0
+Alfredo Marcondes/SP,SP,3500808.0
+Altair/SP,SP,3500907.0
+Altinópolis/SP,SP,3501004.0
+Alto Alegre/SP,SP,3501103.0
+Alumínio/SP,SP,3501152.0
+Álvares Florence/SP,SP,3501202.0
+Álvares Machado/SP,SP,3501301.0
+Álvaro de Carvalho/SP,SP,3501400.0
+Alvinlândia/SP,SP,3501509.0
+Americana/SP,SP,3501608.0
+Américo Brasiliense/SP,SP,3501707.0
+Américo de Campos/SP,SP,3501806.0
+Amparo/SP,SP,3501905.0
+Analândia/SP,SP,3502002.0
+Andradina/SP,SP,3502101.0
+Angatuba/SP,SP,3502200.0
+Anhembi/SP,SP,3502309.0
+Anhumas/SP,SP,3502408.0
+Aparecida/SP,SP,3502507.0
+Aparecida d'Oeste/SP,SP,3502606.0
+Apiaí/SP,SP,3502705.0
+Araçariguama/SP,SP,3502754.0
+Araçatuba/SP,SP,3502804.0
+Araçoiaba da Serra/SP,SP,3502903.0
+Aramina/SP,SP,3503000.0
+Arandu/SP,SP,3503109.0
+Arapeí/SP,SP,3503158.0
+Araraquara/SP,SP,3503208.0
+Araras/SP,SP,3503307.0
+Arco-Íris/SP,SP,3503356.0
+Arealva/SP,SP,3503406.0
+Areias/SP,SP,3503505.0
+Areiópolis/SP,SP,3503604.0
+Ariranha/SP,SP,3503703.0
+Artur Nogueira/SP,SP,3503802.0
+Arujá/SP,SP,3503901.0
+Assis/SP,SP,3504008.0
+Atibaia/SP,SP,3504107.0
+Auriflama/SP,SP,3504206.0
+Avaí/SP,SP,3504305.0
+Avanhandava/SP,SP,3504404.0
+Avaré/SP,SP,3504503.0
+Bady Bassitt/SP,SP,3504602.0
+Bálsamo/SP,SP,3504800.0
+Bananal/SP,SP,3504909.0
+Barão de Antonina/SP,SP,3505005.0
+Barbosa/SP,SP,3505104.0
+Bariri/SP,SP,3505203.0
+Barra Bonita/SP,SP,3505302.0
+Barra do Chapéu/SP,SP,3505351.0
+Barra do Turvo/SP,SP,3505401.0
+Barretos/SP,SP,3505500.0
+Barrinha/SP,SP,3505609.0
+Barueri/SP,SP,3505708.0
+Bastos/SP,SP,3505807.0
+Batatais/SP,SP,3505906.0
+Bauru/SP,SP,3506003.0
+Bebedouro/SP,SP,3506102.0
+Bento de Abreu/SP,SP,3506201.0
+Bernardino de Campos/SP,SP,3506300.0
+Bertioga/SP,SP,3506359.0
+Bilac/SP,SP,3506409.0
+Birigui/SP,SP,3506508.0
+Biritiba Mirim/SP,SP,3506607.0
+Boa Esperança do Sul/SP,SP,3506706.0
+Bocaina/SP,SP,3506805.0
+Bofete/SP,SP,3506904.0
+Boituva/SP,SP,3507001.0
+Bom Jesus dos Perdões/SP,SP,3507100.0
+Bom Sucesso de Itararé/SP,SP,3507159.0
+Borá/SP,SP,3507209.0
+Boracéia/SP,SP,3507308.0
+Borborema/SP,SP,3507407.0
+Borebi/SP,SP,3507456.0
+Botucatu/SP,SP,3507506.0
+Bragança Paulista/SP,SP,3507605.0
+Braúna/SP,SP,3507704.0
+Brejo Alegre/SP,SP,3507753.0
+Brodowski/SP,SP,3507803.0
+Brotas/SP,SP,3507902.0
+Buri/SP,SP,3508009.0
+Buritama/SP,SP,3508108.0
+Buritizal/SP,SP,3508207.0
+Cabrália Paulista/SP,SP,3508306.0
+Cabreúva/SP,SP,3508405.0
+Caçapava/SP,SP,3508504.0
+Cachoeira Paulista/SP,SP,3508603.0
+Caconde/SP,SP,3508702.0
+Cafelândia/SP,SP,3508801.0
+Caiabu/SP,SP,3508900.0
+Caiuá/SP,SP,3509106.0
+Cajamar/SP,SP,3509205.0
+Cajati/SP,SP,3509254.0
+Cajobi/SP,SP,3509304.0
+Cajuru/SP,SP,3509403.0
+Campina do Monte Alegre/SP,SP,3509452.0
+Campinas/SP,SP,3509502.0
+Campo Limpo Paulista/SP,SP,3509601.0
+Campos do Jordão/SP,SP,3509700.0
+Campos Novos Paulista/SP,SP,3509809.0
+Cananéia/SP,SP,3509908.0
+Canas/SP,SP,3509957.0
+Cândido Mota/SP,SP,3510005.0
+Canitar/SP,SP,3510153.0
+Capão Bonito/SP,SP,3510203.0
+Capela do Alto/SP,SP,3510302.0
+Capivari/SP,SP,3510401.0
+Caraguatatuba/SP,SP,3510500.0
+Cardoso/SP,SP,3510708.0
+Casa Branca/SP,SP,3510807.0
+Castilho/SP,SP,3511003.0
+Catanduva/SP,SP,3511102.0
+Catiguá/SP,SP,3511201.0
+Cedral/SP,SP,3511300.0
+Cerqueira César/SP,SP,3511409.0
+Cerquilho/SP,SP,3511508.0
+Cesário Lange/SP,SP,3511607.0
+Charqueada/SP,SP,3511706.0
+Clementina/SP,SP,3511904.0
+Colina/SP,SP,3512001.0
+Colômbia/SP,SP,3512100.0
+Conchal/SP,SP,3512209.0
+Conchas/SP,SP,3512308.0
+Cordeirópolis/SP,SP,3512407.0
+Coroados/SP,SP,3512506.0
+Coronel Macedo/SP,SP,3512605.0
+Corumbataí/SP,SP,3512704.0
+Cosmópolis/SP,SP,3512803.0
+Cosmorama/SP,SP,3512902.0
+Cotia/SP,SP,3513009.0
+Cravinhos/SP,SP,3513108.0
+Cristais Paulista/SP,SP,3513207.0
+Cruzália/SP,SP,3513306.0
+Cruzeiro/SP,SP,3513405.0
+Cubatão/SP,SP,3513504.0
+Cunha/SP,SP,3513603.0
+Descalvado/SP,SP,3513702.0
+Diadema/SP,SP,3513801.0
+Dirce Reis/SP,SP,3513850.0
+Divinolândia/SP,SP,3513900.0
+Dobrada/SP,SP,3514007.0
+Dois Córregos/SP,SP,3514106.0
+Dolcinópolis/SP,SP,3514205.0
+Dourado/SP,SP,3514304.0
+Dracena/SP,SP,3514403.0
+Duartina/SP,SP,3514502.0
+Dumont/SP,SP,3514601.0
+Echaporã/SP,SP,3514700.0
+Eldorado/SP,SP,3514809.0
+Elias Fausto/SP,SP,3514908.0
+Elisiário/SP,SP,3514924.0
+Embaúba/SP,SP,3514957.0
+Embu das Artes/SP,SP,3515004.0
+Emilianópolis/SP,SP,3515129.0
+Engenheiro Coelho/SP,SP,3515152.0
+Espírito Santo do Pinhal/SP,SP,3515186.0
+Espírito Santo do Turvo/SP,SP,3515194.0
+Estrela d'Oeste/SP,SP,3515202.0
+Estrela do Norte/SP,SP,3515301.0
+Euclides da Cunha Paulista/SP,SP,3515350.0
+Fartura/SP,SP,3515400.0
+Fernandópolis/SP,SP,3515509.0
+Fernando Prestes/SP,SP,3515608.0
+Fernão/SP,SP,3515657.0
+Ferraz de Vasconcelos/SP,SP,3515707.0
+Flora Rica/SP,SP,3515806.0
+Floreal/SP,SP,3515905.0
+Flórida Paulista/SP,SP,3516002.0
+Florínea/SP,SP,3516101.0
+Franca/SP,SP,3516200.0
+Francisco Morato/SP,SP,3516309.0
+Franco da Rocha/SP,SP,3516408.0
+Gabriel Monteiro/SP,SP,3516507.0
+Gália/SP,SP,3516606.0
+Garça/SP,SP,3516705.0
+Gastão Vidigal/SP,SP,3516804.0
+Gavião Peixoto/SP,SP,3516853.0
+General Salgado/SP,SP,3516903.0
+Getulina/SP,SP,3517000.0
+Glicério/SP,SP,3517109.0
+Guaiçara/SP,SP,3517208.0
+Guaimbê/SP,SP,3517307.0
+Guaíra/SP,SP,3517406.0
+Guapiaçu/SP,SP,3517505.0
+Guapiara/SP,SP,3517604.0
+Guará/SP,SP,3517703.0
+Guaraçaí/SP,SP,3517802.0
+Guaraci/SP,SP,3517901.0
+Guarani d'Oeste/SP,SP,3518008.0
+Guarantã/SP,SP,3518107.0
+Guararapes/SP,SP,3518206.0
+Guararema/SP,SP,3518305.0
+Guaratinguetá/SP,SP,3518404.0
+Guareí/SP,SP,3518503.0
+Guariba/SP,SP,3518602.0
+Guarujá/SP,SP,3518701.0
+Guarulhos/SP,SP,3518800.0
+Guatapará/SP,SP,3518859.0
+Guzolândia/SP,SP,3518909.0
+Herculândia/SP,SP,3519006.0
+Holambra/SP,SP,3519055.0
+Hortolândia/SP,SP,3519071.0
+Iacanga/SP,SP,3519105.0
+Iacri/SP,SP,3519204.0
+Iaras/SP,SP,3519253.0
+Ibaté/SP,SP,3519303.0
+Ibirá/SP,SP,3519402.0
+Ibirarema/SP,SP,3519501.0
+Ibitinga/SP,SP,3519600.0
+Ibiúna/SP,SP,3519709.0
+Icém/SP,SP,3519808.0
+Iepê/SP,SP,3519907.0
+Igaraçu do Tietê/SP,SP,3520004.0
+Igarapava/SP,SP,3520103.0
+Igaratá/SP,SP,3520202.0
+Iguape/SP,SP,3520301.0
+Ilha Comprida/SP,SP,3520426.0
+Ilha Solteira/SP,SP,3520442.0
+Indaiatuba/SP,SP,3520509.0
+Indiana/SP,SP,3520608.0
+Indiaporã/SP,SP,3520707.0
+Inúbia Paulista/SP,SP,3520806.0
+Ipaussu/SP,SP,3520905.0
+Iperó/SP,SP,3521002.0
+Ipeúna/SP,SP,3521101.0
+Ipiguá/SP,SP,3521150.0
+Iporanga/SP,SP,3521200.0
+Ipuã/SP,SP,3521309.0
+Iracemápolis/SP,SP,3521408.0
+Irapuã/SP,SP,3521507.0
+Irapuru/SP,SP,3521606.0
+Itaberá/SP,SP,3521705.0
+Itaí/SP,SP,3521804.0
+Itajobi/SP,SP,3521903.0
+Itaju/SP,SP,3522000.0
+Itanhaém/SP,SP,3522109.0
+Itaoca/SP,SP,3522158.0
+Itapecerica da Serra/SP,SP,3522208.0
+Itapetininga/SP,SP,3522307.0
+Itapeva/SP,SP,3522406.0
+Itapevi/SP,SP,3522505.0
+Itapira/SP,SP,3522604.0
+Itapirapuã Paulista/SP,SP,3522653.0
+Itápolis/SP,SP,3522703.0
+Itaporanga/SP,SP,3522802.0
+Itapuí/SP,SP,3522901.0
+Itapura/SP,SP,3523008.0
+Itaquaquecetuba/SP,SP,3523107.0
+Itararé/SP,SP,3523206.0
+Itariri/SP,SP,3523305.0
+Itatiba/SP,SP,3523404.0
+Itatinga/SP,SP,3523503.0
+Itirapina/SP,SP,3523602.0
+Itirapuã/SP,SP,3523701.0
+Itobi/SP,SP,3523800.0
+Itu/SP,SP,3523909.0
+Itupeva/SP,SP,3524006.0
+Ituverava/SP,SP,3524105.0
+Jaborandi/SP,SP,3524204.0
+Jaboticabal/SP,SP,3524303.0
+Jacareí/SP,SP,3524402.0
+Jaci/SP,SP,3524501.0
+Jacupiranga/SP,SP,3524600.0
+Jaguariúna/SP,SP,3524709.0
+Jales/SP,SP,3524808.0
+Jambeiro/SP,SP,3524907.0
+Jarinu/SP,SP,3525201.0
+Jaú/SP,SP,3525300.0
+Jeriquara/SP,SP,3525409.0
+Joanópolis/SP,SP,3525508.0
+João Ramalho/SP,SP,3525607.0
+José Bonifácio/SP,SP,3525706.0
+Júlio Mesquita/SP,SP,3525805.0
+Jumirim/SP,SP,3525854.0
+Jundiaí/SP,SP,3525904.0
+Junqueirópolis/SP,SP,3526001.0
+Juquiá/SP,SP,3526100.0
+Juquitiba/SP,SP,3526209.0
+Lagoinha/SP,SP,3526308.0
+Laranjal Paulista/SP,SP,3526407.0
+Lavínia/SP,SP,3526506.0
+Lavrinhas/SP,SP,3526605.0
+Leme/SP,SP,3526704.0
+Lençóis Paulista/SP,SP,3526803.0
+Limeira/SP,SP,3526902.0
+Lindóia/SP,SP,3527009.0
+Lins/SP,SP,3527108.0
+Lorena/SP,SP,3527207.0
+Louveira/SP,SP,3527306.0
+Lucélia/SP,SP,3527405.0
+Lucianópolis/SP,SP,3527504.0
+Luís Antônio/SP,SP,3527603.0
+Luiziânia/SP,SP,3527702.0
+Lupércio/SP,SP,3527801.0
+Lutécia/SP,SP,3527900.0
+Macatuba/SP,SP,3528007.0
+Macaubal/SP,SP,3528106.0
+Magda/SP,SP,3528304.0
+Mairinque/SP,SP,3528403.0
+Mairiporã/SP,SP,3528502.0
+Manduri/SP,SP,3528601.0
+Marabá Paulista/SP,SP,3528700.0
+Maracaí/SP,SP,3528809.0
+Marapoama/SP,SP,3528858.0
+Mariápolis/SP,SP,3528908.0
+Marília/SP,SP,3529005.0
+Marinópolis/SP,SP,3529104.0
+Martinópolis/SP,SP,3529203.0
+Matão/SP,SP,3529302.0
+Mauá/SP,SP,3529401.0
+Mendonça/SP,SP,3529500.0
+Meridiano/SP,SP,3529609.0
+Mesópolis/SP,SP,3529658.0
+Miguelópolis/SP,SP,3529708.0
+Mineiros do Tietê/SP,SP,3529807.0
+Miracatu/SP,SP,3529906.0
+Mira Estrela/SP,SP,3530003.0
+Mirandópolis/SP,SP,3530102.0
+Mirante do Paranapanema/SP,SP,3530201.0
+Mirassol/SP,SP,3530300.0
+Mirassolândia/SP,SP,3530409.0
+Mococa/SP,SP,3530508.0
+Mogi das Cruzes/SP,SP,3530607.0
+Mogi Guaçu/SP,SP,3530706.0
+Mogi Mirim/SP,SP,3530805.0
+Mombuca/SP,SP,3530904.0
+Monções/SP,SP,3531001.0
+Mongaguá/SP,SP,3531100.0
+Monte Alegre do Sul/SP,SP,3531209.0
+Monte Alto/SP,SP,3531308.0
+Monte Aprazível/SP,SP,3531407.0
+Monte Azul Paulista/SP,SP,3531506.0
+Monte Castelo/SP,SP,3531605.0
+Monteiro Lobato/SP,SP,3531704.0
+Monte Mor/SP,SP,3531803.0
+Morro Agudo/SP,SP,3531902.0
+Morungaba/SP,SP,3532009.0
+Motuca/SP,SP,3532058.0
+Murutinga do Sul/SP,SP,3532108.0
+Nantes/SP,SP,3532157.0
+Narandiba/SP,SP,3532207.0
+Natividade da Serra/SP,SP,3532306.0
+Nazaré Paulista/SP,SP,3532405.0
+Neves Paulista/SP,SP,3532504.0
+Nhandeara/SP,SP,3532603.0
+Nipoã/SP,SP,3532702.0
+Nova Aliança/SP,SP,3532801.0
+Nova Campina/SP,SP,3532827.0
+Nova Canaã Paulista/SP,SP,3532843.0
+Nova Europa/SP,SP,3532900.0
+Nova Granada/SP,SP,3533007.0
+Nova Guataporanga/SP,SP,3533106.0
+Nova Independência/SP,SP,3533205.0
+Novais/SP,SP,3533254.0
+Nova Luzitânia/SP,SP,3533304.0
+Nova Odessa/SP,SP,3533403.0
+Novo Horizonte/SP,SP,3533502.0
+Nuporanga/SP,SP,3533601.0
+Ocauçu/SP,SP,3533700.0
+Óleo/SP,SP,3533809.0
+Olímpia/SP,SP,3533908.0
+Onda Verde/SP,SP,3534005.0
+Oriente/SP,SP,3534104.0
+Orindiúva/SP,SP,3534203.0
+Orlândia/SP,SP,3534302.0
+Osasco/SP,SP,3534401.0
+Oscar Bressane/SP,SP,3534500.0
+Osvaldo Cruz/SP,SP,3534609.0
+Ourinhos/SP,SP,3534708.0
+Ouroeste/SP,SP,3534757.0
+Ouro Verde/SP,SP,3534807.0
+Pacaembu/SP,SP,3534906.0
+Palestina/SP,SP,3535002.0
+Palmares Paulista/SP,SP,3535101.0
+Palmeira d'Oeste/SP,SP,3535200.0
+Palmital/SP,SP,3535309.0
+Panorama/SP,SP,3535408.0
+Paraguaçu Paulista/SP,SP,3535507.0
+Paraibuna/SP,SP,3535606.0
+Paraíso/SP,SP,3535705.0
+Paranapanema/SP,SP,3535804.0
+Paranapuã/SP,SP,3535903.0
+Parapuã/SP,SP,3536000.0
+Pardinho/SP,SP,3536109.0
+Pariquera-Açu/SP,SP,3536208.0
+Patrocínio Paulista/SP,SP,3536307.0
+Paulicéia/SP,SP,3536406.0
+Paulínia/SP,SP,3536505.0
+Paulistânia/SP,SP,3536570.0
+Paulo de Faria/SP,SP,3536604.0
+Pederneiras/SP,SP,3536703.0
+Pedra Bela/SP,SP,3536802.0
+Pedregulho/SP,SP,3537008.0
+Pedreira/SP,SP,3537107.0
+Pedrinhas Paulista/SP,SP,3537156.0
+Pedro de Toledo/SP,SP,3537206.0
+Penápolis/SP,SP,3537305.0
+Pereira Barreto/SP,SP,3537404.0
+Pereiras/SP,SP,3537503.0
+Peruíbe/SP,SP,3537602.0
+Piacatu/SP,SP,3537701.0
+Piedade/SP,SP,3537800.0
+Pilar do Sul/SP,SP,3537909.0
+Pindamonhangaba/SP,SP,3538006.0
+Pindorama/SP,SP,3538105.0
+Pinhalzinho/SP,SP,3538204.0
+Piquerobi/SP,SP,3538303.0
+Piquete/SP,SP,3538501.0
+Piracaia/SP,SP,3538600.0
+Piracicaba/SP,SP,3538709.0
+Piraju/SP,SP,3538808.0
+Pirajuí/SP,SP,3538907.0
+Pirangi/SP,SP,3539004.0
+Pirapora do Bom Jesus/SP,SP,3539103.0
+Pirapozinho/SP,SP,3539202.0
+Pirassununga/SP,SP,3539301.0
+Piratininga/SP,SP,3539400.0
+Pitangueiras/SP,SP,3539509.0
+Planalto/SP,SP,3539608.0
+Platina/SP,SP,3539707.0
+Poá/SP,SP,3539806.0
+Poloni/SP,SP,3539905.0
+Pompéia/SP,SP,3540002.0
+Pongaí/SP,SP,3540101.0
+Pontal/SP,SP,3540200.0
+Pontalinda/SP,SP,3540259.0
+Pontes Gestal/SP,SP,3540309.0
+Populina/SP,SP,3540408.0
+Porangaba/SP,SP,3540507.0
+Porto Feliz/SP,SP,3540606.0
+Porto Ferreira/SP,SP,3540705.0
+Potirendaba/SP,SP,3540804.0
+Pradópolis/SP,SP,3540903.0
+Praia Grande/SP,SP,3541000.0
+Pratânia/SP,SP,3541059.0
+Presidente Alves/SP,SP,3541109.0
+Presidente Bernardes/SP,SP,3541208.0
+Presidente Epitácio/SP,SP,3541307.0
+Presidente Prudente/SP,SP,3541406.0
+Presidente Venceslau/SP,SP,3541505.0
+Promissão/SP,SP,3541604.0
+Quadra/SP,SP,3541653.0
+Quatá/SP,SP,3541703.0
+Queiroz/SP,SP,3541802.0
+Queluz/SP,SP,3541901.0
+Quintana/SP,SP,3542008.0
+Rafard/SP,SP,3542107.0
+Rancharia/SP,SP,3542206.0
+Redenção da Serra/SP,SP,3542305.0
+Regente Feijó/SP,SP,3542404.0
+Reginópolis/SP,SP,3542503.0
+Registro/SP,SP,3542602.0
+Ribeira/SP,SP,3542800.0
+Ribeirão Bonito/SP,SP,3542909.0
+Ribeirão Branco/SP,SP,3543006.0
+Ribeirão Corrente/SP,SP,3543105.0
+Ribeirão do Sul/SP,SP,3543204.0
+Ribeirão dos Índios/SP,SP,3543238.0
+Ribeirão Grande/SP,SP,3543253.0
+Ribeirão Pires/SP,SP,3543303.0
+Ribeirão Preto/SP,SP,3543402.0
+Riversul/SP,SP,3543501.0
+Rifaina/SP,SP,3543600.0
+Rincão/SP,SP,3543709.0
+Rinópolis/SP,SP,3543808.0
+Rio Claro/SP,SP,3543907.0
+Rio das Pedras/SP,SP,3544004.0
+Riolândia/SP,SP,3544202.0
+Rosana/SP,SP,3544251.0
+Roseira/SP,SP,3544301.0
+Rubinéia/SP,SP,3544509.0
+Sabino/SP,SP,3544608.0
+Sagres/SP,SP,3544707.0
+Sales/SP,SP,3544806.0
+Sales Oliveira/SP,SP,3544905.0
+Salesópolis/SP,SP,3545001.0
+Salmourão/SP,SP,3545100.0
+Saltinho/SP,SP,3545159.0
+Salto/SP,SP,3545209.0
+Salto de Pirapora/SP,SP,3545308.0
+Salto Grande/SP,SP,3545407.0
+Sandovalina/SP,SP,3545506.0
+Santa Adélia/SP,SP,3545605.0
+Santa Albertina/SP,SP,3545704.0
+Santa Bárbara d'Oeste/SP,SP,3545803.0
+Santa Branca/SP,SP,3546009.0
+Santa Cruz da Conceição/SP,SP,3546207.0
+Santa Cruz da Esperança/SP,SP,3546256.0
+Santa Cruz das Palmeiras/SP,SP,3546306.0
+Santa Cruz do Rio Pardo/SP,SP,3546405.0
+Santa Ernestina/SP,SP,3546504.0
+Santa Fé do Sul/SP,SP,3546603.0
+Santa Gertrudes/SP,SP,3546702.0
+Santa Isabel/SP,SP,3546801.0
+Santa Lúcia/SP,SP,3546900.0
+Santa Maria da Serra/SP,SP,3547007.0
+Santa Mercedes/SP,SP,3547106.0
+Santana da Ponte Pensa/SP,SP,3547205.0
+Santana de Parnaíba/SP,SP,3547304.0
+Santa Rita d'Oeste/SP,SP,3547403.0
+Santa Rita do Passa Quatro/SP,SP,3547502.0
+Santa Rosa de Viterbo/SP,SP,3547601.0
+Santa Salete/SP,SP,3547650.0
+Santo Anastácio/SP,SP,3547700.0
+Santo André/SP,SP,3547809.0
+Santo Antônio da Alegria/SP,SP,3547908.0
+Santo Antônio de Posse/SP,SP,3548005.0
+Santo Antônio do Aracanguá/SP,SP,3548054.0
+Santo Antônio do Jardim/SP,SP,3548104.0
+Santo Antônio do Pinhal/SP,SP,3548203.0
+Santo Expedito/SP,SP,3548302.0
+Santópolis do Aguapeí/SP,SP,3548401.0
+Santos/SP,SP,3548500.0
+São Bento do Sapucaí/SP,SP,3548609.0
+São Bernardo do Campo/SP,SP,3548708.0
+São Caetano do Sul/SP,SP,3548807.0
+São Carlos/SP,SP,3548906.0
+São Francisco/SP,SP,3549003.0
+São João da Boa Vista/SP,SP,3549102.0
+São João do Pau d'Alho/SP,SP,3549300.0
+São Joaquim da Barra/SP,SP,3549409.0
+São José da Bela Vista/SP,SP,3549508.0
+São José do Barreiro/SP,SP,3549607.0
+São José do Rio Pardo/SP,SP,3549706.0
+São José do Rio Preto/SP,SP,3549805.0
+São José dos Campos/SP,SP,3549904.0
+São Lourenço da Serra/SP,SP,3549953.0
+São Luiz do Paraitinga/SP,SP,3550001.0
+São Manuel/SP,SP,3550100.0
+São Miguel Arcanjo/SP,SP,3550209.0
+São Paulo/SP,SP,3550308.0
+São Pedro/SP,SP,3550407.0
+São Pedro do Turvo/SP,SP,3550506.0
+São Roque/SP,SP,3550605.0
+São Sebastião/SP,SP,3550704.0
+São Sebastião da Grama/SP,SP,3550803.0
+São Simão/SP,SP,3550902.0
+São Vicente/SP,SP,3551009.0
+Sarapuí/SP,SP,3551108.0
+Sarutaiá/SP,SP,3551207.0
+Sebastianópolis do Sul/SP,SP,3551306.0
+Serra Azul/SP,SP,3551405.0
+Serrana/SP,SP,3551504.0
+Serra Negra/SP,SP,3551603.0
+Sertãozinho/SP,SP,3551702.0
+Sete Barras/SP,SP,3551801.0
+Severínia/SP,SP,3551900.0
+Silveiras/SP,SP,3552007.0
+Socorro/SP,SP,3552106.0
+Sorocaba/SP,SP,3552205.0
+Sud Mennucci/SP,SP,3552304.0
+Sumaré/SP,SP,3552403.0
+Suzano/SP,SP,3552502.0
+Suzanápolis/SP,SP,3552551.0
+Tabapuã/SP,SP,3552601.0
+Tabatinga/SP,SP,3552700.0
+Taboão da Serra/SP,SP,3552809.0
+Taciba/SP,SP,3552908.0
+Taguaí/SP,SP,3553005.0
+Taiaçu/SP,SP,3553104.0
+Taiúva/SP,SP,3553203.0
+Tambaú/SP,SP,3553302.0
+Tanabi/SP,SP,3553401.0
+Tapiraí/SP,SP,3553500.0
+Tapiratiba/SP,SP,3553609.0
+Taquaral/SP,SP,3553658.0
+Taquaritinga/SP,SP,3553708.0
+Taquarituba/SP,SP,3553807.0
+Taquarivaí/SP,SP,3553856.0
+Tarabai/SP,SP,3553906.0
+Tarumã/SP,SP,3553955.0
+Tatuí/SP,SP,3554003.0
+Taubaté/SP,SP,3554102.0
+Tejupá/SP,SP,3554201.0
+Teodoro Sampaio/SP,SP,3554300.0
+Terra Roxa/SP,SP,3554409.0
+Tietê/SP,SP,3554508.0
+Timburi/SP,SP,3554607.0
+Torre de Pedra/SP,SP,3554656.0
+Torrinha/SP,SP,3554706.0
+Tremembé/SP,SP,3554805.0
+Três Fronteiras/SP,SP,3554904.0
+Tuiuti/SP,SP,3554953.0
+Tupã/SP,SP,3555000.0
+Tupi Paulista/SP,SP,3555109.0
+Turiúba/SP,SP,3555208.0
+Turmalina/SP,SP,3555307.0
+Ubarana/SP,SP,3555356.0
+Ubatuba/SP,SP,3555406.0
+Ubirajara/SP,SP,3555505.0
+Uchoa/SP,SP,3555604.0
+União Paulista/SP,SP,3555703.0
+Urânia/SP,SP,3555802.0
+Uru/SP,SP,3555901.0
+Urupês/SP,SP,3556008.0
+Valentim Gentil/SP,SP,3556107.0
+Valinhos/SP,SP,3556206.0
+Valparaíso/SP,SP,3556305.0
+Vargem/SP,SP,3556354.0
+Vargem Grande do Sul/SP,SP,3556404.0
+Vargem Grande Paulista/SP,SP,3556453.0
+Várzea Paulista/SP,SP,3556503.0
+Vera Cruz/SP,SP,3556602.0
+Vinhedo/SP,SP,3556701.0
+Viradouro/SP,SP,3556800.0
+Vista Alegre do Alto/SP,SP,3556909.0
+Vitória Brasil/SP,SP,3556958.0
+Votorantim/SP,SP,3557006.0
+Votuporanga/SP,SP,3557105.0
+Zacarias/SP,SP,3557154.0
+Chavantes/SP,SP,3557204.0
+Abatiá/PR,PR,4100103.0
+Adrianópolis/PR,PR,4100202.0
+Agudos do Sul/PR,PR,4100301.0
+Altamira do Paraná/PR,PR,4100459.0
+Altônia/PR,PR,4100509.0
+Alto Paraná/PR,PR,4100608.0
+Alto Piquiri/PR,PR,4100707.0
+Alvorada do Sul/PR,PR,4100806.0
+Amaporã/PR,PR,4100905.0
+Ampére/PR,PR,4101002.0
+Andirá/PR,PR,4101101.0
+Ângulo/PR,PR,4101150.0
+Antonina/PR,PR,4101200.0
+Antônio Olinto/PR,PR,4101309.0
+Apucarana/PR,PR,4101408.0
+Arapongas/PR,PR,4101507.0
+Arapoti/PR,PR,4101606.0
+Arapuã/PR,PR,4101655.0
+Araruna/PR,PR,4101705.0
+Araucária/PR,PR,4101804.0
+Ariranha do Ivaí/PR,PR,4101853.0
+Assaí/PR,PR,4101903.0
+Assis Chateaubriand/PR,PR,4102000.0
+Astorga/PR,PR,4102109.0
+Atalaia/PR,PR,4102208.0
+Balsa Nova/PR,PR,4102307.0
+Bandeirantes/PR,PR,4102406.0
+Barbosa Ferraz/PR,PR,4102505.0
+Barracão/PR,PR,4102604.0
+Barra do Jacaré/PR,PR,4102703.0
+Bela Vista da Caroba/PR,PR,4102752.0
+Bela Vista do Paraíso/PR,PR,4102802.0
+Bituruna/PR,PR,4102901.0
+Boa Esperança do Iguaçu/PR,PR,4103024.0
+Boa Ventura de São Roque/PR,PR,4103040.0
+Boa Vista da Aparecida/PR,PR,4103057.0
+Bocaiúva do Sul/PR,PR,4103107.0
+Bom Jesus do Sul/PR,PR,4103156.0
+Bom Sucesso/PR,PR,4103206.0
+Bom Sucesso do Sul/PR,PR,4103222.0
+Borrazópolis/PR,PR,4103305.0
+Braganey/PR,PR,4103354.0
+Brasilândia do Sul/PR,PR,4103370.0
+Cafeara/PR,PR,4103404.0
+Cafelândia/PR,PR,4103453.0
+Cafezal do Sul/PR,PR,4103479.0
+Califórnia/PR,PR,4103503.0
+Cambará/PR,PR,4103602.0
+Cambé/PR,PR,4103701.0
+Cambira/PR,PR,4103800.0
+Campina da Lagoa/PR,PR,4103909.0
+Campina do Simão/PR,PR,4103958.0
+Campina Grande do Sul/PR,PR,4104006.0
+Campo Bonito/PR,PR,4104055.0
+Campo do Tenente/PR,PR,4104105.0
+Campo Largo/PR,PR,4104204.0
+Campo Mourão/PR,PR,4104303.0
+Cândido de Abreu/PR,PR,4104402.0
+Candói/PR,PR,4104428.0
+Cantagalo/PR,PR,4104451.0
+Capanema/PR,PR,4104501.0
+Capitão Leônidas Marques/PR,PR,4104600.0
+Carambeí/PR,PR,4104659.0
+Carlópolis/PR,PR,4104709.0
+Cascavel/PR,PR,4104808.0
+Castro/PR,PR,4104907.0
+Catanduvas/PR,PR,4105003.0
+Centenário do Sul/PR,PR,4105102.0
+Cerro Azul/PR,PR,4105201.0
+Céu Azul/PR,PR,4105300.0
+Chopinzinho/PR,PR,4105409.0
+Cianorte/PR,PR,4105508.0
+Cidade Gaúcha/PR,PR,4105607.0
+Clevelândia/PR,PR,4105706.0
+Colorado/PR,PR,4105904.0
+Congonhinhas/PR,PR,4106001.0
+Conselheiro Mairinck/PR,PR,4106100.0
+Contenda/PR,PR,4106209.0
+Corbélia/PR,PR,4106308.0
+Cornélio Procópio/PR,PR,4106407.0
+Coronel Domingos Soares/PR,PR,4106456.0
+Coronel Vivida/PR,PR,4106506.0
+Corumbataí do Sul/PR,PR,4106555.0
+Cruzeiro do Iguaçu/PR,PR,4106571.0
+Cruzeiro do Oeste/PR,PR,4106605.0
+Cruzeiro do Sul/PR,PR,4106704.0
+Cruz Machado/PR,PR,4106803.0
+Cruzmaltina/PR,PR,4106852.0
+Curitiba/PR,PR,4106902.0
+Curiúva/PR,PR,4107009.0
+Diamante do Norte/PR,PR,4107108.0
+Diamante do Sul/PR,PR,4107124.0
+Diamante D'Oeste/PR,PR,4107157.0
+Dois Vizinhos/PR,PR,4107207.0
+Douradina/PR,PR,4107256.0
+Doutor Camargo/PR,PR,4107306.0
+Enéas Marques/PR,PR,4107405.0
+Engenheiro Beltrão/PR,PR,4107504.0
+Esperança Nova/PR,PR,4107520.0
+Entre Rios do Oeste/PR,PR,4107538.0
+Espigão Alto do Iguaçu/PR,PR,4107546.0
+Farol/PR,PR,4107553.0
+Faxinal/PR,PR,4107603.0
+Fazenda Rio Grande/PR,PR,4107652.0
+Fênix/PR,PR,4107702.0
+Fernandes Pinheiro/PR,PR,4107736.0
+Figueira/PR,PR,4107751.0
+Floraí/PR,PR,4107801.0
+Flor da Serra do Sul/PR,PR,4107850.0
+Floresta/PR,PR,4107900.0
+Florestópolis/PR,PR,4108007.0
+Flórida/PR,PR,4108106.0
+Formosa do Oeste/PR,PR,4108205.0
+Foz do Iguaçu/PR,PR,4108304.0
+Francisco Alves/PR,PR,4108320.0
+Francisco Beltrão/PR,PR,4108403.0
+Foz do Jordão/PR,PR,4108452.0
+General Carneiro/PR,PR,4108502.0
+Godoy Moreira/PR,PR,4108551.0
+Goioerê/PR,PR,4108601.0
+Goioxim/PR,PR,4108650.0
+Grandes Rios/PR,PR,4108700.0
+Guaíra/PR,PR,4108809.0
+Guairaçá/PR,PR,4108908.0
+Guamiranga/PR,PR,4108957.0
+Guapirama/PR,PR,4109005.0
+Guaraci/PR,PR,4109203.0
+Guaraniaçu/PR,PR,4109302.0
+Guarapuava/PR,PR,4109401.0
+Guaraqueçaba/PR,PR,4109500.0
+Guaratuba/PR,PR,4109609.0
+Honório Serpa/PR,PR,4109658.0
+Ibaiti/PR,PR,4109708.0
+Ibema/PR,PR,4109757.0
+Ibiporã/PR,PR,4109807.0
+Icaraíma/PR,PR,4109906.0
+Iguaraçu/PR,PR,4110003.0
+Iguatu/PR,PR,4110052.0
+Imbaú/PR,PR,4110078.0
+Imbituva/PR,PR,4110102.0
+Inácio Martins/PR,PR,4110201.0
+Inajá/PR,PR,4110300.0
+Indianópolis/PR,PR,4110409.0
+Ipiranga/PR,PR,4110508.0
+Iporã/PR,PR,4110607.0
+Iracema do Oeste/PR,PR,4110656.0
+Irati/PR,PR,4110706.0
+Iretama/PR,PR,4110805.0
+Itaguajé/PR,PR,4110904.0
+Itaipulândia/PR,PR,4110953.0
+Itambaracá/PR,PR,4111001.0
+Itambé/PR,PR,4111100.0
+Itapejara d'Oeste/PR,PR,4111209.0
+Itaúna do Sul/PR,PR,4111308.0
+Ivaí/PR,PR,4111407.0
+Ivaiporã/PR,PR,4111506.0
+Ivaté/PR,PR,4111555.0
+Ivatuba/PR,PR,4111605.0
+Jaboti/PR,PR,4111704.0
+Jacarezinho/PR,PR,4111803.0
+Jaguapitã/PR,PR,4111902.0
+Jaguariaíva/PR,PR,4112009.0
+Jandaia do Sul/PR,PR,4112108.0
+Janiópolis/PR,PR,4112207.0
+Japira/PR,PR,4112306.0
+Japurá/PR,PR,4112405.0
+Jardim Alegre/PR,PR,4112504.0
+Jataizinho/PR,PR,4112702.0
+Jesuítas/PR,PR,4112751.0
+Joaquim Távora/PR,PR,4112801.0
+Jundiaí do Sul/PR,PR,4112900.0
+Juranda/PR,PR,4112959.0
+Jussara/PR,PR,4113007.0
+Kaloré/PR,PR,4113106.0
+Lapa/PR,PR,4113205.0
+Laranjal/PR,PR,4113254.0
+Laranjeiras do Sul/PR,PR,4113304.0
+Leópolis/PR,PR,4113403.0
+Lidianópolis/PR,PR,4113429.0
+Lindoeste/PR,PR,4113452.0
+Loanda/PR,PR,4113502.0
+Lobato/PR,PR,4113601.0
+Londrina/PR,PR,4113700.0
+Luiziana/PR,PR,4113734.0
+Lunardelli/PR,PR,4113759.0
+Lupionópolis/PR,PR,4113809.0
+Mallet/PR,PR,4113908.0
+Mamborê/PR,PR,4114005.0
+Mandaguaçu/PR,PR,4114104.0
+Mandaguari/PR,PR,4114203.0
+Mandirituba/PR,PR,4114302.0
+Manfrinópolis/PR,PR,4114351.0
+Mangueirinha/PR,PR,4114401.0
+Manoel Ribas/PR,PR,4114500.0
+Marechal Cândido Rondon/PR,PR,4114609.0
+Maria Helena/PR,PR,4114708.0
+Marialva/PR,PR,4114807.0
+Marilândia do Sul/PR,PR,4114906.0
+Mariluz/PR,PR,4115101.0
+Maringá/PR,PR,4115200.0
+Mariópolis/PR,PR,4115309.0
+Maripá/PR,PR,4115358.0
+Marmeleiro/PR,PR,4115408.0
+Marquinho/PR,PR,4115457.0
+Marumbi/PR,PR,4115507.0
+Matelândia/PR,PR,4115606.0
+Matinhos/PR,PR,4115705.0
+Mato Rico/PR,PR,4115739.0
+Mauá da Serra/PR,PR,4115754.0
+Medianeira/PR,PR,4115804.0
+Mercedes/PR,PR,4115853.0
+Miraselva/PR,PR,4116000.0
+Missal/PR,PR,4116059.0
+Moreira Sales/PR,PR,4116109.0
+Morretes/PR,PR,4116208.0
+Munhoz de Melo/PR,PR,4116307.0
+Nossa Senhora das Graças/PR,PR,4116406.0
+Nova América da Colina/PR,PR,4116604.0
+Nova Aurora/PR,PR,4116703.0
+Nova Cantu/PR,PR,4116802.0
+Nova Esperança/PR,PR,4116901.0
+Nova Esperança do Sudoeste/PR,PR,4116950.0
+Nova Fátima/PR,PR,4117008.0
+Nova Laranjeiras/PR,PR,4117057.0
+Nova Londrina/PR,PR,4117107.0
+Nova Olímpia/PR,PR,4117206.0
+Nova Santa Bárbara/PR,PR,4117214.0
+Nova Santa Rosa/PR,PR,4117222.0
+Nova Prata do Iguaçu/PR,PR,4117255.0
+Nova Tebas/PR,PR,4117271.0
+Novo Itacolomi/PR,PR,4117297.0
+Ortigueira/PR,PR,4117305.0
+Ourizona/PR,PR,4117404.0
+Ouro Verde do Oeste/PR,PR,4117453.0
+Paiçandu/PR,PR,4117503.0
+Palmas/PR,PR,4117602.0
+Palmeira/PR,PR,4117701.0
+Palmital/PR,PR,4117800.0
+Palotina/PR,PR,4117909.0
+Paraíso do Norte/PR,PR,4118006.0
+Paranacity/PR,PR,4118105.0
+Paranaguá/PR,PR,4118204.0
+Paranapoema/PR,PR,4118303.0
+Paranavaí/PR,PR,4118402.0
+Pato Bragado/PR,PR,4118451.0
+Pato Branco/PR,PR,4118501.0
+Paula Freitas/PR,PR,4118600.0
+Paulo Frontin/PR,PR,4118709.0
+Peabiru/PR,PR,4118808.0
+Perobal/PR,PR,4118857.0
+Pérola/PR,PR,4118907.0
+Pérola d'Oeste/PR,PR,4119004.0
+Piên/PR,PR,4119103.0
+Pinhalão/PR,PR,4119202.0
+Pinhal de São Bento/PR,PR,4119251.0
+Pinhão/PR,PR,4119301.0
+Piraí do Sul/PR,PR,4119400.0
+Pitanga/PR,PR,4119608.0
+Pitangueiras/PR,PR,4119657.0
+Planaltina do Paraná/PR,PR,4119707.0
+Planalto/PR,PR,4119806.0
+Ponta Grossa/PR,PR,4119905.0
+Pontal do Paraná/PR,PR,4119954.0
+Porecatu/PR,PR,4120002.0
+Porto Amazonas/PR,PR,4120101.0
+Porto Barreiro/PR,PR,4120150.0
+Porto Rico/PR,PR,4120200.0
+Porto Vitória/PR,PR,4120309.0
+Prado Ferreira/PR,PR,4120333.0
+Pranchita/PR,PR,4120358.0
+Presidente Castelo Branco/PR,PR,4120408.0
+Primeiro de Maio/PR,PR,4120507.0
+Prudentópolis/PR,PR,4120606.0
+Quarto Centenário/PR,PR,4120655.0
+Quatiguá/PR,PR,4120705.0
+Quatro Barras/PR,PR,4120804.0
+Quatro Pontes/PR,PR,4120853.0
+Quedas do Iguaçu/PR,PR,4120903.0
+Querência do Norte/PR,PR,4121000.0
+Quinta do Sol/PR,PR,4121109.0
+Quitandinha/PR,PR,4121208.0
+Rancho Alegre/PR,PR,4121307.0
+Realeza/PR,PR,4121406.0
+Rebouças/PR,PR,4121505.0
+Renascença/PR,PR,4121604.0
+Reserva/PR,PR,4121703.0
+Reserva do Iguaçu/PR,PR,4121752.0
+Ribeirão Claro/PR,PR,4121802.0
+Ribeirão do Pinhal/PR,PR,4121901.0
+Rio Azul/PR,PR,4122008.0
+Rio Bom/PR,PR,4122107.0
+Rio Bonito do Iguaçu/PR,PR,4122156.0
+Rio Branco do Ivaí/PR,PR,4122172.0
+Rio Branco do Sul/PR,PR,4122206.0
+Rio Negro/PR,PR,4122305.0
+Rolândia/PR,PR,4122404.0
+Roncador/PR,PR,4122503.0
+Rondon/PR,PR,4122602.0
+Rosário do Ivaí/PR,PR,4122651.0
+Sabáudia/PR,PR,4122701.0
+Salgado Filho/PR,PR,4122800.0
+Salto do Itararé/PR,PR,4122909.0
+Salto do Lontra/PR,PR,4123006.0
+Santa Amélia/PR,PR,4123105.0
+Santa Cecília do Pavão/PR,PR,4123204.0
+Santa Cruz de Monte Castelo/PR,PR,4123303.0
+Santa Fé/PR,PR,4123402.0
+Santa Helena/PR,PR,4123501.0
+Santa Inês/PR,PR,4123600.0
+Santa Isabel do Ivaí/PR,PR,4123709.0
+Santa Izabel do Oeste/PR,PR,4123808.0
+Santa Lúcia/PR,PR,4123824.0
+Santa Maria do Oeste/PR,PR,4123857.0
+Santa Mariana/PR,PR,4123907.0
+Santa Mônica/PR,PR,4123956.0
+Santana do Itararé/PR,PR,4124004.0
+Santa Tereza do Oeste/PR,PR,4124020.0
+Santa Terezinha de Itaipu/PR,PR,4124053.0
+Santo Antônio da Platina/PR,PR,4124103.0
+Santo Antônio do Caiuá/PR,PR,4124202.0
+Santo Antônio do Paraíso/PR,PR,4124301.0
+Santo Antônio do Sudoeste/PR,PR,4124400.0
+Santo Inácio/PR,PR,4124509.0
+São Carlos do Ivaí/PR,PR,4124608.0
+São Jerônimo da Serra/PR,PR,4124707.0
+São João/PR,PR,4124806.0
+São João do Caiuá/PR,PR,4124905.0
+São João do Ivaí/PR,PR,4125001.0
+São João do Triunfo/PR,PR,4125100.0
+São Jorge d'Oeste/PR,PR,4125209.0
+São Jorge do Ivaí/PR,PR,4125308.0
+São Jorge do Patrocínio/PR,PR,4125357.0
+São José da Boa Vista/PR,PR,4125407.0
+São José das Palmeiras/PR,PR,4125456.0
+São José dos Pinhais/PR,PR,4125506.0
+São Manoel do Paraná/PR,PR,4125555.0
+São Mateus do Sul/PR,PR,4125605.0
+São Miguel do Iguaçu/PR,PR,4125704.0
+São Pedro do Iguaçu/PR,PR,4125753.0
+São Pedro do Ivaí/PR,PR,4125803.0
+São Pedro do Paraná/PR,PR,4125902.0
+São Sebastião da Amoreira/PR,PR,4126009.0
+São Tomé/PR,PR,4126108.0
+Sapopema/PR,PR,4126207.0
+Sarandi/PR,PR,4126256.0
+Saudade do Iguaçu/PR,PR,4126272.0
+Sengés/PR,PR,4126306.0
+Serranópolis do Iguaçu/PR,PR,4126355.0
+Sertaneja/PR,PR,4126405.0
+Sertanópolis/PR,PR,4126504.0
+Siqueira Campos/PR,PR,4126603.0
+Sulina/PR,PR,4126652.0
+Tamarana/PR,PR,4126678.0
+Tamboara/PR,PR,4126702.0
+Tapejara/PR,PR,4126801.0
+Tapira/PR,PR,4126900.0
+Teixeira Soares/PR,PR,4127007.0
+Telêmaco Borba/PR,PR,4127106.0
+Terra Boa/PR,PR,4127205.0
+Terra Rica/PR,PR,4127304.0
+Terra Roxa/PR,PR,4127403.0
+Tibagi/PR,PR,4127502.0
+Tijucas do Sul/PR,PR,4127601.0
+Toledo/PR,PR,4127700.0
+Tomazina/PR,PR,4127809.0
+Três Barras do Paraná/PR,PR,4127858.0
+Tunas do Paraná/PR,PR,4127882.0
+Tuneiras do Oeste/PR,PR,4127908.0
+Tupãssi/PR,PR,4127957.0
+Turvo/PR,PR,4127965.0
+Ubiratã/PR,PR,4128005.0
+Umuarama/PR,PR,4128104.0
+União da Vitória/PR,PR,4128203.0
+Uniflor/PR,PR,4128302.0
+Uraí/PR,PR,4128401.0
+Wenceslau Braz/PR,PR,4128500.0
+Ventania/PR,PR,4128534.0
+Vera Cruz do Oeste/PR,PR,4128559.0
+Verê/PR,PR,4128609.0
+Alto Paraíso/PR,PR,4128625.0
+Doutor Ulysses/PR,PR,4128633.0
+Virmond/PR,PR,4128658.0
+Vitorino/PR,PR,4128708.0
+Xambrê/PR,PR,4128807.0
+Abdon Batista/SC,SC,4200051.0
+Abelardo Luz/SC,SC,4200101.0
+Agrolândia/SC,SC,4200200.0
+Agronômica/SC,SC,4200309.0
+Água Doce/SC,SC,4200408.0
+Águas de Chapecó/SC,SC,4200507.0
+Águas Frias/SC,SC,4200556.0
+Águas Mornas/SC,SC,4200606.0
+Alfredo Wagner/SC,SC,4200705.0
+Alto Bela Vista/SC,SC,4200754.0
+Anchieta/SC,SC,4200804.0
+Anita Garibaldi/SC,SC,4201000.0
+Apiúna/SC,SC,4201257.0
+Arabutã/SC,SC,4201273.0
+Araquari/SC,SC,4201307.0
+Araranguá/SC,SC,4201406.0
+Armazém/SC,SC,4201505.0
+Arroio Trinta/SC,SC,4201604.0
+Ascurra/SC,SC,4201703.0
+Atalanta/SC,SC,4201802.0
+Aurora/SC,SC,4201901.0
+Balneário Camboriú/SC,SC,4202008.0
+Balneário Barra do Sul/SC,SC,4202057.0
+Bandeirante/SC,SC,4202081.0
+Barra Velha/SC,SC,4202107.0
+Bela Vista do Toldo/SC,SC,4202131.0
+Belmonte/SC,SC,4202156.0
+Benedito Novo/SC,SC,4202206.0
+Biguaçu/SC,SC,4202305.0
+Blumenau/SC,SC,4202404.0
+Bocaina do Sul/SC,SC,4202438.0
+Bombinhas/SC,SC,4202453.0
+Bom Jardim da Serra/SC,SC,4202503.0
+Bom Jesus/SC,SC,4202537.0
+Bom Jesus do Oeste/SC,SC,4202578.0
+Bom Retiro/SC,SC,4202602.0
+Braço do Norte/SC,SC,4202800.0
+Braço do Trombudo/SC,SC,4202859.0
+Brunópolis/SC,SC,4202875.0
+Brusque/SC,SC,4202909.0
+Caçador/SC,SC,4203006.0
+Caibi/SC,SC,4203105.0
+Calmon/SC,SC,4203154.0
+Camboriú/SC,SC,4203204.0
+Capão Alto/SC,SC,4203253.0
+Campo Alegre/SC,SC,4203303.0
+Campo Belo do Sul/SC,SC,4203402.0
+Campo Erê/SC,SC,4203501.0
+Campos Novos/SC,SC,4203600.0
+Canelinha/SC,SC,4203709.0
+Canoinhas/SC,SC,4203808.0
+Capinzal/SC,SC,4203907.0
+Capivari de Baixo/SC,SC,4203956.0
+Catanduvas/SC,SC,4204004.0
+Caxambu do Sul/SC,SC,4204103.0
+Celso Ramos/SC,SC,4204152.0
+Cerro Negro/SC,SC,4204178.0
+Chapecó/SC,SC,4204202.0
+Cocal do Sul/SC,SC,4204251.0
+Concórdia/SC,SC,4204301.0
+Cordilheira Alta/SC,SC,4204350.0
+Coronel Freitas/SC,SC,4204400.0
+Corupá/SC,SC,4204509.0
+Correia Pinto/SC,SC,4204558.0
+Criciúma/SC,SC,4204608.0
+Cunha Porã/SC,SC,4204707.0
+Cunhataí/SC,SC,4204756.0
+Curitibanos/SC,SC,4204806.0
+Descanso/SC,SC,4204905.0
+Dionísio Cerqueira/SC,SC,4205001.0
+Dona Emma/SC,SC,4205100.0
+Doutor Pedrinho/SC,SC,4205159.0
+Entre Rios/SC,SC,4205175.0
+Ermo/SC,SC,4205191.0
+Erval Velho/SC,SC,4205209.0
+Faxinal dos Guedes/SC,SC,4205308.0
+Florianópolis/SC,SC,4205407.0
+Formosa do Sul/SC,SC,4205431.0
+Forquilhinha/SC,SC,4205456.0
+Fraiburgo/SC,SC,4205506.0
+Frei Rogério/SC,SC,4205555.0
+Galvão/SC,SC,4205605.0
+Garopaba/SC,SC,4205704.0
+Garuva/SC,SC,4205803.0
+Gaspar/SC,SC,4205902.0
+Grão Pará/SC,SC,4206108.0
+Gravatal/SC,SC,4206207.0
+Guaraciaba/SC,SC,4206405.0
+Guaramirim/SC,SC,4206504.0
+Guarujá do Sul/SC,SC,4206603.0
+Guatambú/SC,SC,4206652.0
+Ibiam/SC,SC,4206751.0
+Ibicaré/SC,SC,4206801.0
+Ibirama/SC,SC,4206900.0
+Ilhota/SC,SC,4207106.0
+Imaruí/SC,SC,4207205.0
+Imbituba/SC,SC,4207304.0
+Imbuia/SC,SC,4207403.0
+Indaial/SC,SC,4207502.0
+Iomerê/SC,SC,4207577.0
+Ipira/SC,SC,4207601.0
+Iporã do Oeste/SC,SC,4207650.0
+Ipuaçu/SC,SC,4207684.0
+Ipumirim/SC,SC,4207700.0
+Iraceminha/SC,SC,4207759.0
+Irani/SC,SC,4207809.0
+Irati/SC,SC,4207858.0
+Irineópolis/SC,SC,4207908.0
+Itá/SC,SC,4208005.0
+Itaiópolis/SC,SC,4208104.0
+Itajaí/SC,SC,4208203.0
+Itapema/SC,SC,4208302.0
+Itapiranga/SC,SC,4208401.0
+Itapoá/SC,SC,4208450.0
+Ituporanga/SC,SC,4208500.0
+Jaborá/SC,SC,4208609.0
+Jacinto Machado/SC,SC,4208708.0
+Jaguaruna/SC,SC,4208807.0
+Jaraguá do Sul/SC,SC,4208906.0
+Joaçaba/SC,SC,4209003.0
+Joinville/SC,SC,4209102.0
+José Boiteux/SC,SC,4209151.0
+Jupiá/SC,SC,4209177.0
+Lacerdópolis/SC,SC,4209201.0
+Lages/SC,SC,4209300.0
+Laguna/SC,SC,4209409.0
+Lajeado Grande/SC,SC,4209458.0
+Laurentino/SC,SC,4209508.0
+Lauro Müller/SC,SC,4209607.0
+Lebon Régis/SC,SC,4209706.0
+Lindóia do Sul/SC,SC,4209854.0
+Lontras/SC,SC,4209904.0
+Luiz Alves/SC,SC,4210001.0
+Luzerna/SC,SC,4210035.0
+Macieira/SC,SC,4210050.0
+Mafra/SC,SC,4210100.0
+Major Gercino/SC,SC,4210209.0
+Major Vieira/SC,SC,4210308.0
+Maracajá/SC,SC,4210407.0
+Maravilha/SC,SC,4210506.0
+Marema/SC,SC,4210555.0
+Massaranduba/SC,SC,4210605.0
+Matos Costa/SC,SC,4210704.0
+Meleiro/SC,SC,4210803.0
+Modelo/SC,SC,4210902.0
+Mondaí/SC,SC,4211009.0
+Monte Carlo/SC,SC,4211058.0
+Monte Castelo/SC,SC,4211108.0
+Morro da Fumaça/SC,SC,4211207.0
+Morro Grande/SC,SC,4211256.0
+Navegantes/SC,SC,4211306.0
+Nova Erechim/SC,SC,4211405.0
+Nova Itaberaba/SC,SC,4211454.0
+Nova Trento/SC,SC,4211504.0
+Novo Horizonte/SC,SC,4211652.0
+Orleans/SC,SC,4211702.0
+Otacílio Costa/SC,SC,4211751.0
+Paial/SC,SC,4211876.0
+Painel/SC,SC,4211892.0
+Palhoça/SC,SC,4211900.0
+Palma Sola/SC,SC,4212007.0
+Palmeira/SC,SC,4212056.0
+Palmitos/SC,SC,4212106.0
+Papanduva/SC,SC,4212205.0
+Paraíso/SC,SC,4212239.0
+Passo de Torres/SC,SC,4212254.0
+Passos Maia/SC,SC,4212270.0
+Paulo Lopes/SC,SC,4212304.0
+Pedras Grandes/SC,SC,4212403.0
+Penha/SC,SC,4212502.0
+Peritiba/SC,SC,4212601.0
+Pescaria Brava/SC,SC,4212650.0
+Petrolândia/SC,SC,4212700.0
+Balneário Piçarras/SC,SC,4212809.0
+Pinhalzinho/SC,SC,4212908.0
+Pinheiro Preto/SC,SC,4213005.0
+Piratuba/SC,SC,4213104.0
+Planalto Alegre/SC,SC,4213153.0
+Pomerode/SC,SC,4213203.0
+Ponte Alta/SC,SC,4213302.0
+Ponte Alta do Norte/SC,SC,4213351.0
+Ponte Serrada/SC,SC,4213401.0
+Porto Belo/SC,SC,4213500.0
+Porto União/SC,SC,4213609.0
+Pouso Redondo/SC,SC,4213708.0
+Praia Grande/SC,SC,4213807.0
+Presidente Castello Branco/SC,SC,4213906.0
+Presidente Getúlio/SC,SC,4214003.0
+Presidente Nereu/SC,SC,4214102.0
+Princesa/SC,SC,4214151.0
+Quilombo/SC,SC,4214201.0
+Rancho Queimado/SC,SC,4214300.0
+Rio das Antas/SC,SC,4214409.0
+Rio do Campo/SC,SC,4214508.0
+Rio do Oeste/SC,SC,4214607.0
+Rio dos Cedros/SC,SC,4214706.0
+Rio do Sul/SC,SC,4214805.0
+Rio Fortuna/SC,SC,4214904.0
+Rio Negrinho/SC,SC,4215000.0
+Riqueza/SC,SC,4215075.0
+Rodeio/SC,SC,4215109.0
+Romelândia/SC,SC,4215208.0
+Saltinho/SC,SC,4215356.0
+Salto Veloso/SC,SC,4215406.0
+Sangão/SC,SC,4215455.0
+Santa Cecília/SC,SC,4215505.0
+Santa Helena/SC,SC,4215554.0
+Santa Rosa do Sul/SC,SC,4215653.0
+Santa Terezinha/SC,SC,4215679.0
+Santa Terezinha do Progresso/SC,SC,4215687.0
+Santo Amaro da Imperatriz/SC,SC,4215703.0
+São Bernardino/SC,SC,4215752.0
+São Bento do Sul/SC,SC,4215802.0
+São Bonifácio/SC,SC,4215901.0
+São Carlos/SC,SC,4216008.0
+São Cristóvão do Sul/SC,SC,4216057.0
+São Domingos/SC,SC,4216107.0
+São Francisco do Sul/SC,SC,4216206.0
+São João do Oeste/SC,SC,4216255.0
+São João Batista/SC,SC,4216305.0
+São João do Itaperiú/SC,SC,4216354.0
+São João do Sul/SC,SC,4216404.0
+São Joaquim/SC,SC,4216503.0
+São José/SC,SC,4216602.0
+São José do Cedro/SC,SC,4216701.0
+São José do Cerrito/SC,SC,4216800.0
+São Lourenço do Oeste/SC,SC,4216909.0
+São Ludgero/SC,SC,4217006.0
+São Martinho/SC,SC,4217105.0
+São Miguel da Boa Vista/SC,SC,4217154.0
+São Miguel do Oeste/SC,SC,4217204.0
+Saudades/SC,SC,4217303.0
+Seara/SC,SC,4217501.0
+Serra Alta/SC,SC,4217550.0
+Siderópolis/SC,SC,4217600.0
+Sombrio/SC,SC,4217709.0
+Sul Brasil/SC,SC,4217758.0
+Taió/SC,SC,4217808.0
+Tangará/SC,SC,4217907.0
+Tigrinhos/SC,SC,4217956.0
+Tijucas/SC,SC,4218004.0
+Timbé do Sul/SC,SC,4218103.0
+Timbó/SC,SC,4218202.0
+Três Barras/SC,SC,4218301.0
+Treviso/SC,SC,4218350.0
+Treze Tílias/SC,SC,4218509.0
+Trombudo Central/SC,SC,4218608.0
+Tubarão/SC,SC,4218707.0
+Turvo/SC,SC,4218806.0
+Urubici/SC,SC,4218905.0
+Urupema/SC,SC,4218954.0
+Urussanga/SC,SC,4219002.0
+Vargeão/SC,SC,4219101.0
+Vargem/SC,SC,4219150.0
+Vargem Bonita/SC,SC,4219176.0
+Vidal Ramos/SC,SC,4219200.0
+Videira/SC,SC,4219309.0
+Vitor Meireles/SC,SC,4219358.0
+Witmarsum/SC,SC,4219408.0
+Xanxerê/SC,SC,4219507.0
+Xavantina/SC,SC,4219606.0
+Xaxim/SC,SC,4219705.0
+Zortéa/SC,SC,4219853.0
+Aceguá/RS,RS,4300034.0
+Água Santa/RS,RS,4300059.0
+Agudo/RS,RS,4300109.0
+Ajuricaba/RS,RS,4300208.0
+Alecrim/RS,RS,4300307.0
+Alegrete/RS,RS,4300406.0
+Alegria/RS,RS,4300455.0
+Almirante Tamandaré do Sul/RS,RS,4300471.0
+Alpestre/RS,RS,4300505.0
+Alto Alegre/RS,RS,4300554.0
+Alto Feliz/RS,RS,4300570.0
+Alvorada/RS,RS,4300604.0
+Amaral Ferrador/RS,RS,4300638.0
+Ametista do Sul/RS,RS,4300646.0
+André da Rocha/RS,RS,4300661.0
+Anta Gorda/RS,RS,4300703.0
+Antônio Prado/RS,RS,4300802.0
+Arambaré/RS,RS,4300851.0
+Araricá/RS,RS,4300877.0
+Aratiba/RS,RS,4300901.0
+Arroio do Meio/RS,RS,4301008.0
+Arroio do Sal/RS,RS,4301057.0
+Arroio do Padre/RS,RS,4301073.0
+Arroio dos Ratos/RS,RS,4301107.0
+Arroio do Tigre/RS,RS,4301206.0
+Arroio Grande/RS,RS,4301305.0
+Arvorezinha/RS,RS,4301404.0
+Augusto Pestana/RS,RS,4301503.0
+Bagé/RS,RS,4301602.0
+Balneário Pinhal/RS,RS,4301636.0
+Barão/RS,RS,4301651.0
+Barão de Cotegipe/RS,RS,4301701.0
+Barão do Triunfo/RS,RS,4301750.0
+Barracão/RS,RS,4301800.0
+Barra do Guarita/RS,RS,4301859.0
+Barra do Quaraí/RS,RS,4301875.0
+Barra do Ribeiro/RS,RS,4301909.0
+Barra Funda/RS,RS,4301958.0
+Barros Cassal/RS,RS,4302006.0
+Benjamin Constant do Sul/RS,RS,4302055.0
+Bento Gonçalves/RS,RS,4302105.0
+Boa Vista das Missões/RS,RS,4302154.0
+Boa Vista do Buricá/RS,RS,4302204.0
+Boa Vista do Cadeado/RS,RS,4302220.0
+Boa Vista do Incra/RS,RS,4302238.0
+Boa Vista do Sul/RS,RS,4302253.0
+Bom Jesus/RS,RS,4302303.0
+Bom Princípio/RS,RS,4302352.0
+Bom Progresso/RS,RS,4302378.0
+Bom Retiro do Sul/RS,RS,4302402.0
+Boqueirão do Leão/RS,RS,4302451.0
+Bossoroca/RS,RS,4302501.0
+Bozano/RS,RS,4302584.0
+Brochier/RS,RS,4302659.0
+Butiá/RS,RS,4302709.0
+Caçapava do Sul/RS,RS,4302808.0
+Cacequi/RS,RS,4302907.0
+Cachoeira do Sul/RS,RS,4303004.0
+Cachoeirinha/RS,RS,4303103.0
+Cacique Doble/RS,RS,4303202.0
+Caibaté/RS,RS,4303301.0
+Caiçara/RS,RS,4303400.0
+Camaquã/RS,RS,4303509.0
+Camargo/RS,RS,4303558.0
+Cambará do Sul/RS,RS,4303608.0
+Campestre da Serra/RS,RS,4303673.0
+Campina das Missões/RS,RS,4303707.0
+Campinas do Sul/RS,RS,4303806.0
+Campo Bom/RS,RS,4303905.0
+Campo Novo/RS,RS,4304002.0
+Campos Borges/RS,RS,4304101.0
+Candelária/RS,RS,4304200.0
+Cândido Godói/RS,RS,4304309.0
+Candiota/RS,RS,4304358.0
+Canela/RS,RS,4304408.0
+Canguçu/RS,RS,4304507.0
+Canoas/RS,RS,4304606.0
+Canudos do Vale/RS,RS,4304614.0
+Capão Bonito do Sul/RS,RS,4304622.0
+Capão da Canoa/RS,RS,4304630.0
+Capão do Cipó/RS,RS,4304655.0
+Capivari do Sul/RS,RS,4304671.0
+Capela de Santana/RS,RS,4304689.0
+Capitão/RS,RS,4304697.0
+Carazinho/RS,RS,4304705.0
+Caraá/RS,RS,4304713.0
+Carlos Barbosa/RS,RS,4304804.0
+Carlos Gomes/RS,RS,4304853.0
+Casca/RS,RS,4304903.0
+Caseiros/RS,RS,4304952.0
+Catuípe/RS,RS,4305009.0
+Caxias do Sul/RS,RS,4305108.0
+Centenário/RS,RS,4305116.0
+Cerrito/RS,RS,4305124.0
+Cerro Branco/RS,RS,4305132.0
+Cerro Grande/RS,RS,4305157.0
+Cerro Grande do Sul/RS,RS,4305173.0
+Cerro Largo/RS,RS,4305207.0
+Chapada/RS,RS,4305306.0
+Charqueadas/RS,RS,4305355.0
+Charrua/RS,RS,4305371.0
+Chiapetta/RS,RS,4305405.0
+Chuí/RS,RS,4305439.0
+Chuvisca/RS,RS,4305447.0
+Cidreira/RS,RS,4305454.0
+Ciríaco/RS,RS,4305504.0
+Colinas/RS,RS,4305587.0
+Condor/RS,RS,4305702.0
+Constantina/RS,RS,4305801.0
+Coqueiro Baixo/RS,RS,4305835.0
+Coqueiros do Sul/RS,RS,4305850.0
+Coronel Barros/RS,RS,4305871.0
+Coronel Bicaco/RS,RS,4305900.0
+Coronel Pilar/RS,RS,4305934.0
+Cotiporã/RS,RS,4305959.0
+Coxilha/RS,RS,4305975.0
+Crissiumal/RS,RS,4306007.0
+Cristal/RS,RS,4306056.0
+Cristal do Sul/RS,RS,4306072.0
+Cruz Alta/RS,RS,4306106.0
+Cruzaltense/RS,RS,4306130.0
+Cruzeiro do Sul/RS,RS,4306205.0
+David Canabarro/RS,RS,4306304.0
+Derrubadas/RS,RS,4306320.0
+Dezesseis de Novembro/RS,RS,4306353.0
+Dilermando de Aguiar/RS,RS,4306379.0
+Dois Irmãos/RS,RS,4306403.0
+Dois Irmãos das Missões/RS,RS,4306429.0
+Dois Lajeados/RS,RS,4306452.0
+Dom Feliciano/RS,RS,4306502.0
+Dom Pedro de Alcântara/RS,RS,4306551.0
+Dom Pedrito/RS,RS,4306601.0
+Dona Francisca/RS,RS,4306700.0
+Doutor Maurício Cardoso/RS,RS,4306734.0
+Doutor Ricardo/RS,RS,4306759.0
+Eldorado do Sul/RS,RS,4306767.0
+Encantado/RS,RS,4306809.0
+Encruzilhada do Sul/RS,RS,4306908.0
+Engenho Velho/RS,RS,4306924.0
+Entre-Ijuís/RS,RS,4306932.0
+Entre Rios do Sul/RS,RS,4306957.0
+Erebango/RS,RS,4306973.0
+Erechim/RS,RS,4307005.0
+Ernestina/RS,RS,4307054.0
+Herval/RS,RS,4307104.0
+Erval Grande/RS,RS,4307203.0
+Erval Seco/RS,RS,4307302.0
+Esmeralda/RS,RS,4307401.0
+Esperança do Sul/RS,RS,4307450.0
+Espumoso/RS,RS,4307500.0
+Estação/RS,RS,4307559.0
+Estância Velha/RS,RS,4307609.0
+Esteio/RS,RS,4307708.0
+Estrela/RS,RS,4307807.0
+Estrela Velha/RS,RS,4307815.0
+Eugênio de Castro/RS,RS,4307831.0
+Farroupilha/RS,RS,4307906.0
+Faxinal do Soturno/RS,RS,4308003.0
+Faxinalzinho/RS,RS,4308052.0
+Fazenda Vilanova/RS,RS,4308078.0
+Feliz/RS,RS,4308102.0
+Flores da Cunha/RS,RS,4308201.0
+Floriano Peixoto/RS,RS,4308250.0
+Fontoura Xavier/RS,RS,4308300.0
+Formigueiro/RS,RS,4308409.0
+Forquetinha/RS,RS,4308433.0
+Fortaleza dos Valos/RS,RS,4308458.0
+Frederico Westphalen/RS,RS,4308508.0
+Garibaldi/RS,RS,4308607.0
+Garruchos/RS,RS,4308656.0
+Gaurama/RS,RS,4308706.0
+General Câmara/RS,RS,4308805.0
+Getúlio Vargas/RS,RS,4308904.0
+Giruá/RS,RS,4309001.0
+Glorinha/RS,RS,4309050.0
+Gramado/RS,RS,4309100.0
+Gramado Xavier/RS,RS,4309159.0
+Gravataí/RS,RS,4309209.0
+Guabiju/RS,RS,4309258.0
+Guaíba/RS,RS,4309308.0
+Guaporé/RS,RS,4309407.0
+Guarani das Missões/RS,RS,4309506.0
+Harmonia/RS,RS,4309555.0
+Herveiras/RS,RS,4309571.0
+Horizontina/RS,RS,4309605.0
+Hulha Negra/RS,RS,4309654.0
+Humaitá/RS,RS,4309704.0
+Ibarama/RS,RS,4309753.0
+Ibiaçá/RS,RS,4309803.0
+Ibiraiaras/RS,RS,4309902.0
+Ibirapuitã/RS,RS,4309951.0
+Ibirubá/RS,RS,4310009.0
+Igrejinha/RS,RS,4310108.0
+Ijuí/RS,RS,4310207.0
+Ilópolis/RS,RS,4310306.0
+Imbé/RS,RS,4310330.0
+Imigrante/RS,RS,4310363.0
+Independência/RS,RS,4310405.0
+Inhacorá/RS,RS,4310413.0
+Ipê/RS,RS,4310439.0
+Ipiranga do Sul/RS,RS,4310462.0
+Iraí/RS,RS,4310504.0
+Itaara/RS,RS,4310538.0
+Itacurubi/RS,RS,4310553.0
+Itapuca/RS,RS,4310579.0
+Itaqui/RS,RS,4310603.0
+Itati/RS,RS,4310652.0
+Itatiba do Sul/RS,RS,4310702.0
+Ivorá/RS,RS,4310751.0
+Ivoti/RS,RS,4310801.0
+Jaboticaba/RS,RS,4310850.0
+Jacuizinho/RS,RS,4310876.0
+Jacutinga/RS,RS,4310900.0
+Jaguarão/RS,RS,4311007.0
+Jaguari/RS,RS,4311106.0
+Jaquirana/RS,RS,4311122.0
+Jari/RS,RS,4311130.0
+Jóia/RS,RS,4311155.0
+Júlio de Castilhos/RS,RS,4311205.0
+Lagoa Bonita do Sul/RS,RS,4311239.0
+Lagoão/RS,RS,4311254.0
+Lagoa dos Três Cantos/RS,RS,4311270.0
+Lagoa Vermelha/RS,RS,4311304.0
+Lajeado/RS,RS,4311403.0
+Lajeado do Bugre/RS,RS,4311429.0
+Lavras do Sul/RS,RS,4311502.0
+Liberato Salzano/RS,RS,4311601.0
+Lindolfo Collor/RS,RS,4311627.0
+Linha Nova/RS,RS,4311643.0
+Machadinho/RS,RS,4311700.0
+Maçambará/RS,RS,4311718.0
+Mampituba/RS,RS,4311734.0
+Manoel Viana/RS,RS,4311759.0
+Maquiné/RS,RS,4311775.0
+Maratá/RS,RS,4311791.0
+Marau/RS,RS,4311809.0
+Marcelino Ramos/RS,RS,4311908.0
+Mariana Pimentel/RS,RS,4311981.0
+Marques de Souza/RS,RS,4312054.0
+Mata/RS,RS,4312104.0
+Mato Castelhano/RS,RS,4312138.0
+Mato Leitão/RS,RS,4312153.0
+Maximiliano de Almeida/RS,RS,4312203.0
+Minas do Leão/RS,RS,4312252.0
+Miraguaí/RS,RS,4312302.0
+Montauri/RS,RS,4312351.0
+Monte Alegre dos Campos/RS,RS,4312377.0
+Monte Belo do Sul/RS,RS,4312385.0
+Montenegro/RS,RS,4312401.0
+Mormaço/RS,RS,4312427.0
+Morrinhos do Sul/RS,RS,4312443.0
+Morro Redondo/RS,RS,4312450.0
+Morro Reuter/RS,RS,4312476.0
+Mostardas/RS,RS,4312500.0
+Muçum/RS,RS,4312609.0
+Muitos Capões/RS,RS,4312617.0
+Não-Me-Toque/RS,RS,4312658.0
+Nicolau Vergueiro/RS,RS,4312674.0
+Nonoai/RS,RS,4312708.0
+Nova Alvorada/RS,RS,4312757.0
+Nova Araçá/RS,RS,4312807.0
+Nova Bassano/RS,RS,4312906.0
+Nova Bréscia/RS,RS,4313003.0
+Nova Esperança do Sul/RS,RS,4313037.0
+Nova Hartz/RS,RS,4313060.0
+Nova Pádua/RS,RS,4313086.0
+Nova Palma/RS,RS,4313102.0
+Nova Petrópolis/RS,RS,4313201.0
+Nova Prata/RS,RS,4313300.0
+Nova Roma do Sul/RS,RS,4313359.0
+Nova Santa Rita/RS,RS,4313375.0
+Novo Cabrais/RS,RS,4313391.0
+Novo Hamburgo/RS,RS,4313409.0
+Novo Machado/RS,RS,4313425.0
+Novo Tiradentes/RS,RS,4313441.0
+Novo Xingu/RS,RS,4313466.0
+Novo Barreiro/RS,RS,4313490.0
+Osório/RS,RS,4313508.0
+Paim Filho/RS,RS,4313607.0
+Palmares do Sul/RS,RS,4313656.0
+Palmeira das Missões/RS,RS,4313706.0
+Palmitinho/RS,RS,4313805.0
+Panambi/RS,RS,4313904.0
+Pantano Grande/RS,RS,4313953.0
+Paraí/RS,RS,4314001.0
+Paraíso do Sul/RS,RS,4314027.0
+Pareci Novo/RS,RS,4314035.0
+Parobé/RS,RS,4314050.0
+Passa Sete/RS,RS,4314068.0
+Passo do Sobrado/RS,RS,4314076.0
+Passo Fundo/RS,RS,4314100.0
+Paulo Bento/RS,RS,4314134.0
+Paverama/RS,RS,4314159.0
+Pedras Altas/RS,RS,4314175.0
+Pedro Osório/RS,RS,4314209.0
+Pejuçara/RS,RS,4314308.0
+Pelotas/RS,RS,4314407.0
+Picada Café/RS,RS,4314423.0
+Pinhal/RS,RS,4314456.0
+Pinhal da Serra/RS,RS,4314464.0
+Pinhal Grande/RS,RS,4314472.0
+Pinheirinho do Vale/RS,RS,4314498.0
+Pinheiro Machado/RS,RS,4314506.0
+Pinto Bandeira/RS,RS,4314548.0
+Pirapó/RS,RS,4314555.0
+Piratini/RS,RS,4314605.0
+Planalto/RS,RS,4314704.0
+Poço das Antas/RS,RS,4314753.0
+Pontão/RS,RS,4314779.0
+Ponte Preta/RS,RS,4314787.0
+Portão/RS,RS,4314803.0
+Porto Alegre/RS,RS,4314902.0
+Porto Lucena/RS,RS,4315008.0
+Porto Mauá/RS,RS,4315057.0
+Porto Vera Cruz/RS,RS,4315073.0
+Porto Xavier/RS,RS,4315107.0
+Pouso Novo/RS,RS,4315131.0
+Presidente Lucena/RS,RS,4315149.0
+Progresso/RS,RS,4315156.0
+Protásio Alves/RS,RS,4315172.0
+Putinga/RS,RS,4315206.0
+Quaraí/RS,RS,4315305.0
+Quevedos/RS,RS,4315321.0
+Quinze de Novembro/RS,RS,4315354.0
+Redentora/RS,RS,4315404.0
+Relvado/RS,RS,4315453.0
+Restinga Sêca/RS,RS,4315503.0
+Rio dos Índios/RS,RS,4315552.0
+Rio Grande/RS,RS,4315602.0
+Rio Pardo/RS,RS,4315701.0
+Riozinho/RS,RS,4315750.0
+Roca Sales/RS,RS,4315800.0
+Rodeio Bonito/RS,RS,4315909.0
+Rolador/RS,RS,4315958.0
+Rolante/RS,RS,4316006.0
+Ronda Alta/RS,RS,4316105.0
+Rondinha/RS,RS,4316204.0
+Roque Gonzales/RS,RS,4316303.0
+Rosário do Sul/RS,RS,4316402.0
+Sagrada Família/RS,RS,4316428.0
+Saldanha Marinho/RS,RS,4316436.0
+Salto do Jacuí/RS,RS,4316451.0
+Salvador das Missões/RS,RS,4316477.0
+Salvador do Sul/RS,RS,4316501.0
+Sananduva/RS,RS,4316600.0
+Santa Bárbara do Sul/RS,RS,4316709.0
+Santa Cecília do Sul/RS,RS,4316733.0
+Santa Clara do Sul/RS,RS,4316758.0
+Santa Cruz do Sul/RS,RS,4316808.0
+Santa Maria/RS,RS,4316907.0
+Santa Maria do Herval/RS,RS,4316956.0
+Santa Margarida do Sul/RS,RS,4316972.0
+Santana da Boa Vista/RS,RS,4317004.0
+Sant'Ana do Livramento/RS,RS,4317103.0
+Santa Rosa/RS,RS,4317202.0
+Santa Tereza/RS,RS,4317251.0
+Santa Vitória do Palmar/RS,RS,4317301.0
+Santiago/RS,RS,4317400.0
+Santo Ângelo/RS,RS,4317509.0
+Santo Antônio do Palma/RS,RS,4317558.0
+Santo Antônio da Patrulha/RS,RS,4317608.0
+Santo Antônio das Missões/RS,RS,4317707.0
+Santo Antônio do Planalto/RS,RS,4317756.0
+Santo Augusto/RS,RS,4317806.0
+Santo Cristo/RS,RS,4317905.0
+Santo Expedito do Sul/RS,RS,4317954.0
+São Borja/RS,RS,4318002.0
+São Domingos do Sul/RS,RS,4318051.0
+São Francisco de Assis/RS,RS,4318101.0
+São Francisco de Paula/RS,RS,4318200.0
+São Gabriel/RS,RS,4318309.0
+São Jerônimo/RS,RS,4318408.0
+São João da Urtiga/RS,RS,4318424.0
+São João do Polêsine/RS,RS,4318432.0
+São Jorge/RS,RS,4318440.0
+São José das Missões/RS,RS,4318457.0
+São José do Herval/RS,RS,4318465.0
+São José do Hortêncio/RS,RS,4318481.0
+São José do Norte/RS,RS,4318507.0
+São José do Ouro/RS,RS,4318606.0
+São José do Sul/RS,RS,4318614.0
+São José dos Ausentes/RS,RS,4318622.0
+São Leopoldo/RS,RS,4318705.0
+São Lourenço do Sul/RS,RS,4318804.0
+São Luiz Gonzaga/RS,RS,4318903.0
+São Marcos/RS,RS,4319000.0
+São Martinho/RS,RS,4319109.0
+São Martinho da Serra/RS,RS,4319125.0
+São Miguel das Missões/RS,RS,4319158.0
+São Nicolau/RS,RS,4319208.0
+São Paulo das Missões/RS,RS,4319307.0
+São Pedro da Serra/RS,RS,4319356.0
+São Pedro das Missões/RS,RS,4319364.0
+São Pedro do Butiá/RS,RS,4319372.0
+São Pedro do Sul/RS,RS,4319406.0
+São Sebastião do Caí/RS,RS,4319505.0
+São Sepé/RS,RS,4319604.0
+São Valentim/RS,RS,4319703.0
+São Valentim do Sul/RS,RS,4319711.0
+São Vendelino/RS,RS,4319752.0
+São Vicente do Sul/RS,RS,4319802.0
+Sapiranga/RS,RS,4319901.0
+Sapucaia do Sul/RS,RS,4320008.0
+Sarandi/RS,RS,4320107.0
+Seberi/RS,RS,4320206.0
+Segredo/RS,RS,4320263.0
+Selbach/RS,RS,4320305.0
+Senador Salgado Filho/RS,RS,4320321.0
+Sentinela do Sul/RS,RS,4320354.0
+Serafina Corrêa/RS,RS,4320404.0
+Sério/RS,RS,4320453.0
+Sertão/RS,RS,4320503.0
+Sertão Santana/RS,RS,4320552.0
+Sete de Setembro/RS,RS,4320578.0
+Silveira Martins/RS,RS,4320651.0
+Sinimbu/RS,RS,4320677.0
+Sobradinho/RS,RS,4320701.0
+Soledade/RS,RS,4320800.0
+Tabaí/RS,RS,4320859.0
+Tapejara/RS,RS,4320909.0
+Tapera/RS,RS,4321006.0
+Tapes/RS,RS,4321105.0
+Taquara/RS,RS,4321204.0
+Taquari/RS,RS,4321303.0
+Taquaruçu do Sul/RS,RS,4321329.0
+Tavares/RS,RS,4321352.0
+Tenente Portela/RS,RS,4321402.0
+Terra de Areia/RS,RS,4321436.0
+Teutônia/RS,RS,4321451.0
+Tio Hugo/RS,RS,4321469.0
+Tiradentes do Sul/RS,RS,4321477.0
+Toropi/RS,RS,4321493.0
+Torres/RS,RS,4321501.0
+Tramandaí/RS,RS,4321600.0
+Travesseiro/RS,RS,4321626.0
+Três Cachoeiras/RS,RS,4321667.0
+Três Coroas/RS,RS,4321709.0
+Três de Maio/RS,RS,4321808.0
+Três Forquilhas/RS,RS,4321832.0
+Três Palmeiras/RS,RS,4321857.0
+Três Passos/RS,RS,4321907.0
+Trindade do Sul/RS,RS,4321956.0
+Triunfo/RS,RS,4322004.0
+Tucunduva/RS,RS,4322103.0
+Tunas/RS,RS,4322152.0
+Tupanci do Sul/RS,RS,4322186.0
+Tupanciretã/RS,RS,4322202.0
+Tupandi/RS,RS,4322251.0
+Tuparendi/RS,RS,4322301.0
+Turuçu/RS,RS,4322327.0
+União da Serra/RS,RS,4322350.0
+Unistalda/RS,RS,4322376.0
+Uruguaiana/RS,RS,4322400.0
+Vacaria/RS,RS,4322509.0
+Vale Verde/RS,RS,4322525.0
+Vale do Sol/RS,RS,4322533.0
+Vale Real/RS,RS,4322541.0
+Vanini/RS,RS,4322558.0
+Venâncio Aires/RS,RS,4322608.0
+Vera Cruz/RS,RS,4322707.0
+Veranópolis/RS,RS,4322806.0
+Vespasiano Corrêa/RS,RS,4322855.0
+Viadutos/RS,RS,4322905.0
+Viamão/RS,RS,4323002.0
+Vicente Dutra/RS,RS,4323101.0
+Victor Graeff/RS,RS,4323200.0
+Vila Flores/RS,RS,4323309.0
+Vila Lângaro/RS,RS,4323358.0
+Vila Maria/RS,RS,4323408.0
+Vila Nova do Sul/RS,RS,4323457.0
+Vista Alegre/RS,RS,4323507.0
+Vista Alegre do Prata/RS,RS,4323606.0
+Vista Gaúcha/RS,RS,4323705.0
+Vitória das Missões/RS,RS,4323754.0
+Westfália/RS,RS,4323770.0
+Xangri-lá/RS,RS,4323804.0
+Água Clara/MS,MS,5000203.0
+Alcinópolis/MS,MS,5000252.0
+Amambai/MS,MS,5000609.0
+Anastácio/MS,MS,5000708.0
+Anaurilândia/MS,MS,5000807.0
+Angélica/MS,MS,5000856.0
+Antônio João/MS,MS,5000906.0
+Aparecida do Taboado/MS,MS,5001003.0
+Aquidauana/MS,MS,5001102.0
+Aral Moreira/MS,MS,5001243.0
+Bandeirantes/MS,MS,5001508.0
+Bataguassu/MS,MS,5001904.0
+Batayporã/MS,MS,5002001.0
+Bela Vista/MS,MS,5002100.0
+Bodoquena/MS,MS,5002159.0
+Bonito/MS,MS,5002209.0
+Brasilândia/MS,MS,5002308.0
+Caarapó/MS,MS,5002407.0
+Camapuã/MS,MS,5002605.0
+Campo Grande/MS,MS,5002704.0
+Caracol/MS,MS,5002803.0
+Cassilândia/MS,MS,5002902.0
+Chapadão do Sul/MS,MS,5002951.0
+Corguinho/MS,MS,5003108.0
+Coronel Sapucaia/MS,MS,5003157.0
+Corumbá/MS,MS,5003207.0
+Costa Rica/MS,MS,5003256.0
+Coxim/MS,MS,5003306.0
+Deodápolis/MS,MS,5003454.0
+Dois Irmãos do Buriti/MS,MS,5003488.0
+Douradina/MS,MS,5003504.0
+Dourados/MS,MS,5003702.0
+Eldorado/MS,MS,5003751.0
+Fátima do Sul/MS,MS,5003801.0
+Figueirão/MS,MS,5003900.0
+Glória de Dourados/MS,MS,5004007.0
+Guia Lopes da Laguna/MS,MS,5004106.0
+Iguatemi/MS,MS,5004304.0
+Inocência/MS,MS,5004403.0
+Itaporã/MS,MS,5004502.0
+Itaquiraí/MS,MS,5004601.0
+Ivinhema/MS,MS,5004700.0
+Japorã/MS,MS,5004809.0
+Jaraguari/MS,MS,5004908.0
+Jardim/MS,MS,5005004.0
+Jateí/MS,MS,5005103.0
+Juti/MS,MS,5005152.0
+Ladário/MS,MS,5005202.0
+Laguna Carapã/MS,MS,5005251.0
+Maracaju/MS,MS,5005400.0
+Miranda/MS,MS,5005608.0
+Mundo Novo/MS,MS,5005681.0
+Naviraí/MS,MS,5005707.0
+Nioaque/MS,MS,5005806.0
+Nova Alvorada do Sul/MS,MS,5006002.0
+Nova Andradina/MS,MS,5006200.0
+Novo Horizonte do Sul/MS,MS,5006259.0
+Paraíso das Águas/MS,MS,5006275.0
+Paranaíba/MS,MS,5006309.0
+Paranhos/MS,MS,5006358.0
+Pedro Gomes/MS,MS,5006408.0
+Ponta Porã/MS,MS,5006606.0
+Porto Murtinho/MS,MS,5006903.0
+Ribas do Rio Pardo/MS,MS,5007109.0
+Rio Brilhante/MS,MS,5007208.0
+Rio Negro/MS,MS,5007307.0
+Rio Verde de Mato Grosso/MS,MS,5007406.0
+Rochedo/MS,MS,5007505.0
+Santa Rita do Pardo/MS,MS,5007554.0
+São Gabriel do Oeste/MS,MS,5007695.0
+Sete Quedas/MS,MS,5007703.0
+Selvíria/MS,MS,5007802.0
+Sidrolândia/MS,MS,5007901.0
+Sonora/MS,MS,5007935.0
+Tacuru/MS,MS,5007950.0
+Taquarussu/MS,MS,5007976.0
+Terenos/MS,MS,5008008.0
+Três Lagoas/MS,MS,5008305.0
+Vicentina/MS,MS,5008404.0
+Acorizal/MT,MT,5100102.0
+Água Boa/MT,MT,5100201.0
+Alta Floresta/MT,MT,5100250.0
+Alto Araguaia/MT,MT,5100300.0
+Alto Boa Vista/MT,MT,5100359.0
+Alto Garças/MT,MT,5100409.0
+Alto Paraguai/MT,MT,5100508.0
+Alto Taquari/MT,MT,5100607.0
+Apiacás/MT,MT,5100805.0
+Araguaiana/MT,MT,5101001.0
+Araguainha/MT,MT,5101209.0
+Araputanga/MT,MT,5101258.0
+Arenápolis/MT,MT,5101308.0
+Aripuanã/MT,MT,5101407.0
+Barão de Melgaço/MT,MT,5101605.0
+Barra do Bugres/MT,MT,5101704.0
+Barra do Garças/MT,MT,5101803.0
+Bom Jesus do Araguaia/MT,MT,5101852.0
+Brasnorte/MT,MT,5101902.0
+Cáceres/MT,MT,5102504.0
+Campinápolis/MT,MT,5102603.0
+Campo Novo do Parecis/MT,MT,5102637.0
+Campo Verde/MT,MT,5102678.0
+Campos de Júlio/MT,MT,5102686.0
+Canabrava do Norte/MT,MT,5102694.0
+Canarana/MT,MT,5102702.0
+Carlinda/MT,MT,5102793.0
+Castanheira/MT,MT,5102850.0
+Chapada dos Guimarães/MT,MT,5103007.0
+Cláudia/MT,MT,5103056.0
+Cocalinho/MT,MT,5103106.0
+Colíder/MT,MT,5103205.0
+Colniza/MT,MT,5103254.0
+Comodoro/MT,MT,5103304.0
+Confresa/MT,MT,5103353.0
+Conquista D'Oeste/MT,MT,5103361.0
+Cotriguaçu/MT,MT,5103379.0
+Cuiabá/MT,MT,5103403.0
+Curvelândia/MT,MT,5103437.0
+Denise/MT,MT,5103452.0
+Diamantino/MT,MT,5103502.0
+Dom Aquino/MT,MT,5103601.0
+Feliz Natal/MT,MT,5103700.0
+Figueirópolis D'Oeste/MT,MT,5103809.0
+Gaúcha do Norte/MT,MT,5103858.0
+General Carneiro/MT,MT,5103908.0
+Glória D'Oeste/MT,MT,5103957.0
+Guarantã do Norte/MT,MT,5104104.0
+Guiratinga/MT,MT,5104203.0
+Indiavaí/MT,MT,5104500.0
+Ipiranga do Norte/MT,MT,5104526.0
+Itanhangá/MT,MT,5104542.0
+Itaúba/MT,MT,5104559.0
+Itiquira/MT,MT,5104609.0
+Jaciara/MT,MT,5104807.0
+Jangada/MT,MT,5104906.0
+Jauru/MT,MT,5105002.0
+Juara/MT,MT,5105101.0
+Juína/MT,MT,5105150.0
+Juruena/MT,MT,5105176.0
+Juscimeira/MT,MT,5105200.0
+Lambari D'Oeste/MT,MT,5105234.0
+Lucas do Rio Verde/MT,MT,5105259.0
+Luciara/MT,MT,5105309.0
+Vila Bela da Santíssima Trindade/MT,MT,5105507.0
+Marcelândia/MT,MT,5105580.0
+Matupá/MT,MT,5105606.0
+Mirassol d'Oeste/MT,MT,5105622.0
+Nobres/MT,MT,5105903.0
+Nortelândia/MT,MT,5106000.0
+Nossa Senhora do Livramento/MT,MT,5106109.0
+Nova Bandeirantes/MT,MT,5106158.0
+Nova Nazaré/MT,MT,5106174.0
+Nova Lacerda/MT,MT,5106182.0
+Nova Santa Helena/MT,MT,5106190.0
+Nova Brasilândia/MT,MT,5106208.0
+Nova Canaã do Norte/MT,MT,5106216.0
+Nova Mutum/MT,MT,5106224.0
+Nova Olímpia/MT,MT,5106232.0
+Nova Ubiratã/MT,MT,5106240.0
+Nova Xavantina/MT,MT,5106257.0
+Novo Mundo/MT,MT,5106265.0
+Novo Horizonte do Norte/MT,MT,5106273.0
+Novo São Joaquim/MT,MT,5106281.0
+Paranaíta/MT,MT,5106299.0
+Paranatinga/MT,MT,5106307.0
+Novo Santo Antônio/MT,MT,5106315.0
+Pedra Preta/MT,MT,5106372.0
+Peixoto de Azevedo/MT,MT,5106422.0
+Planalto da Serra/MT,MT,5106455.0
+Poconé/MT,MT,5106505.0
+Ponte Branca/MT,MT,5106703.0
+Pontes e Lacerda/MT,MT,5106752.0
+Porto Alegre do Norte/MT,MT,5106778.0
+Porto dos Gaúchos/MT,MT,5106802.0
+Porto Esperidião/MT,MT,5106828.0
+Porto Estrela/MT,MT,5106851.0
+Poxoréu/MT,MT,5107008.0
+Primavera do Leste/MT,MT,5107040.0
+Querência/MT,MT,5107065.0
+São José dos Quatro Marcos/MT,MT,5107107.0
+Reserva do Cabaçal/MT,MT,5107156.0
+Ribeirão Cascalheira/MT,MT,5107180.0
+Ribeirãozinho/MT,MT,5107198.0
+Rio Branco/MT,MT,5107206.0
+Santa Carmem/MT,MT,5107248.0
+Santo Afonso/MT,MT,5107263.0
+São José do Povo/MT,MT,5107297.0
+São José do Rio Claro/MT,MT,5107305.0
+São José do Xingu/MT,MT,5107354.0
+São Pedro da Cipa/MT,MT,5107404.0
+Rondolândia/MT,MT,5107578.0
+Rondonópolis/MT,MT,5107602.0
+Rosário Oeste/MT,MT,5107701.0
+Santa Cruz do Xingu/MT,MT,5107743.0
+Salto do Céu/MT,MT,5107750.0
+Santa Rita do Trivelato/MT,MT,5107768.0
+Santa Terezinha/MT,MT,5107776.0
+Santo Antônio do Leste/MT,MT,5107792.0
+Santo Antônio do Leverger/MT,MT,5107800.0
+São Félix do Araguaia/MT,MT,5107859.0
+Sapezal/MT,MT,5107875.0
+Serra Nova Dourada/MT,MT,5107883.0
+Sinop/MT,MT,5107909.0
+Sorriso/MT,MT,5107925.0
+Tabaporã/MT,MT,5107941.0
+Tangará da Serra/MT,MT,5107958.0
+Tapurah/MT,MT,5108006.0
+Terra Nova do Norte/MT,MT,5108055.0
+Tesouro/MT,MT,5108105.0
+Torixoréu/MT,MT,5108204.0
+União do Sul/MT,MT,5108303.0
+Vale de São Domingos/MT,MT,5108352.0
+Várzea Grande/MT,MT,5108402.0
+Vera/MT,MT,5108501.0
+Vila Rica/MT,MT,5108600.0
+Nova Marilândia/MT,MT,5108857.0
+Nova Maringá/MT,MT,5108907.0
+Nova Monte Verde/MT,MT,5108956.0
+Abadia de Goiás/GO,GO,5200050.0
+Abadiânia/GO,GO,5200100.0
+Acreúna/GO,GO,5200134.0
+Adelândia/GO,GO,5200159.0
+Água Fria de Goiás/GO,GO,5200175.0
+Água Limpa/GO,GO,5200209.0
+Águas Lindas de Goiás/GO,GO,5200258.0
+Alexânia/GO,GO,5200308.0
+Alto Horizonte/GO,GO,5200555.0
+Alto Paraíso de Goiás/GO,GO,5200605.0
+Alvorada do Norte/GO,GO,5200803.0
+Americano do Brasil/GO,GO,5200852.0
+Amorinópolis/GO,GO,5200902.0
+Anápolis/GO,GO,5201108.0
+Anhanguera/GO,GO,5201207.0
+Anicuns/GO,GO,5201306.0
+Aparecida de Goiânia/GO,GO,5201405.0
+Aparecida do Rio Doce/GO,GO,5201454.0
+Araçu/GO,GO,5201603.0
+Aragarças/GO,GO,5201702.0
+Aragoiânia/GO,GO,5201801.0
+Araguapaz/GO,GO,5202155.0
+Arenópolis/GO,GO,5202353.0
+Aruanã/GO,GO,5202502.0
+Aurilândia/GO,GO,5202601.0
+Avelinópolis/GO,GO,5202809.0
+Baliza/GO,GO,5203104.0
+Barro Alto/GO,GO,5203203.0
+Bela Vista de Goiás/GO,GO,5203302.0
+Bom Jardim de Goiás/GO,GO,5203401.0
+Bom Jesus de Goiás/GO,GO,5203500.0
+Bonfinópolis/GO,GO,5203559.0
+Bonópolis/GO,GO,5203575.0
+Brazabrantes/GO,GO,5203609.0
+Britânia/GO,GO,5203807.0
+Buriti Alegre/GO,GO,5203906.0
+Buriti de Goiás/GO,GO,5203939.0
+Cabeceiras/GO,GO,5204003.0
+Cachoeira Alta/GO,GO,5204102.0
+Cachoeira de Goiás/GO,GO,5204201.0
+Cachoeira Dourada/GO,GO,5204250.0
+Caçu/GO,GO,5204300.0
+Caiapônia/GO,GO,5204409.0
+Caldas Novas/GO,GO,5204508.0
+Campestre de Goiás/GO,GO,5204607.0
+Campinaçu/GO,GO,5204656.0
+Campinorte/GO,GO,5204706.0
+Campo Alegre de Goiás/GO,GO,5204805.0
+Campo Limpo de Goiás/GO,GO,5204854.0
+Campos Belos/GO,GO,5204904.0
+Campos Verdes/GO,GO,5204953.0
+Carmo do Rio Verde/GO,GO,5205000.0
+Castelândia/GO,GO,5205059.0
+Catalão/GO,GO,5205109.0
+Caturaí/GO,GO,5205208.0
+Cavalcante/GO,GO,5205307.0
+Ceres/GO,GO,5205406.0
+Cezarina/GO,GO,5205455.0
+Chapadão do Céu/GO,GO,5205471.0
+Cidade Ocidental/GO,GO,5205497.0
+Cocalzinho de Goiás/GO,GO,5205513.0
+Colinas do Sul/GO,GO,5205521.0
+Córrego do Ouro/GO,GO,5205703.0
+Corumbá de Goiás/GO,GO,5205802.0
+Corumbaíba/GO,GO,5205901.0
+Cristalina/GO,GO,5206206.0
+Cristianópolis/GO,GO,5206305.0
+Crixás/GO,GO,5206404.0
+Cromínia/GO,GO,5206503.0
+Cumari/GO,GO,5206602.0
+Damianópolis/GO,GO,5206701.0
+Damolândia/GO,GO,5206800.0
+Davinópolis/GO,GO,5206909.0
+Diorama/GO,GO,5207105.0
+Doverlândia/GO,GO,5207253.0
+Edealina/GO,GO,5207352.0
+Edéia/GO,GO,5207402.0
+Estrela do Norte/GO,GO,5207501.0
+Faina/GO,GO,5207535.0
+Fazenda Nova/GO,GO,5207600.0
+Firminópolis/GO,GO,5207808.0
+Flores de Goiás/GO,GO,5207907.0
+Formosa/GO,GO,5208004.0
+Formoso/GO,GO,5208103.0
+Gameleira de Goiás/GO,GO,5208152.0
+Divinópolis de Goiás/GO,GO,5208301.0
+Goianápolis/GO,GO,5208400.0
+Goiandira/GO,GO,5208509.0
+Goianésia/GO,GO,5208608.0
+Goiânia/GO,GO,5208707.0
+Goianira/GO,GO,5208806.0
+Goiás/GO,GO,5208905.0
+Goiatuba/GO,GO,5209101.0
+Gouvelândia/GO,GO,5209150.0
+Guapó/GO,GO,5209200.0
+Guarani de Goiás/GO,GO,5209408.0
+Guarinos/GO,GO,5209457.0
+Heitoraí/GO,GO,5209606.0
+Hidrolândia/GO,GO,5209705.0
+Hidrolina/GO,GO,5209804.0
+Iaciara/GO,GO,5209903.0
+Inaciolândia/GO,GO,5209937.0
+Indiara/GO,GO,5209952.0
+Inhumas/GO,GO,5210000.0
+Ipameri/GO,GO,5210109.0
+Ipiranga de Goiás/GO,GO,5210158.0
+Iporá/GO,GO,5210208.0
+Israelândia/GO,GO,5210307.0
+Itaberaí/GO,GO,5210406.0
+Itaguari/GO,GO,5210562.0
+Itaguaru/GO,GO,5210604.0
+Itajá/GO,GO,5210802.0
+Itapaci/GO,GO,5210901.0
+Itapirapuã/GO,GO,5211008.0
+Itapuranga/GO,GO,5211206.0
+Itarumã/GO,GO,5211305.0
+Itauçu/GO,GO,5211404.0
+Itumbiara/GO,GO,5211503.0
+Ivolândia/GO,GO,5211602.0
+Jandaia/GO,GO,5211701.0
+Jaraguá/GO,GO,5211800.0
+Jataí/GO,GO,5211909.0
+Jaupaci/GO,GO,5212006.0
+Jesúpolis/GO,GO,5212055.0
+Joviânia/GO,GO,5212105.0
+Jussara/GO,GO,5212204.0
+Leopoldo de Bulhões/GO,GO,5212303.0
+Luziânia/GO,GO,5212501.0
+Mairipotaba/GO,GO,5212600.0
+Mambaí/GO,GO,5212709.0
+Mara Rosa/GO,GO,5212808.0
+Marzagão/GO,GO,5212907.0
+Matrinchã/GO,GO,5212956.0
+Maurilândia/GO,GO,5213004.0
+Mimoso de Goiás/GO,GO,5213053.0
+Minaçu/GO,GO,5213087.0
+Mineiros/GO,GO,5213103.0
+Moiporá/GO,GO,5213400.0
+Monte Alegre de Goiás/GO,GO,5213509.0
+Montes Claros de Goiás/GO,GO,5213707.0
+Montividiu/GO,GO,5213756.0
+Montividiu do Norte/GO,GO,5213772.0
+Morrinhos/GO,GO,5213806.0
+Morro Agudo de Goiás/GO,GO,5213855.0
+Mossâmedes/GO,GO,5213905.0
+Mozarlândia/GO,GO,5214002.0
+Mundo Novo/GO,GO,5214051.0
+Mutunópolis/GO,GO,5214101.0
+Nazário/GO,GO,5214408.0
+Nerópolis/GO,GO,5214507.0
+Niquelândia/GO,GO,5214606.0
+Nova América/GO,GO,5214705.0
+Nova Aurora/GO,GO,5214804.0
+Nova Crixás/GO,GO,5214838.0
+Nova Glória/GO,GO,5214861.0
+Nova Iguaçu de Goiás/GO,GO,5214879.0
+Nova Roma/GO,GO,5214903.0
+Nova Veneza/GO,GO,5215009.0
+Novo Brasil/GO,GO,5215207.0
+Novo Gama/GO,GO,5215231.0
+Novo Planalto/GO,GO,5215256.0
+Orizona/GO,GO,5215306.0
+Ouro Verde de Goiás/GO,GO,5215405.0
+Ouvidor/GO,GO,5215504.0
+Padre Bernardo/GO,GO,5215603.0
+Palestina de Goiás/GO,GO,5215652.0
+Palmeiras de Goiás/GO,GO,5215702.0
+Palmelo/GO,GO,5215801.0
+Palminópolis/GO,GO,5215900.0
+Panamá/GO,GO,5216007.0
+Paranaiguara/GO,GO,5216304.0
+Paraúna/GO,GO,5216403.0
+Perolândia/GO,GO,5216452.0
+Petrolina de Goiás/GO,GO,5216809.0
+Pilar de Goiás/GO,GO,5216908.0
+Piracanjuba/GO,GO,5217104.0
+Piranhas/GO,GO,5217203.0
+Pirenópolis/GO,GO,5217302.0
+Pires do Rio/GO,GO,5217401.0
+Planaltina/GO,GO,5217609.0
+Pontalina/GO,GO,5217708.0
+Porangatu/GO,GO,5218003.0
+Porteirão/GO,GO,5218052.0
+Portelândia/GO,GO,5218102.0
+Posse/GO,GO,5218300.0
+Professor Jamil/GO,GO,5218391.0
+Quirinópolis/GO,GO,5218508.0
+Rialma/GO,GO,5218607.0
+Rianápolis/GO,GO,5218706.0
+Rio Quente/GO,GO,5218789.0
+Rio Verde/GO,GO,5218805.0
+Rubiataba/GO,GO,5218904.0
+Sanclerlândia/GO,GO,5219001.0
+Santa Bárbara de Goiás/GO,GO,5219100.0
+Santa Cruz de Goiás/GO,GO,5219209.0
+Santa Fé de Goiás/GO,GO,5219258.0
+Santa Helena de Goiás/GO,GO,5219308.0
+Santa Isabel/GO,GO,5219357.0
+Santa Rita do Araguaia/GO,GO,5219407.0
+Santa Rita do Novo Destino/GO,GO,5219456.0
+Santa Rosa de Goiás/GO,GO,5219506.0
+Santa Tereza de Goiás/GO,GO,5219605.0
+Santa Terezinha de Goiás/GO,GO,5219704.0
+Santo Antônio da Barra/GO,GO,5219712.0
+Santo Antônio de Goiás/GO,GO,5219738.0
+Santo Antônio do Descoberto/GO,GO,5219753.0
+São Domingos/GO,GO,5219803.0
+São Francisco de Goiás/GO,GO,5219902.0
+São João d'Aliança/GO,GO,5220009.0
+São João da Paraúna/GO,GO,5220058.0
+São Luís de Montes Belos/GO,GO,5220108.0
+São Luiz do Norte/GO,GO,5220157.0
+São Miguel do Araguaia/GO,GO,5220207.0
+São Simão/GO,GO,5220405.0
+Senador Canedo/GO,GO,5220454.0
+Serranópolis/GO,GO,5220504.0
+Silvânia/GO,GO,5220603.0
+Simolândia/GO,GO,5220686.0
+Sítio d'Abadia/GO,GO,5220702.0
+Taquaral de Goiás/GO,GO,5221007.0
+Teresina de Goiás/GO,GO,5221080.0
+Terezópolis de Goiás/GO,GO,5221197.0
+Três Ranchos/GO,GO,5221304.0
+Trindade/GO,GO,5221403.0
+Trombas/GO,GO,5221452.0
+Turvânia/GO,GO,5221502.0
+Turvelândia/GO,GO,5221551.0
+Uirapuru/GO,GO,5221577.0
+Uruaçu/GO,GO,5221601.0
+Uruana/GO,GO,5221700.0
+Urutaí/GO,GO,5221809.0
+Valparaíso de Goiás/GO,GO,5221858.0
+Varjão/GO,GO,5221908.0
+Vianópolis/GO,GO,5222005.0
+Vicentinópolis/GO,GO,5222054.0
+Vila Boa/GO,GO,5222203.0
+Vila Propício/GO,GO,5222302.0
+Brasília/DF,DF,5300108.0
