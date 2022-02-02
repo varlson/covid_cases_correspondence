@@ -11,11 +11,11 @@ from process import *
 _tuple = []
 in_path = 'input_datas/filtred/north_of_brazil'
 out_path = 'output/north_of_brazil'
-name='terrestrial'
-graph = ig.Graph.Read_GraphML('input_datas/terrestrial.GraphML')
-mobility = pd.read_csv(in_path+'/terrestrial.csv')
+name='fluvial'
+graph = ig.Graph.Read_GraphML('input_datas/fluvial.GraphML')
+mobility = pd.read_csv(in_path+'/fluvial.csv')
 
-ausentes = csv_loader(in_path+'/terrestrial')
+ausentes = csv_loader(in_path+'/fluvial')
 
 degree = sort_by_metric(graph, "degree")
 betweenness = sort_by_metric(graph, "betweenness")
