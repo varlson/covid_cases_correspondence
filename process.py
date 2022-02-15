@@ -332,6 +332,8 @@ def amazonas_extractor(dataFrame, netwwork, output_path):
                 geocode.append(df_geocodes[index])
             except:
                 ausentes.append(geocod)
+        else:
+            ausentes.append(geocod)
        
     
     df={}
